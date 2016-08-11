@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.Batch
 Module Guid: a8f00f40-1c1a-49b5-9db3-24076b75c3cf
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 

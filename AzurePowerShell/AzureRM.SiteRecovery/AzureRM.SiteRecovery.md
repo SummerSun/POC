@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.SiteRecovery
 Module Guid: d1de7560-48e1-48f3-bc8c-4eea3af2bbe1
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 

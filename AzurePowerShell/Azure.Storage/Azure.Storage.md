@@ -1,8 +1,8 @@
 ---
 Module Name: Azure.Storage
 Module Guid: 00612bca-fa22-401d-a671-9cc48b010e3b
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 

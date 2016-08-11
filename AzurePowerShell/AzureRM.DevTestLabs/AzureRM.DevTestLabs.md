@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.DevTestLabs
 Module Guid: be2ca175-bfb9-4601-b01c-4de13eb2105c
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 

@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.TrafficManager
 Module Guid: 59713673-194f-418a-b1f2-ac60db82edf9
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
