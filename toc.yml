@@ -5,14 +5,14 @@
         - name: v1.0
           items:
             - name: Active Directory Cmdlets
-              href:.\azureps-cmdlets-docs\Active Directory\v1.0\Active Directory Cmdlets\AzureRM.API Management.md
+              href: .\azureps-cmdlets-docs\Active Directory\v1.0\Active Directory Cmdlets\AzureRM.API Management.md
               items:
                 - name: Add-AzureRmApiManagementRegion
                   href: .\azureps-cmdlets-docs\Active Directory\v1.0\Active Directory Cmdlets\Add-AzureRmApiManagementRegion.md
         - name: v2.0
           items:
             - name: Active Directory Cmdlets
-              href:.\azureps-cmdlets-docs\Active Directory\v2.0\Active Directory Cmdlets\AzureRM.API Management.md
+              href: .\azureps-cmdlets-docs\Active Directory\v2.0\Active Directory Cmdlets\AzureRM.API Management.md
               items:
                 - name: Add-AzureRmApiManagementRegion
                   href: .\azureps-cmdlets-docs\Active Directory\v2.0\Active Directory Cmdlets\Add-AzureRmApiManagementRegion.md
@@ -21,7 +21,7 @@
         - name: v0.9.8
           items:
             - name: API Management Cmdlets
-              href:.\azureps-cmdlets-docs\Resource Manager\v0.9.8\API Management Cmdlets\AzureRM.API Management.md
+              href: .\azureps-cmdlets-docs\Resource Manager\v0.9.8\API Management Cmdlets\AzureRM.API Management.md
               items:
                 - name: Add-AzureRmApiManagementRegion
                   href: .\azureps-cmdlets-docs\Resource Manager\v0.9.8\API Management Cmdlets\Add-AzureRmApiManagementRegion.md
@@ -54,7 +54,7 @@
                 - name: Update-AzureRmApiManagementRegion
                   href: .\azureps-cmdlets-docs\Resource Manager\v0.9.8\API Management Cmdlets\Update-AzureRmApiManagementRegion.md
             - name: Automation Cmdlets
-              href:.\azureps-cmdlets-docs\Resource Manager\v0.9.8\Automation Cmdlets\AzureRM.Automation.md
+              href: .\azureps-cmdlets-docs\Resource Manager\v0.9.8\Automation Cmdlets\AzureRM.Automation.md
               items:
                 - name: Export-AzureRmAutomationDscConfiguration
                   href: .\azureps-cmdlets-docs\Resource Manager\v0.9.8\Automation Cmdlets\Export-AzureRmAutomationDscConfiguration.md
@@ -199,7 +199,7 @@
         - name: v1.0
           items:
             - name: API Management Cmdlets
-              href:.\azureps-cmdlets-docs\Resource Manager\v1.0\API Management Cmdlets\AzureRM.API Management.md
+              href: .\azureps-cmdlets-docs\Resource Manager\v1.0\API Management Cmdlets\AzureRM.API Management.md
               items:
                 - name: Add-AzureRmApiManagementRegion
                   href: .\azureps-cmdlets-docs\Resource Manager\v1.0\API Management Cmdlets\Add-AzureRmApiManagementRegion.md
@@ -232,7 +232,7 @@
                 - name: Update-AzureRmApiManagementRegion
                   href: .\azureps-cmdlets-docs\Resource Manager\v1.0\API Management Cmdlets\Update-AzureRmApiManagementRegion.md
             - name: Automation Cmdlets
-              href:.\azureps-cmdlets-docs\Resource Manager\v1.0\Automation Cmdlets\AzureRM.Automation.md
+              href: .\azureps-cmdlets-docs\Resource Manager\v1.0\Automation Cmdlets\AzureRM.Automation.md
               items:
                 - name: Export-AzureRmAutomationDscConfiguration
                   href: .\azureps-cmdlets-docs\Resource Manager\v1.0\Automation Cmdlets\Export-AzureRmAutomationDscConfiguration.md
@@ -379,7 +379,7 @@
         - name: v0.9.8
           items:
             - name: Antimalware Cmdlets
-              href:.\azureps-cmdlets-docs\Service Management\v0.9.8\Antimalware Cmdlets\Azure.Antimalware.md
+              href: .\azureps-cmdlets-docs\Service Management\v0.9.8\Antimalware Cmdlets\Azure.Antimalware.md
               items:
                 - name: Get-AzureServiceAntimalwareConfig
                   href: .\azureps-cmdlets-docs\Service Management\v0.9.8\Antimalware Cmdlets\Get-AzureServiceAntimalwareConfig.md
@@ -394,7 +394,7 @@
                 - name: Set-AzureVMMicrosoftAntimalwareExtension
                   href: .\azureps-cmdlets-docs\Service Management\v0.9.8\Antimalware Cmdlets\Set-AzureVMMicrosoftAntimalwareExtension.md
             - name: Compute Cmdlets
-              href:.\azureps-cmdlets-docs\Service Management\v0.9.8\Compute Cmdlets\Azure.Compute.md
+              href: .\azureps-cmdlets-docs\Service Management\v0.9.8\Compute Cmdlets\Azure.Compute.md
               items:
                 - name: Add-AzureCacheWorkerRole
                   href: .\azureps-cmdlets-docs\Service Management\v0.9.8\Compute Cmdlets\Add-AzureCacheWorkerRole.md
@@ -639,7 +639,7 @@
         - name: v1.0
           items:
             - name: Antimalware Cmdlets
-              href:.\azureps-cmdlets-docs\Service Management\v1.0\Antimalware Cmdlets\Azure.Antimalware.md
+              href: .\azureps-cmdlets-docs\Service Management\v1.0\Antimalware Cmdlets\Azure.Antimalware.md
               items:
                 - name: Get-AzureServiceAntimalwareConfig
                   href: .\azureps-cmdlets-docs\Service Management\v1.0\Antimalware Cmdlets\Get-AzureServiceAntimalwareConfig.md
@@ -654,7 +654,7 @@
                 - name: Set-AzureVMMicrosoftAntimalwareExtension
                   href: .\azureps-cmdlets-docs\Service Management\v1.0\Antimalware Cmdlets\Set-AzureVMMicrosoftAntimalwareExtension.md
             - name: Compute Cmdlets
-              href:.\azureps-cmdlets-docs\Service Management\v1.0\Compute Cmdlets\Azure.Compute.md
+              href: .\azureps-cmdlets-docs\Service Management\v1.0\Compute Cmdlets\Azure.Compute.md
               items:
                 - name: Add-AzureCacheWorkerRole
                   href: .\azureps-cmdlets-docs\Service Management\v1.0\Compute Cmdlets\Add-AzureCacheWorkerRole.md
@@ -899,7 +899,7 @@
     - name: Storage
       items:
         - name: v1.0
-          href:.\azureps-cmdlets-docs\Storage\v1.0\AzureRM.Storage.md
+          href: .\azureps-cmdlets-docs\Storage\v1.0\AzureRM.Storage.md
           items:
             - name: Get-AzureStorageBlob
               href: .\azureps-cmdlets-docs\Storage\v1.0\Get-AzureStorageBlob.md
