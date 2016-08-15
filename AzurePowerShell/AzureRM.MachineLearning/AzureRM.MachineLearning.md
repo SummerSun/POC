@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.MachineLearning
 Module Guid: bb030259-49f9-46ef-806f-2a3f5a2e018e
-Download Help Link: Please enter FwLink manually
-Help Version: Please enter version of help manually (X.X.X.X) format
+Download Help Link: {{Please enter FwLink manually}}
+Help Version: {{Please enter version of help manually (X.X.X.X) format}}
 Locale: en-US
 ---
 
