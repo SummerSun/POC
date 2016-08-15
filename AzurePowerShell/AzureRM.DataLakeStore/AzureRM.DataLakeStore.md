@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.DataLakeStore
 Module Guid: 90dfd814-abce-4e1f-99b6-fe16760c079a
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -76,4 +76,5 @@ Locale: en-US
 
 ### [Test-AzureRmDataLakeStoreItem](Test-AzureRmDataLakeStoreItem.md)
 {{Manually Enter Test-AzureRmDataLakeStoreItem Description Here}}
+
 

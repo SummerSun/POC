@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.RecoveryServices.Backup
 Module Guid: 3d444bee-6742-4ce2-b573-dfd1b7c4144c
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -70,4 +70,5 @@ Locale: en-US
 
 ### [Wait-AzureRmRecoveryServicesBackupJob](Wait-AzureRmRecoveryServicesBackupJob.md)
 {{Manually Enter Wait-AzureRmRecoveryServicesBackupJob Description Here}}
+
 

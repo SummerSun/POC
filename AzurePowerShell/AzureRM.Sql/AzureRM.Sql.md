@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.Sql
 Module Guid: 150d9544-6348-4373-806f-10cd0b4de4cb
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -250,4 +250,5 @@ Locale: en-US
 
 ### [Use-AzureRmSqlServerAuditingPolicy](Use-AzureRmSqlServerAuditingPolicy.md)
 {{Manually Enter Use-AzureRmSqlServerAuditingPolicy Description Here}}
+
 

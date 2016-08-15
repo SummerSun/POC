@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.Scheduler
 Module Guid: 5c8a1c13-7e88-42d8-bbea-f3a81fdd6c1e
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -61,4 +61,5 @@ Locale: en-US
 
 ### [Set-AzureRmSchedulerStorageQueueJob](Set-AzureRmSchedulerStorageQueueJob.md)
 {{Manually Enter Set-AzureRmSchedulerStorageQueueJob Description Here}}
+
 

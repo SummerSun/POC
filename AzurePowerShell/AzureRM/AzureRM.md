@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM
 Module Guid: b433e830-b479-4f7f-9c80-9cc6c28e1b51
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -19,4 +19,5 @@ Locale: en-US
 
 ### [Update-AzureRM](Update-AzureRM.md)
 {{Manually Enter Update-AzureRM Description Here}}
+
 

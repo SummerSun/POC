@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.KeyVault
 Module Guid: fa236c1f-6464-4d6a-a48d-db47c0e7923d
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -55,4 +55,5 @@ Locale: en-US
 
 ### [Set-AzureRmKeyVaultAccessPolicy](Set-AzureRmKeyVaultAccessPolicy.md)
 {{Manually Enter Set-AzureRmKeyVaultAccessPolicy Description Here}}
+
 

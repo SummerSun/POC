@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.Media
 Module Guid: c66edca6-2e57-4550-905e-f5cc104de25e
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -37,4 +37,5 @@ Locale: en-US
 
 ### [Sync-AzureRmMediaServiceStorageKeys](Sync-AzureRmMediaServiceStorageKeys.md)
 {{Manually Enter Sync-AzureRmMediaServiceStorageKeys Description Here}}
+
 

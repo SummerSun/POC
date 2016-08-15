@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.DataLakeAnalytics
 Module Guid: eca73aa1-a68f-4ceb-9775-70759316a57b
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -64,4 +64,5 @@ Locale: en-US
 
 ### [Wait-AzureRmDataLakeAnalyticsJob](Wait-AzureRmDataLakeAnalyticsJob.md)
 {{Manually Enter Wait-AzureRmDataLakeAnalyticsJob Description Here}}
+
 

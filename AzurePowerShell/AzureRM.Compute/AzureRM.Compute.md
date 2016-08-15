@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.Compute
 Module Guid: 0a83c907-1ffb-4d87-a492-c65ac7d7ed37
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -337,4 +337,5 @@ Locale: en-US
 
 ### [Update-AzureRmVmssInstance](Update-AzureRmVmssInstance.md)
 {{Manually Enter Update-AzureRmVmssInstance Description Here}}
+
 

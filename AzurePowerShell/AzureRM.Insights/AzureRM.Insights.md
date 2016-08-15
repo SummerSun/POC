@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.Insights
 Module Guid: 698c387c-bd6b-41c6-82ce-721f1ef39548
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -85,4 +85,5 @@ Locale: en-US
 
 ### [Set-AzureRmDiagnosticSetting](Set-AzureRmDiagnosticSetting.md)
 {{Manually Enter Set-AzureRmDiagnosticSetting Description Here}}
+
 

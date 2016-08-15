@@ -1,8 +1,8 @@
 ---
 Module Name: Azure
 Module Guid: d48cf693-4125-4d2d-8790-1514f44ce325
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -1879,4 +1879,5 @@ Locale: en-US
 
 ### [Wait-AzureHDInsightJob](Wait-AzureHDInsightJob.md)
 {{Manually Enter Wait-AzureHDInsightJob Description Here}}
+
 

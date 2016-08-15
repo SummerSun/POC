@@ -1,8 +1,8 @@
 ---
 Module Name: AzureRM.PowerBIEmbedded
 Module Guid: 868389ce-dd36-4f57-a674-0970db085d9a
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
 ---
 
@@ -28,4 +28,5 @@ Locale: en-US
 
 ### [Reset-AzureRmPowerBIWorkspaceCollectionAccessKeys](Reset-AzureRmPowerBIWorkspaceCollectionAccessKeys.md)
 {{Manually Enter Reset-AzureRmPowerBIWorkspaceCollectionAccessKeys Description Here}}
+
 
