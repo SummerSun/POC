@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 2e0b5b0e-df2b-4747-bb42-8e6b94f397e0
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Get-AzureRMAutomationCredential
@@ -107,5 +107,4 @@ Accept wildcard characters: False
 [Remove-AzureRmAutomationCredential](6a171b2b-1fdc-4642-a3d5-495b39fa7cff)
 
 [Set-AzureRmAutomationCredential](f0f039fd-2b0b-4993-8408-471e0f7ad10b)
-
 

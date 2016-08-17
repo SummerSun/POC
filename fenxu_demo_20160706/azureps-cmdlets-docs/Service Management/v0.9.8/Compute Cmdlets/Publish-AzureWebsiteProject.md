@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 0c2a5092-db45-4ce7-b39b-d1e499b4a867
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Publish-AzureWebsiteProject
@@ -193,5 +193,4 @@ Accept wildcard characters: False
 [Remove-AzureWebsite](3997c3b8-37ce-4135-a17d-63ae3bdd8e74)
 
 [Set-AzureWebsite](7b386051-005d-499d-a106-1eb34d5c9f47)
-
 

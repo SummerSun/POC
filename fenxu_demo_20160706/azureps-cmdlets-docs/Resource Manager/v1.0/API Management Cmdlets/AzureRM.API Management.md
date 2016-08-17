@@ -4,6 +4,7 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # AzureRM.API Management Module
@@ -55,6 +56,4 @@ Locale: en-US
 
 ### [Update-AzureRmApiManagementRegion](Update-AzureRmApiManagementRegion.md)
 {{Manually Enter Update-AzureRmApiManagementRegion Description Here}}
-
-
 

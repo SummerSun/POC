@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Stop-WAPackVM
@@ -106,5 +106,4 @@ Accept wildcard characters: False
 [Start-WAPackVM](8cc5bf6b-bf5b-427f-922d-57e4a99b2d55)
 
 [Suspend-WAPackVM](d8041113-5a71-447d-9bbe-dc6405aa6029)
-
 

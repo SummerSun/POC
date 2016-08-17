@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # New-WAPackQuickVM
@@ -105,5 +105,4 @@ Accept wildcard characters: False
 [New-WAPackVM](1f74deb4-e9b0-4aeb-8e13-b1554a4ebbec)
 
 [Get-WAPackVMTemplate](1b16012f-1da0-42f0-8407-1601cf4168e8)
-
 

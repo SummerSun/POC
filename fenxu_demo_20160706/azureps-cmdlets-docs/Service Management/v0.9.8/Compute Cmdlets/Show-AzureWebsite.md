@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Show-AzureWebsite
@@ -69,5 +69,4 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Show-AzurePortal](ad7a9990-36d0-4ae5-82d8-8c0faa159782)
-
 

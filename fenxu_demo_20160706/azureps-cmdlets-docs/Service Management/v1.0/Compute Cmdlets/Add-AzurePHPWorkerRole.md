@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Add-AzurePHPWorkerRole
@@ -83,5 +83,4 @@ Accept wildcard characters: False
 [New-AzureServiceProject](68b3e4a9-7aff-4274-bd8c-0f664cb6e65d)
 
 [Add-AzurePHPWebRole](6dd8d854-912d-4281-977c-ff3ec15ccf51)
-
 

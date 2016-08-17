@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 0bfb6a70-3a4a-4e58-a0b9-e41eb52a90ef
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Export-AzureRmAutomationDscNodeReportContent
@@ -168,5 +168,4 @@ Accept wildcard characters: False
 [Get-AzureRmAutomationDscNode](19472f94-5827-4878-a17a-d7bb10932861)
 
 [Get-AzureRmAutomationDscNodeReport](4e614479-d8a1-41bb-a8eb-8d833a314b54)
-
 

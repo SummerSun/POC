@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 73a4a9ba-477c-41e6-9193-2be97182e07d
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Set-AzureRMAutomationSchedule
@@ -120,5 +120,4 @@ Accept wildcard characters: False
 [New-AzureRmAutomationSchedule](36c11dd3-5843-49d2-8baa-9f5aa737d345)
 
 [Remove-AzureRmAutomationSchedule](633c3e61-0da0-4a01-897b-e81c6e571196)
-
 

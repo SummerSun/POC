@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Save-AzureServiceProjectPackage
@@ -56,5 +56,4 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Publish-AzureServiceProject](4c0c0966-919e-49a6-9d38-c3c97355e281)
-
 

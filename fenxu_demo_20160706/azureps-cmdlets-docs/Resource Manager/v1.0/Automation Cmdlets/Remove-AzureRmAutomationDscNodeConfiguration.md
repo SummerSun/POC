@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 16207dee-029f-4659-ab6f-f636f869b82b
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Remove-AzureRmAutomationDscNodeConfiguration
@@ -148,5 +148,4 @@ Accept wildcard characters: False
 [Import-AzureRmAutomationDscNodeConfiguration](0ef99c72-89fd-478d-850e-50ed5a0aba17)
 
 [Azure Automation Cmdlets](e3d89134-0c83-4dbf-8072-062bc6f843a6)
-
 

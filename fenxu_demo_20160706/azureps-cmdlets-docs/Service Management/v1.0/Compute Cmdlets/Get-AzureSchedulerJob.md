@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 322a1918-d734-42b4-bd0b-13d5ee8d37b5
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Get-AzureSchedulerJob
@@ -129,5 +129,4 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Remove-AzureSchedulerJob](322a1918-d734-42b4-bd0b-13d5ee8d37b5)
-
 

@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # New-WAPackCloudService
@@ -71,5 +71,4 @@ Accept wildcard characters: False
 ## NOTES
 
 ## RELATED LINKS
-
 

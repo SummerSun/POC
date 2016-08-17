@@ -2,7 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 00a693d9-52d2-4c9b-9d7b-e476ca51a610
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Get-AzureStorageContainerStoredAccessPolicy
@@ -148,5 +148,4 @@ Accept wildcard characters: False
 [Remove-AzureStorageContainerStoredAccessPolicy](60b0802b-aedd-4d2e-a37f-89bb8c63f0d4)
 
 [Set-AzureStorageContainerStoredAccessPolicy](059cf4a7-db04-4ff5-91da-31d38608b99c)
-
 

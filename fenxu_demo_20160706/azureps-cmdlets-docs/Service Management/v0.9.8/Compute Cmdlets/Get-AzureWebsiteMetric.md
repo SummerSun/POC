@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Get-AzureWebsiteMetric
@@ -203,5 +203,4 @@ By default, Get-AzureWebsiteMetric returns an array of MetricResponse objects.
 ## RELATED LINKS
 
 [Get-AzureWebsite](0c2a5092-db45-4ce7-b39b-d1e499b4a867)
-
 

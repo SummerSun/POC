@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: e41c8823-9e6a-4535-b90c-0e2de7634c47
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Resume-AzureRMAutomationJob
@@ -92,5 +92,4 @@ Accept wildcard characters: False
 [Stop-AzureRmAutomationJob](1b580598-1087-4a10-9bc3-747ec5d7604a)
 
 [Suspend-AzureRmAutomationJob](cf05770c-fc18-4a31-beb9-4f8c1c39c285)
-
 

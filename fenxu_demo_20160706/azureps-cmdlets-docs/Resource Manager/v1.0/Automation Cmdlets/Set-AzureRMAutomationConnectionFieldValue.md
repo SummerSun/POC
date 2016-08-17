@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 7fed73b4-73cf-4642-8e10-167ea6158372
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Set-AzureRMAutomationConnectionFieldValue
@@ -114,5 +114,4 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [New-AzureRmAutomationConnection](7fed73b4-73cf-4642-8e10-167ea6158372)
-
 

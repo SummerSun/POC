@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Unregister-AzureRMAutomationScheduledRunbook
@@ -169,5 +169,4 @@ Accept wildcard characters: False
 [Get-AzureRmAutomationScheduledRunbook](cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce)
 
 [Register-AzureRmAutomationScheduledRunbook](34edfa3b-7ef9-4aab-bb17-5ea725a22ed4)
-
 

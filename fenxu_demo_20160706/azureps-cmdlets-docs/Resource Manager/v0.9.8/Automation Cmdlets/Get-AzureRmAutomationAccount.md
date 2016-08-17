@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 1a996e7a-1de8-4533-a39a-c17cf1ab18fd
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Get-AzureRmAutomationAccount
@@ -99,5 +99,4 @@ Accept wildcard characters: False
 [Remove-AzureRmAutomationAccount](2a126e99-39dd-4c00-b2a6-bf6495d64345)
 
 [Set-AzureRmAutomationAccount](7e2254d6-c3c3-4ec5-8f7d-a3a2a6f24969)
-
 

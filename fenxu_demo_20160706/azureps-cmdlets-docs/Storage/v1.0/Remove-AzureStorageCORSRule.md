@@ -2,7 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: accfb0fd-ad3a-4415-abce-a98b8073e82b
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Remove-AzureStorageCORSRule
@@ -132,5 +132,4 @@ Accept wildcard characters: False
 [Get-AzureStorageCORSRule](accfb0fd-ad3a-4415-abce-a98b8073e82b)
 
 [Set-AzureStorageCORSRule](fd109b34-042a-4157-b0c1-2cbf29894b52)
-
 

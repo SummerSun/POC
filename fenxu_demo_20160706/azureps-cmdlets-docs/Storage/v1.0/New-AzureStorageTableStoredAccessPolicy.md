@@ -2,7 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: a1536004-87a3-48a2-ad18-bf3fe95908c9
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # New-AzureStorageTableStoredAccessPolicy
@@ -136,5 +136,4 @@ Accept wildcard characters: False
 [Remove-AzureStorageTableStoredAccessPolicy](e9ed3edb-61eb-4547-8228-968601cfbee5)
 
 [Set-AzureStorageTableStoredAccessPolicy](cd4016e4-c0aa-4963-beb7-144a5bd2d619)
-
 

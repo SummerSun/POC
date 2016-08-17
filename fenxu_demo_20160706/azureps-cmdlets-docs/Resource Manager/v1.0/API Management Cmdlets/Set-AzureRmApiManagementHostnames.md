@@ -2,7 +2,7 @@
 external help file: RMAzure_Apimanagement.xml
 online version: 2a7ef835-586c-4e86-a243-3cc0e9623d71
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Set-AzureRmApiManagementHostnames
@@ -153,5 +153,4 @@ Accept wildcard characters: False
 [Import-AzureRmApiManagementHostnameCertificate](2a7ef835-586c-4e86-a243-3cc0e9623d71)
 
 [New-AzureRmApiManagementHostnameConfiguration](73f73a6f-470c-4dd6-95c4-a1302fabb0dd)
-
 

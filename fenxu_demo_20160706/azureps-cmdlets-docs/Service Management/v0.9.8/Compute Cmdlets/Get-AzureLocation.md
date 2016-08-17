@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 007cc1d1-12ff-4ef0-a480-39b958aff004
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Get-AzureLocation
@@ -40,5 +40,4 @@ This command gets a list of available data centers, and their properties, for th
 ## NOTES
 
 ## RELATED LINKS
-
 

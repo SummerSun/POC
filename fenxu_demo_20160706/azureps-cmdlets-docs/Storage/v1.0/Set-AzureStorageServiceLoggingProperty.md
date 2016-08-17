@@ -2,7 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 02217f39-6c93-401b-8801-52fdd38ba751
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Set-AzureStorageServiceLoggingProperty
@@ -154,5 +154,4 @@ Accept wildcard characters: False
 [Get-AzureStorageServiceLoggingProperty](02217f39-6c93-401b-8801-52fdd38ba751)
 
 [New-AzureStorageContext](671aeec8-b7f9-49c5-866f-da84f189ab5b)
-
 

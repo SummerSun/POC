@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # Start-AzureService
@@ -105,5 +105,4 @@ Accept wildcard characters: False
 [Remove-AzureService](19376209-6c0d-46e0-ad98-b8e2f13c0893)
 
 [Stop-AzureService](82d56ef9-9651-4224-9ba0-498750f6f551)
-
 

@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 68f56d1c-23a9-4cb5-8fe8-c3a1e7c2ac1a
 schema: 2.0.0
-source_repo: 
+source_repo: https://github.com/Azure/azure-docs-powershelllala
 ---
 
 # New-AzureRMAutomationConnection
@@ -139,5 +139,4 @@ Accept wildcard characters: False
 [Get-AzureRmAutomationConnection](68f56d1c-23a9-4cb5-8fe8-c3a1e7c2ac1a)
 
 [Remove-AzureRmAutomationConnection](76dc3b3d-2dd3-49ad-a28c-afbfc754e020)
-
 
