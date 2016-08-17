@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Add-AzurePHPWebRole
@@ -82,4 +83,5 @@ Accept wildcard characters: False
 [Add-AzurePHPWorkerRole](4759ce95-bb7a-46f0-8125-2a1966f572d4)
 
 [New-AzureServiceProject](68b3e4a9-7aff-4274-bd8c-0f664cb6e65d)
+
 

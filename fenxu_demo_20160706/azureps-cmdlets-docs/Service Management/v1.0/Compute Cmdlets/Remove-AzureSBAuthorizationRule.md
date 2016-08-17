@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 07ab8d50-c6de-45f1-8576-99b76f798bca
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureSBAuthorizationRule
@@ -132,4 +133,5 @@ Accept wildcard characters: False
 [New-AzureSBAuthorizationRule](3e60e1c8-7421-4762-befc-5c8974f684c4)
 
 [Set-AzureSBAuthorizationRule](c199f0d5-8f84-4106-ac4b-afc2192d1218)
+
 

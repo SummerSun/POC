@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: a89aa1b2-cabd-4048-a84d-2b37da287c05
 schema: 2.0.0
+source_repo: 
 ---
 
 # New-AzureStorageQueue
@@ -78,4 +79,5 @@ Accept wildcard characters: False
 [Get-AzureStorageQueue](a89aa1b2-cabd-4048-a84d-2b37da287c05)
 
 [Remove-AzureStorageQueue](265824d1-e3d4-4bd4-bc11-466c2100ed3a)
+
 

@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Add-AzureWorkerRole
@@ -104,4 +105,5 @@ Accept wildcard characters: False
 [Add-AzureWebRole](e973ae60-0350-4440-a0ea-03ca4da295c5)
 
 [New-AzureRoleTemplate](03fbb075-4258-4eb3-a5d1-3ae0f599e361)
+
 

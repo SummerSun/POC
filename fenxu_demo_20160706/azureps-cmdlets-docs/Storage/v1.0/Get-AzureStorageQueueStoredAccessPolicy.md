@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 64a4e0c7-905e-406b-afb7-1723afcee9e8
 schema: 2.0.0
+source_repo: 
 ---
 
 # Get-AzureStorageQueueStoredAccessPolicy
@@ -96,4 +97,5 @@ Accept wildcard characters: False
 [Set-AzureStorageQueueStoredAccessPolicy](02396020-02c8-4736-a00e-8d7112e27286)
 
 [New-AzureStorageContext](671aeec8-b7f9-49c5-866f-da84f189ab5b)
+
 

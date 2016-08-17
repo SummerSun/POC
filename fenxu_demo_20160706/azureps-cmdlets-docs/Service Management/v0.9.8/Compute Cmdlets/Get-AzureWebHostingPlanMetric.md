@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Get-AzureWebHostingPlanMetric
@@ -189,4 +190,5 @@ By default, Get-AzureWebHostingPlanMetric returns an array of MetricResponse obj
 ## RELATED LINKS
 
 [Get-AzureWebHostingPlan](8e660e09-5cdc-4324-b7da-608008b057ca)
+
 

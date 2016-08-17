@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Stop-AzureEmulator
@@ -54,4 +55,5 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Start-AzureEmulator](219045a4-a7b6-4c26-9e5f-8656fde0764b)
+
 

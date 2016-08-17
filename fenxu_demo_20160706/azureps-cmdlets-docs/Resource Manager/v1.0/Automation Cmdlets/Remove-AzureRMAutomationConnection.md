@@ -2,6 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 68f56d1c-23a9-4cb5-8fe8-c3a1e7c2ac1a
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureRMAutomationConnection
@@ -130,4 +131,5 @@ Accept wildcard characters: False
 [Get-AzureRmAutomationConnection](68f56d1c-23a9-4cb5-8fe8-c3a1e7c2ac1a)
 
 [New-AzureRmAutomationConnection](7fed73b4-73cf-4642-8e10-167ea6158372)
+
 

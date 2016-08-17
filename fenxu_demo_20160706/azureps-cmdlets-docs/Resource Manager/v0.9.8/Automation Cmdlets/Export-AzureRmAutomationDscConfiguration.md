@@ -2,6 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: cd411497-be17-46f7-8708-519f02312553
 schema: 2.0.0
+source_repo: 
 ---
 
 # Export-AzureRmAutomationDscConfiguration
@@ -168,4 +169,5 @@ Accept wildcard characters: False
 [Get-AzureRmAutomationDscConfiguration](cd411497-be17-46f7-8708-519f02312553)
 
 [Import-AzureRmAutomationDscConfiguration](9e316628-0101-4da8-8a9f-843f8442e52d)
+
 

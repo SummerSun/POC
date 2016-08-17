@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Get-AzureWebsiteLocation
@@ -40,4 +41,5 @@ This example gets all of the available website locations for the current subscri
 ## RELATED LINKS
 
 [New-AzureWebsite](498c1abd-298b-43e9-ac53-bc57054a5387)
+
 

@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 5e8a9e67-ad04-4430-b057-a63cfb99585e
 schema: 2.0.0
+source_repo: 
 ---
 
 # New-AzureStorageTable
@@ -78,4 +79,5 @@ Accept wildcard characters: False
 [Get-AzureStorageTable](5e8a9e67-ad04-4430-b057-a63cfb99585e)
 
 [Remove-AzureStorageTable](f287198d-609e-4ac1-9221-9ce5453a732e)
+
 

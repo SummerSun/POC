@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: d3ad790c-c75f-4243-b128-7c778422ac64
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureStorageShareStoredAccessPolicy
@@ -196,4 +197,5 @@ Accept wildcard characters: False
 [New-AzureStorageContext](671aeec8-b7f9-49c5-866f-da84f189ab5b)
 
 [Set-AzureStorageShareStoredAccessPolicy](738f47b7-e244-40b1-9b2e-3b6f4e348c8f)
+
 

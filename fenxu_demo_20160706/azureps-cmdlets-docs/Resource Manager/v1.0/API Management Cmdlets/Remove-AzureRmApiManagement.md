@@ -2,6 +2,7 @@
 external help file: RMAzure_Apimanagement.xml
 online version: b3b67164-7adf-4fe3-87ab-51dcd46ed084
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureRmApiManagement
@@ -118,4 +119,5 @@ Accept wildcard characters: False
 [New-AzureRmApiManagement](6b5595ca-246e-4381-a37e-24dfae307109)
 
 [Restore-AzureRmApiManagement](b0ff412d-269a-472f-8d79-9c0b9f0ebac2)
+
 

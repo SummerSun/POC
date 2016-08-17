@@ -2,6 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce
 schema: 2.0.0
+source_repo: 
 ---
 
 # Register-AzureRMAutomationScheduledRunbook
@@ -127,4 +128,5 @@ Accept wildcard characters: False
 [Get-AzureRmAutomationScheduledRunbook](cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce)
 
 [Unregister-AzureRmAutomationScheduledRunbook](a56fc467-f64d-4453-9b55-cdd5cad1aa98)
+
 

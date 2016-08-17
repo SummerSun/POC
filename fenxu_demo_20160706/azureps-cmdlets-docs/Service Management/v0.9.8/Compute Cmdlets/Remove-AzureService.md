@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureService
@@ -138,4 +139,5 @@ Accept wildcard characters: False
 [Stop-AzureService](82d56ef9-9651-4224-9ba0-498750f6f551)
 
 [Start-AzureService](56e58937-4763-467c-a98c-c89ae4326e84)
+
 

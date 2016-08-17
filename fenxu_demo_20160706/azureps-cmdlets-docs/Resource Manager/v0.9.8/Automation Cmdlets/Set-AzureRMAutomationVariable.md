@@ -2,6 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: a6dc9902-ad99-47f9-8212-d3d96146b180
 schema: 2.0.0
+source_repo: 
 ---
 
 # Set-AzureRMAutomationVariable
@@ -144,4 +145,5 @@ Accept wildcard characters: False
 [New-AzureRmAutomationVariable](4103a716-9567-4836-b522-d2484452a60e)
 
 [Remove-AzureRmAutomationVariable](c154838a-0b3d-4347-96a5-31ac572b329c)
+
 

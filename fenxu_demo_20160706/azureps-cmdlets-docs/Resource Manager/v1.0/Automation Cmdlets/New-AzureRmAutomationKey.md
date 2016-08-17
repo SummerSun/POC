@@ -2,6 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: ea09d4b6-ff25-4b91-b957-328222844689
 schema: 2.0.0
+source_repo: 
 ---
 
 # New-AzureRmAutomationKey
@@ -86,4 +87,5 @@ Accept wildcard characters: False
 ## NOTES
 
 ## RELATED LINKS
+
 

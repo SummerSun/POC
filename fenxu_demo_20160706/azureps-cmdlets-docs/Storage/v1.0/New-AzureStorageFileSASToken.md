@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 671aeec8-b7f9-49c5-866f-da84f189ab5b
 schema: 2.0.0
+source_repo: 
 ---
 
 # New-AzureStorageFileSASToken
@@ -284,4 +285,5 @@ Accept wildcard characters: False
 [New-AzureStorageContext](671aeec8-b7f9-49c5-866f-da84f189ab5b)
 
 [New-AzureStorageShareSASToken](07c8ad4e-7a32-4407-9120-1432126b7376)
+
 

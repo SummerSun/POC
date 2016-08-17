@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 10a13c83-d545-4729-99f9-048c774f32d7
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureStorageDirectory
@@ -246,4 +247,5 @@ Accept wildcard characters: False
 [New-AzureStorageContext](671aeec8-b7f9-49c5-866f-da84f189ab5b)
 
 [New-AzureStorageDirectory](2eea330c-759d-4dee-81e9-2e72de9f707e)
+
 

@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: a1536004-87a3-48a2-ad18-bf3fe95908c9
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-AzureStorageTableStoredAccessPolicy
@@ -151,4 +152,5 @@ Accept wildcard characters: False
 [New-AzureStorageTableStoredAccessPolicy](27f043ca-0c6b-4952-afd7-a2e12e73b402)
 
 [Set-AzureStorageTableStoredAccessPolicy](cd4016e4-c0aa-4963-beb7-144a5bd2d619)
+
 

@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Remove-WAPackStaticIPAddressPool
@@ -85,4 +86,5 @@ Accept wildcard characters: False
 ## NOTES
 
 ## RELATED LINKS
+
 

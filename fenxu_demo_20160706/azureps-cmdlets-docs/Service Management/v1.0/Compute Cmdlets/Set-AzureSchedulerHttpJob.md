@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 5e65fa22-f969-413e-b4a6-62242d022380
 schema: 2.0.0
+source_repo: 
 ---
 
 # Set-AzureSchedulerHttpJob
@@ -492,4 +493,5 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [New-AzureSchedulerHttpJob](5e65fa22-f969-413e-b4a6-62242d022380)
+
 

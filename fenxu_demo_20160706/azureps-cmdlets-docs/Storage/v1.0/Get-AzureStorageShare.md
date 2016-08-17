@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 17c0253c-c7b6-4c78-92ce-77277e156396
 schema: 2.0.0
+source_repo: 
 ---
 
 # Get-AzureStorageShare
@@ -158,4 +159,5 @@ Accept wildcard characters: False
 [New-AzureStorageShare](17c0253c-c7b6-4c78-92ce-77277e156396)
 
 [Remove-AzureStorageShare](f9a0f4e1-3677-4786-bd84-d3645c61baca)
+
 

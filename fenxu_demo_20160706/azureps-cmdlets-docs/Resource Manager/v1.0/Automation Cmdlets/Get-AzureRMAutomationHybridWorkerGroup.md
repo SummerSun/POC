@@ -2,6 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: a6f623a1-2e69-4ea2-828b-ab63d285a009
 schema: 2.0.0
+source_repo: 
 ---
 
 # Get-AzureRMAutomationHybridWorkerGroup
@@ -104,4 +105,5 @@ Accept wildcard characters: False
 ## NOTES
 
 ## RELATED LINKS
+
 

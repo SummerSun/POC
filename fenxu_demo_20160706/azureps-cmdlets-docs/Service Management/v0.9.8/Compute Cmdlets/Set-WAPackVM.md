@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 4b060a7d-da50-45ff-adb6-bcba63faa90b
 schema: 2.0.0
+source_repo: 
 ---
 
 # Set-WAPackVM
@@ -110,4 +111,5 @@ Accept wildcard characters: False
 [Suspend-WAPackVM](d8041113-5a71-447d-9bbe-dc6405aa6029)
 
 [Get-WAPackVMSizeProfile](6dd436e0-b366-4a6b-adde-0aa6cdbfc3c6)
+
 

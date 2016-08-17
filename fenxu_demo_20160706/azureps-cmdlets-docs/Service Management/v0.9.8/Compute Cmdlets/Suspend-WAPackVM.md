@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # Suspend-WAPackVM
@@ -90,4 +91,5 @@ Accept wildcard characters: False
 [Start-WAPackVM](8cc5bf6b-bf5b-427f-922d-57e4a99b2d55)
 
 [Stop-WAPackVM](7f3e6c33-2196-4e24-95fd-e5763c6f7402)
+
 

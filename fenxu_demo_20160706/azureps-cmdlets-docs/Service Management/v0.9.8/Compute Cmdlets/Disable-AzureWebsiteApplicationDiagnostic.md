@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: http://go.microsoft.com/FWLink/p/?LinkID=311700
 schema: 2.0.0
+source_repo: 
 ---
 
 # Disable-AzureWebsiteApplicationDiagnostic
@@ -131,4 +132,5 @@ Accept wildcard characters: False
 [Remove-AzureWebsite](3997c3b8-37ce-4135-a17d-63ae3bdd8e74)
 
 [Start-AzureWebsite](d6ee400f-4a92-4f2f-83bb-70188bb2000d)
+
 

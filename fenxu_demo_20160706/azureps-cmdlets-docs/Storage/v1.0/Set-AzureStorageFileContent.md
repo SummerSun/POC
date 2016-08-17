@@ -2,6 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: 2cbd0756-0224-43b0-8e22-a7316b7e24c2
 schema: 2.0.0
+source_repo: 
 ---
 
 # Set-AzureStorageFileContent
@@ -284,4 +285,5 @@ Accept wildcard characters: False
 [New-AzureStorageDirectory](2eea330c-759d-4dee-81e9-2e72de9f707e)
 
 [Get-AzureStorageFileContent](7e23b9f6-5f66-49a3-beb8-e2639c5234d7)
+
 

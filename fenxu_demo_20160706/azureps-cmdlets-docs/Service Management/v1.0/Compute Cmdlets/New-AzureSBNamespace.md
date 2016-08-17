@@ -2,6 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
+source_repo: 
 ---
 
 # New-AzureSBNamespace
@@ -103,4 +104,5 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Remove-AzureSBNamespace](d8478eeb-c378-4806-87e2-ca5732900c4f)
+
 
