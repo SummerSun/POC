@@ -2,7 +2,8 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # Add-AzureNodeWorkerRole
@@ -83,4 +84,5 @@ Accept wildcard characters: False
 [Add-AzureNodeWebRole](72be1e83-84e2-49fc-aa52-b3d3dd0490a3)
 
 [New-AzureServiceProject](68b3e4a9-7aff-4274-bd8c-0f664cb6e65d)
+
 

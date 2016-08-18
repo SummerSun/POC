@@ -4,7 +4,8 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # Azure.Compute Module
@@ -401,4 +402,5 @@ source_repo: https://github.com/Azure/azure-docs-powershelllala
 
 ### [Update-AzureWebsiteRepository](Update-AzureWebsiteRepository.md)
 {{Manually Enter Update-AzureWebsiteRepository Description Here}}
+
 

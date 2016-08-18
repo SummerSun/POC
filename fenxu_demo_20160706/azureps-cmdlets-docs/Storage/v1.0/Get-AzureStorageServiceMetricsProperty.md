@@ -2,7 +2,8 @@
 external help file: RMAzure_Storage.xml
 online version: 671aeec8-b7f9-49c5-866f-da84f189ab5b
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # Get-AzureStorageServiceMetricsProperty
@@ -99,4 +100,5 @@ Accept wildcard characters: False
 [New-AzureStorageContext](671aeec8-b7f9-49c5-866f-da84f189ab5b)
 
 [Set-AzureStorageServiceMetricsProperty](ae9762aa-8104-4bb4-a3e5-ec3b3ce748a5)
+
 

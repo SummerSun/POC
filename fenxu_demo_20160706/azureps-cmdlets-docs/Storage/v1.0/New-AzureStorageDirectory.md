@@ -2,7 +2,8 @@
 external help file: RMAzure_Storage.xml
 online version: d9ec4b6f-fb17-4f29-b209-a3d5f212a6f1
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # New-AzureStorageDirectory
@@ -200,4 +201,5 @@ Accept wildcard characters: False
 [New-AzureStorageDirectory](2eea330c-759d-4dee-81e9-2e72de9f707e)
 
 [Remove-AzureStorageDirectory](2cbd0756-0224-43b0-8e22-a7316b7e24c2)
+
 

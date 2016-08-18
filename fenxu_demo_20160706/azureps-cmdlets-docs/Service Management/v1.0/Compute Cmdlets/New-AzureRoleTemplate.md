@@ -2,7 +2,8 @@
 external help file: SMAzure_Compute.xml
 online version: 
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # New-AzureRoleTemplate
@@ -110,4 +111,5 @@ Accept wildcard characters: False
 [Add-AzureWebRole](e973ae60-0350-4440-a0ea-03ca4da295c5)
 
 [Add-AzureWorkerRole](77af980e-7b69-46b9-af3c-6d586710eff8)
+
 

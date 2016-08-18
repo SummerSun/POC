@@ -2,7 +2,8 @@
 external help file: RMAzure_Automation.xml
 online version: 71da0434-5c0f-498f-91f2-f09117dfa7ca
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # Export-AzureRMAutomationRunbook
@@ -180,4 +181,5 @@ Accept wildcard characters: False
 [Set-AzureRmAutomationRunbook](80b64633-ceab-4609-bb58-e11ab99e9c35)
 
 [Start-AzureRmAutomationRunbook](5c86545a-93dd-4b3c-96b2-fa6ed740448d)
+
 

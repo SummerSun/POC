@@ -2,7 +2,8 @@
 external help file: RMAzure_Apimanagement.xml
 online version: e067ded3-a2e3-4d53-8628-0ebbafa62721
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # Update-AzureRmApiManagementDeployment
@@ -219,4 +220,5 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Get-AzureRmApiManagement](e067ded3-a2e3-4d53-8628-0ebbafa62721)
+
 

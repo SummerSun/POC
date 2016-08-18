@@ -2,7 +2,8 @@
 external help file: RMAzure_Storage.xml
 online version: f5420030-d139-44d7-847b-86ae910b98cd
 schema: 2.0.0
-source_repo: https://github.com/Azure/azure-docs-powershelllala
+source_branch: master
+source_repo: https://github.com/Visual-Studio-China/azure-powershell-docs-int
 ---
 
 # New-AzureStorageQueueStoredAccessPolicy
@@ -136,4 +137,5 @@ Accept wildcard characters: False
 [Remove-AzureStorageQueueStoredAccessPolicy](8d80d1be-2e66-4372-9d51-2afff62d011d)
 
 [Set-AzureStorageQueueStoredAccessPolicy](02396020-02c8-4736-a00e-8d7112e27286)
+
 
