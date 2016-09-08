@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: 498c1abd-298b-43e9-ac53-bc57054a5387
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # New-AzureWebsiteJob

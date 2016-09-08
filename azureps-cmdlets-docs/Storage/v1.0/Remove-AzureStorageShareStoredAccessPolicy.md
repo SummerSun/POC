@@ -2,6 +2,10 @@
 external help file: RMAzure_Storage.xml
 online version: d3ad790c-c75f-4243-b128-7c778422ac64
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Remove-AzureStorageShareStoredAccessPolicy

@@ -2,6 +2,10 @@
 external help file: RMAzure_Storage.xml
 online version: c3d50900-70d6-44af-b939-abe86fcf89e6
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Get-AzureStorageBlobContent

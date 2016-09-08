@@ -2,6 +2,10 @@
 external help file: RMAzure_Apimanagement.xml
 online version: c667ef41-1fb3-40c3-884a-8f008520a68c
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # New-AzureRmApiManagementVirtualNetwork

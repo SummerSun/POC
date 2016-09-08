@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: 62c5de93-e58b-4e57-85d0-8b7e75df1f31
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Stop-AzureWebsiteJob

@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: 1a996e7a-1de8-4533-a39a-c17cf1ab18fd
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Get-AzureRmAutomationAccount

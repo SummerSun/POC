@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: 091cd841-4aaf-45de-a8f2-6f973fb9c91b
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Remove-AzureRmAutomationDscConfiguration

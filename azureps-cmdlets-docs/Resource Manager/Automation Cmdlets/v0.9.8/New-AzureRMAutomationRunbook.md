@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: 614eee0d-f18e-4843-bed6-6cf43db59f75
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # New-AzureRMAutomationRunbook

@@ -2,6 +2,10 @@
 external help file: RMAzure_Storage.xml
 online version: 2cbd0756-0224-43b0-8e22-a7316b7e24c2
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Set-AzureStorageFileContent

@@ -1,0 +1,95 @@
+{
+	"_lang": "csharp",
+	"_tocPath": "toc.yml",
+	"_navPath": "toc.yml",
+	"_rel": "../../",
+	"_path": "Active Directory/v1.0/AzureRM.API Management",
+	"_navRel": "../../toc.yml",
+	"_tocRel": "../../toc.yml",
+	"_navKey": "~/toc.yml",
+	"_tocKey": "~/toc.yml",
+	"conceptual": "\n<h2 id=\"description\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"14\" sourceendlinenumber=\"14\">Description</h2>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"15\" sourceendlinenumber=\"15\">{{Manually Enter Description Here}}</p>\n<h2 id=\"azurermapi-management-cmdlets\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"17\" sourceendlinenumber=\"17\">AzureRM.API Management Cmdlets</h2>\n<h3 id=\"add-azurermapimanagementregionadd-azurermapimanagementregionmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"18\" sourceendlinenumber=\"18\"><a href=\"~/Active Directory/v1.0/Add-AzureRmApiManagementRegion.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"18\" sourceendlinenumber=\"18\">Add-AzureRmApiManagementRegion</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"19\" sourceendlinenumber=\"19\">{{Manually Enter Add-AzureRmApiManagementRegion Description Here}}</p>\n<h3 id=\"backup-azurermapimanagementbackup-azurermapimanagementmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"21\" sourceendlinenumber=\"21\"><a href=\"Backup-AzureRmApiManagement.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"21\" sourceendlinenumber=\"21\">Backup-AzureRmApiManagement</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"22\" sourceendlinenumber=\"22\">{{Manually Enter Backup-AzureRmApiManagement Description Here}}</p>\n<h3 id=\"get-azurermapimanagementssotokenget-azurermapimanagementssotokenmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"24\" sourceendlinenumber=\"24\"><a href=\"Get-AzureRmApiManagementSsoToken.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"24\" sourceendlinenumber=\"24\">Get-AzureRmApiManagementSsoToken</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"25\" sourceendlinenumber=\"25\">{{Manually Enter Get-AzureRmApiManagementSsoToken Description Here}}</p>\n<h3 id=\"get-azurermapimanagementget-azurermapimanagementmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"27\" sourceendlinenumber=\"27\"><a href=\"Get-AzureRmApiManagement.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"27\" sourceendlinenumber=\"27\">Get-AzureRmApiManagement</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"28\" sourceendlinenumber=\"28\">{{Manually Enter Get-AzureRmApiManagement Description Here}}</p>\n<h3 id=\"import-azurermapimanagementhostnamecertificateimport-azurermapimanagementhostnamecertificatemd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"30\" sourceendlinenumber=\"30\"><a href=\"Import-AzureRmApiManagementHostnameCertificate.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"30\" sourceendlinenumber=\"30\">Import-AzureRmApiManagementHostnameCertificate</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"31\" sourceendlinenumber=\"31\">{{Manually Enter Import-AzureRmApiManagementHostnameCertificate Description Here}}</p>\n<h3 id=\"new-azurermapimanagementhostnameconfigurationnew-azurermapimanagementhostnameconfigurationmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"33\" sourceendlinenumber=\"33\"><a href=\"New-AzureRmApiManagementHostnameConfiguration.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"33\" sourceendlinenumber=\"33\">New-AzureRmApiManagementHostnameConfiguration</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"34\" sourceendlinenumber=\"34\">{{Manually Enter New-AzureRmApiManagementHostnameConfiguration Description Here}}</p>\n<h3 id=\"new-azurermapimanagementvirtualnetworknew-azurermapimanagementvirtualnetworkmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"36\" sourceendlinenumber=\"36\"><a href=\"New-AzureRmApiManagementVirtualNetwork.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"36\" sourceendlinenumber=\"36\">New-AzureRmApiManagementVirtualNetwork</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"37\" sourceendlinenumber=\"37\">{{Manually Enter New-AzureRmApiManagementVirtualNetwork Description Here}}</p>\n<h3 id=\"new-azurermapimanagementnew-azurermapimanagementmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"39\" sourceendlinenumber=\"39\"><a href=\"New-AzureRmApiManagement.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"39\" sourceendlinenumber=\"39\">New-AzureRmApiManagement</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"40\" sourceendlinenumber=\"40\">{{Manually Enter New-AzureRmApiManagement Description Here}}</p>\n<h3 id=\"remove-azurermapimanagementregionremove-azurermapimanagementregionmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"42\" sourceendlinenumber=\"42\"><a href=\"Remove-AzureRmApiManagementRegion.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"42\" sourceendlinenumber=\"42\">Remove-AzureRmApiManagementRegion</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"43\" sourceendlinenumber=\"43\">{{Manually Enter Remove-AzureRmApiManagementRegion Description Here}}</p>\n<h3 id=\"remove-azurermapimanagementremove-azurermapimanagementmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"45\" sourceendlinenumber=\"45\"><a href=\"Remove-AzureRmApiManagement.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"45\" sourceendlinenumber=\"45\">Remove-AzureRmApiManagement</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"46\" sourceendlinenumber=\"46\">{{Manually Enter Remove-AzureRmApiManagement Description Here}}</p>\n<h3 id=\"restore-azurermapimanagementrestore-azurermapimanagementmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"48\" sourceendlinenumber=\"48\"><a href=\"Restore-AzureRmApiManagement.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"48\" sourceendlinenumber=\"48\">Restore-AzureRmApiManagement</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"49\" sourceendlinenumber=\"49\">{{Manually Enter Restore-AzureRmApiManagement Description Here}}</p>\n<h3 id=\"set-azurermapimanagementhostnamesset-azurermapimanagementhostnamesmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"51\" sourceendlinenumber=\"51\"><a href=\"Set-AzureRmApiManagementHostnames.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"51\" sourceendlinenumber=\"51\">Set-AzureRmApiManagementHostnames</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"52\" sourceendlinenumber=\"52\">{{Manually Enter Set-AzureRmApiManagementHostnames Description Here}}</p>\n<h3 id=\"set-azurermapimanagementvirtualnetworksset-azurermapimanagementvirtualnetworksmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"54\" sourceendlinenumber=\"54\"><a href=\"Set-AzureRmApiManagementVirtualNetworks.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"54\" sourceendlinenumber=\"54\">Set-AzureRmApiManagementVirtualNetworks</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"55\" sourceendlinenumber=\"55\">{{Manually Enter Set-AzureRmApiManagementVirtualNetworks Description Here}}</p>\n<h3 id=\"update-azurermapimanagementdeploymentupdate-azurermapimanagementdeploymentmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"57\" sourceendlinenumber=\"57\"><a href=\"Update-AzureRmApiManagementDeployment.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"57\" sourceendlinenumber=\"57\">Update-AzureRmApiManagementDeployment</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"58\" sourceendlinenumber=\"58\">{{Manually Enter Update-AzureRmApiManagementDeployment Description Here}}</p>\n<h3 id=\"update-azurermapimanagementregionupdate-azurermapimanagementregionmd\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"60\" sourceendlinenumber=\"60\"><a href=\"Update-AzureRmApiManagementRegion.md\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"60\" sourceendlinenumber=\"60\">Update-AzureRmApiManagementRegion</a></h3>\n<p sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"61\" sourceendlinenumber=\"61\">{{Manually Enter Update-AzureRmApiManagementRegion Description Here}}</p>\n",
+	"type": "Conceptual",
+	"source": {
+		"remote": {
+			"path": "azureps-cmdlets-docs/Active Directory/v1.0/AzureRM.API Management.md",
+			"branch": "master",
+			"repo": "https://github.com/Visual-Studio-China/azure-powershell-docs-int.git"
+		},
+		"startLine": 0,
+		"endLine": 0,
+		"isExternal": false
+	},
+	"path": "Active Directory/v1.0/AzureRM.API Management.md",
+	"breadcrumb_path": "/powershell/breadcrumb.json",
+	"_docfxVersion": "2.5.0.0",
+	"_gitContribute": {
+		"path": "azureps-cmdlets-docs\\apispec",
+		"branch": "master",
+		"repo": "https://github.com/Visual-Studio-China/azure-powershell-docs-int.git"
+	},
+	"ms.service": "Azure PowerShell",
+	"ms.technology": "Azure PowerShell",
+	"ms.prod": "powershell",
+	"title": "AzureRM.API Management Module",
+	"rawTitle": "<h1 id=\"azurermapi-management-module\" sourcefile=\"Active Directory/v1.0/AzureRM.API Management.md\" sourcestartlinenumber=\"13\" sourceendlinenumber=\"13\">AzureRM.API Management Module</h1>",
+	"Module Name": "AzureRM.API Management",
+	"Help Version": "Please enter version of help manually (X.X.X.X) format",
+	"Locale": "en-US",
+	"ms.topic": "reference",
+	"source_repo": "https://github.com/azure/azure-docs-powershell",
+	"ms.date": "9/1/2016",
+	"source_branch": "master",
+	"Download Help Link": "Please enter FwLink manually",
+	"Module Guid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+	"_op_gitCommitHistory": [{
+		"author_name": "Summer",
+		"author_email": "victoriasqq@gmail.com",
+		"committer_name": "Summer",
+		"comitter_email": "victoriasqq@gmail.com",
+		"message": "commit from appveyor",
+		"commit_sha": "27b880b052924864433e026d3893452e774177b3",
+		"commit_date": "2016-09-01 16:35:23 +0000"
+	},
+	{
+		"author_name": "Summer",
+		"author_email": "victoriasqq@gmail.com",
+		"committer_name": "Summer",
+		"comitter_email": "victoriasqq@gmail.com",
+		"message": "commit from appveyor",
+		"commit_sha": "2b7e89f09c2585152b2cfdbf66d3e9b1e99f6b6e",
+		"commit_date": "2016-08-31 02:31:15 +0000"
+	},
+	{
+		"author_name": "Summer",
+		"author_email": "victoriasqq@gmail.com",
+		"committer_name": "Summer",
+		"comitter_email": "victoriasqq@gmail.com",
+		"message": "commit from appveyor",
+		"commit_sha": "e2c65d16552e19a8effd32a0ec6fe73c6bfafdd5",
+		"commit_date": "2016-08-29 09:50:22 +0000"
+	}],
+	"author": "SummerSun",
+	"updated_at": "2016-09-02 12:35 AM",
+	"_op_gitContributorInformation": {
+		"author": {
+			"profile_url": "https://github.com/SummerSun",
+			"display_name": "Summer",
+			"name": "SummerSun",
+			"id": "5179063"
+		},
+		"contributors": [],
+		"update_at": "9/2/2016",
+		"updated_at_date_time": "2016-09-02T00:35:23+08:00"
+	},
+	"gitcommit": "https://github.com/Visual-Studio-China/azure-powershell-docs-int/blob/27b880b052924864433e026d3893452e774177b3/azureps-cmdlets-docs/Active%20Directory/v1.0/AzureRM.API%20Management.md",
+	"original_content_git_url": "https://github.com/Visual-Studio-China/azure-powershell-docs-int/blob/master/azureps-cmdlets-docs/Active%20Directory/v1.0/AzureRM.API%20Management.md",
+	"open_to_public_contributors": false,
+	"content_git_url": "https://github.com/Visual-Studio-China/azure-powershell-docs-int/blob/master/azureps-cmdlets-docs/Active%20Directory/v1.0/AzureRM.API%20Management.md",
+	"wordCount": 98,
+	"__global": {
+		"_shared": {
+			
+		}
+	}
+}

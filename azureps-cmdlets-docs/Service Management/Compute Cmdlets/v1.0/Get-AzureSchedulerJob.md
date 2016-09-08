@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: 322a1918-d734-42b4-bd0b-13d5ee8d37b5
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Get-AzureSchedulerJob

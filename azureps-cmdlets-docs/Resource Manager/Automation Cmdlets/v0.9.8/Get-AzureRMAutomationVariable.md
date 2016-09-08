@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: 4103a716-9567-4836-b522-d2484452a60e
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Get-AzureRMAutomationVariable

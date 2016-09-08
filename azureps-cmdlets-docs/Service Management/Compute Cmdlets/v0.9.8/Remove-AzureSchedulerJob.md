@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: aaed4c39-d209-4663-b058-b480553ee6a9
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Remove-AzureSchedulerJob

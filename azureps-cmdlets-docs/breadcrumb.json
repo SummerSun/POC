@@ -1,0 +1,13 @@
+[{
+		"toc_title" : "Docs",
+		"href" : "/",
+		"level" : 1,
+		"children" : [{
+				"href" : "/powershell/",
+				"homepage" : "/powershell/",
+				"toc_title" : "Azure PowerShell",
+				"level" : 2
+			}
+		]
+	}
+]

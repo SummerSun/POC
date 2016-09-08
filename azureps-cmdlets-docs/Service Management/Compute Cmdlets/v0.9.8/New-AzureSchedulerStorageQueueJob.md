@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: 29c40d46-86c3-4f67-94f7-484371fdfba5
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # New-AzureSchedulerStorageQueueJob

@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: http://go.microsoft.com/FWLink/p/?LinkID=311701
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Enable-AzureWebsiteApplicationDiagnostic

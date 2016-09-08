@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: 7e2d3105-ae14-40c6-a715-57d63c178cde
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Remove-AzureRMAutomationCertificate

@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: 3997c3b8-37ce-4135-a17d-63ae3bdd8e74
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Remove-AzureWebsiteJob

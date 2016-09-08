@@ -2,6 +2,10 @@
 external help file: RMAzure_Storage.xml
 online version: 02217f39-6c93-401b-8801-52fdd38ba751
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Set-AzureStorageServiceLoggingProperty

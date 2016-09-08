@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: cd411497-be17-46f7-8708-519f02312553
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Export-AzureRmAutomationDscConfiguration

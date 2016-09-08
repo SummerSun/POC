@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Unregister-AzureRMAutomationScheduledRunbook

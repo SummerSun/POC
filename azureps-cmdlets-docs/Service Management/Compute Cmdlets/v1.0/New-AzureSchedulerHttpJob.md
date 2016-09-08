@@ -2,6 +2,10 @@
 external help file: SMAzure_Compute.xml
 online version: 23b849a7-7403-491a-9d21-2104137052ec
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # New-AzureSchedulerHttpJob

@@ -2,6 +2,10 @@
 external help file: RMAzure_Automation.xml
 online version: 048bf33a-0bc1-4433-92e0-bd906f6edb8d
 schema: 2.0.0
+ms.topic: reference
+ms.date: 9/1/2016
+source_repo: https://github.com/azure/azure-docs-powershell
+source_branch: master
 ---
 
 # Set-AzureRMAutomationWebhook
