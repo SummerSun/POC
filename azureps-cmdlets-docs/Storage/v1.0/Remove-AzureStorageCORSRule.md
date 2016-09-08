@@ -2,10 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: accfb0fd-ad3a-4415-abce-a98b8073e82b
 schema: 2.0.0
+updated_at: 9/8/2016 9:18 AM
+ms.date: 9/8/2016
 ms.topic: reference
-ms.date: 9/1/2016
-source_repo: https://github.com/azure/azure-docs-powershell
-source_branch: master
+source_repo: https://github.com/azure/azure-docs-powershell.git
+source_branch: 
+git_commit: d8e0dffd31e2c18c8974bff2988471f35271ce83
 ---
 
 # Remove-AzureStorageCORSRule
