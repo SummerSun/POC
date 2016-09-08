@@ -2,6 +2,12 @@
 external help file: RMAzure_Apimanagement.xml
 online version: e067ded3-a2e3-4d53-8628-0ebbafa62721
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/Backup-AzureRmApiManagement.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/Backup-AzureRmApiManagement.md
+gitcommit: 
 ---
 
 # Backup-AzureRmApiManagement

@@ -2,6 +2,12 @@
 external help file: RMAzure_Automation.xml
 online version: 1a996e7a-1de8-4533-a39a-c17cf1ab18fd
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v1.0/Get-AzureRmAutomationAccount.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v1.0/Get-AzureRmAutomationAccount.md
+gitcommit: 
 ---
 
 # Get-AzureRmAutomationAccount

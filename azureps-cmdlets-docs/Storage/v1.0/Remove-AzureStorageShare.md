@@ -2,6 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: 10a13c83-d545-4729-99f9-048c774f32d7
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Remove-AzureStorageShare.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Remove-AzureStorageShare.md
+gitcommit: 
 ---
 
 # Remove-AzureStorageShare

@@ -2,6 +2,12 @@
 external help file: RMAzure_Apimanagement.xml
 online version: a6e4fc8a-f5c6-4f8e-8ed9-5ee80150b119
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v1.0/Update-AzureRmApiManagementRegion.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v1.0/Update-AzureRmApiManagementRegion.md
+gitcommit: 
 ---
 
 # Update-AzureRmApiManagementRegion

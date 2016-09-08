@@ -2,6 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: 7e23b9f6-5f66-49a3-beb8-e2639c5234d7
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Get-AzureStorageFile.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Get-AzureStorageFile.md
+gitcommit: 
 ---
 
 # Get-AzureStorageFile

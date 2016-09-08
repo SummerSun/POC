@@ -2,6 +2,12 @@
 external help file: RMAzure_Apimanagement.xml
 online version: 73f73a6f-470c-4dd6-95c4-a1302fabb0dd
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/Import-AzureRmApiManagementHostnameCertificate.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/Import-AzureRmApiManagementHostnameCertificate.md
+gitcommit: 
 ---
 
 # Import-AzureRmApiManagementHostnameCertificate

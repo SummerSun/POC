@@ -2,6 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: accfb0fd-ad3a-4415-abce-a98b8073e82b
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageCORSRule.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageCORSRule.md
+gitcommit: 
 ---
 
 # Set-AzureStorageCORSRule

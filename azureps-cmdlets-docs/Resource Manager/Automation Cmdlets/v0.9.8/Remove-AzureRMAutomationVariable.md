@@ -2,6 +2,12 @@
 external help file: RMAzure_Automation.xml
 online version: a6dc9902-ad99-47f9-8212-d3d96146b180
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/Remove-AzureRMAutomationVariable.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/Remove-AzureRMAutomationVariable.md
+gitcommit: 
 ---
 
 # Remove-AzureRMAutomationVariable

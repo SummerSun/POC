@@ -2,6 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: f08d2de2-a276-439c-b9a8-ee187a8c334e
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/New-AzureStorageContainerSASToken.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/New-AzureStorageContainerSASToken.md
+gitcommit: 
 ---
 
 # New-AzureStorageContainerSASToken

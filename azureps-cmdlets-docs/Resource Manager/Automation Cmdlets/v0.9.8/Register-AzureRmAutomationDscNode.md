@@ -2,6 +2,12 @@
 external help file: RMAzure_Automation.xml
 online version: 19472f94-5827-4878-a17a-d7bb10932861
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/Register-AzureRmAutomationDscNode.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/Register-AzureRmAutomationDscNode.md
+gitcommit: 
 ---
 
 # Register-AzureRmAutomationDscNode

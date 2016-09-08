@@ -2,6 +2,12 @@
 external help file: RMAzure_Automation.xml
 online version: e41c8823-9e6a-4535-b90c-0e2de7634c47
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/Get-AzureRMAutomationJobOutput.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/Get-AzureRMAutomationJobOutput.md
+gitcommit: 
 ---
 
 # Get-AzureRMAutomationJobOutput

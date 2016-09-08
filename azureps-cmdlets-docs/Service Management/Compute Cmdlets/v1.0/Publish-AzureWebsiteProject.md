@@ -2,6 +2,12 @@
 external help file: SMAzure_Compute.xml
 online version: 0c2a5092-db45-4ce7-b39b-d1e499b4a867
 schema: 2.0.0
+updated_at: 9/8/2016 10:29 AM
+ms.date: 9/8/2016
+ms.topic: reference
+content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v1.0/Publish-AzureWebsiteProject.md
+original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v1.0/Publish-AzureWebsiteProject.md
+gitcommit: 
 ---
 
 # Publish-AzureWebsiteProject
