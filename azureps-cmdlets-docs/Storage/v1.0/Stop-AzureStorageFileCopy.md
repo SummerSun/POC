@@ -2,12 +2,6 @@
 external help file: RMAzure_Storage.xml
 online version: d9ec4b6f-fb17-4f29-b209-a3d5f212a6f1
 schema: 2.0.0
-updated_at: 9/8/2016 9:18 AM
-ms.date: 9/8/2016
-ms.topic: reference
-source_repo: https://github.com/azure/azure-docs-powershell.git
-source_branch: 
-git_commit: d8e0dffd31e2c18c8974bff2988471f35271ce83
 ---
 
 # Stop-AzureStorageFileCopy

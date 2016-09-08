@@ -2,12 +2,6 @@
 external help file: RMAzure_Automation.xml
 online version: cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce
 schema: 2.0.0
-updated_at: 9/8/2016 9:18 AM
-ms.date: 9/8/2016
-ms.topic: reference
-source_repo: https://github.com/azure/azure-docs-powershell.git
-source_branch: 
-git_commit: 8903b0f1daa01932ac5fa167f377736de2df6709
 ---
 
 # Register-AzureRMAutomationScheduledRunbook

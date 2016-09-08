@@ -2,12 +2,6 @@
 external help file: RMAzure_Apimanagement.xml
 online version: a6e4fc8a-f5c6-4f8e-8ed9-5ee80150b119
 schema: 2.0.0
-updated_at: 9/8/2016 9:18 AM
-ms.date: 9/8/2016
-ms.topic: reference
-source_repo: https://github.com/azure/azure-docs-powershell.git
-source_branch: 
-git_commit: 8903b0f1daa01932ac5fa167f377736de2df6709
 ---
 
 # Remove-AzureRmApiManagementRegion

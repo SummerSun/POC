@@ -2,12 +2,6 @@
 external help file: RMAzure_Automation.xml
 online version: a6dc9902-ad99-47f9-8212-d3d96146b180
 schema: 2.0.0
-updated_at: 9/8/2016 9:18 AM
-ms.date: 9/8/2016
-ms.topic: reference
-source_repo: https://github.com/azure/azure-docs-powershell.git
-source_branch: 
-git_commit: 8903b0f1daa01932ac5fa167f377736de2df6709
 ---
 
 # New-AzureRMAutomationVariable

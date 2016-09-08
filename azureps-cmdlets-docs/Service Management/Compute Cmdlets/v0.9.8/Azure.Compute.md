@@ -1,15 +1,9 @@
 ---
 Module Name: Azure.Compute
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Download Help Link: Please enter FwLink manually
-Help Version: Please enter version of help manually (X.X.X.X) format
+Download Help Link: {{Please enter FwLink manually}}
+Help Version: {{Please enter version of help manually (X.X.X.X) format}}
 Locale: en-US
-updated_at: 9/8/2016 9:18 AM
-ms.date: 9/8/2016
-ms.topic: conceptual
-source_repo: https://github.com/azure/azure-docs-powershell.git
-source_branch: 
-git_commit: 8903b0f1daa01932ac5fa167f377736de2df6709
 ---
 
 # Azure.Compute Module

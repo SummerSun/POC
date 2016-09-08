@@ -2,12 +2,6 @@
 external help file: RMAzure_Storage.xml
 online version: 10a13c83-d545-4729-99f9-048c774f32d7
 schema: 2.0.0
-updated_at: 9/8/2016 9:18 AM
-ms.date: 9/8/2016
-ms.topic: reference
-source_repo: https://github.com/azure/azure-docs-powershell.git
-source_branch: 
-git_commit: d8e0dffd31e2c18c8974bff2988471f35271ce83
 ---
 
 # New-AzureStorageShare
