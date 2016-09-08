@@ -2,12 +2,12 @@
 external help file: SMAzure_Compute.xml
 online version: bb736406-8b48-4bdf-b67b-0c928e674c7d
 schema: 2.0.0
-updated_at: 9/8/2016 10:29 AM
+updated_at: 9/8/2016 10:32 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v1.0/Set-AzureSchedulerStorageQueueJob.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v1.0/Set-AzureSchedulerStorageQueueJob.md
-gitcommit: 
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v1.0/Set-AzureSchedulerStorageQueueJob.md
 ---
 
 # Set-AzureSchedulerStorageQueueJob

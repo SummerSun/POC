@@ -2,12 +2,12 @@
 external help file: RMAzure_Apimanagement.xml
 online version: c667ef41-1fb3-40c3-884a-8f008520a68c
 schema: 2.0.0
-updated_at: 9/8/2016 10:29 AM
+updated_at: 9/8/2016 10:32 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/New-AzureRmApiManagementVirtualNetwork.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/New-AzureRmApiManagementVirtualNetwork.md
-gitcommit: 
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/New-AzureRmApiManagementVirtualNetwork.md
 ---
 
 # New-AzureRmApiManagementVirtualNetwork

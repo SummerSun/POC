@@ -2,12 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: 511d9eb1-959a-4343-b3ef-c6f21998947c
 schema: 2.0.0
-updated_at: 9/8/2016 10:29 AM
+updated_at: 9/8/2016 10:32 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageContainerStoredAccessPolicy.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageContainerStoredAccessPolicy.md
-gitcommit: 
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/d8e0dffd31e2c18c8974bff2988471f35271ce83/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageContainerStoredAccessPolicy.md
 ---
 
 # Set-AzureStorageContainerStoredAccessPolicy

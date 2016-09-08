@@ -2,12 +2,12 @@
 external help file: SMAzure_Compute.xml
 online version: aaed4c39-d209-4663-b058-b480553ee6a9
 schema: 2.0.0
-updated_at: 9/8/2016 10:29 AM
+updated_at: 9/8/2016 10:32 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v0.9.8/Remove-AzureSchedulerJob.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v0.9.8/Remove-AzureSchedulerJob.md
-gitcommit: 
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v0.9.8/Remove-AzureSchedulerJob.md
 ---
 
 # Remove-AzureSchedulerJob

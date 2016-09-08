@@ -2,12 +2,12 @@
 external help file: RMAzure_Automation.xml
 online version: 0bfb6a70-3a4a-4e58-a0b9-e41eb52a90ef
 schema: 2.0.0
-updated_at: 9/8/2016 10:29 AM
+updated_at: 9/8/2016 10:32 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v1.0/Export-AzureRmAutomationDscNodeReportContent.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v1.0/Export-AzureRmAutomationDscNodeReportContent.md
-gitcommit: 
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v1.0/Export-AzureRmAutomationDscNodeReportContent.md
 ---
 
 # Export-AzureRmAutomationDscNodeReportContent

@@ -2,12 +2,12 @@
 external help file: SMAzure_Compute.xml
 online version: 322a1918-d734-42b4-bd0b-13d5ee8d37b5
 schema: 2.0.0
-updated_at: 9/8/2016 10:29 AM
+updated_at: 9/8/2016 10:32 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v0.9.8/Get-AzureSchedulerJob.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v0.9.8/Get-AzureSchedulerJob.md
-gitcommit: 
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Service%20Management/Compute%20Cmdlets/v0.9.8/Get-AzureSchedulerJob.md
 ---
 
 # Get-AzureSchedulerJob
