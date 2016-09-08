@@ -2,15 +2,12 @@
 external help file: RMAzure_Apimanagement.xml
 online version: 6df0b014-03b0-47aa-9d34-9d0fceee2247
 schema: 2.0.0
+updated_at: 9/8/2016 10:40 AM
 ms.date: 9/8/2016
 ms.topic: reference
-source_branch: master
-updated_at: 9/8/2016 10:32 AM
-git_commit: 1457b00e4be43f52e047ac6fd4ed87f3565c5548
-source_repo: https://github.com/azure/azure-docs-powershell
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Active%20Directory/v1.0/Add-AzureRmApiManagementRegion.md
 original_content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Active%20Directory/v1.0/Add-AzureRmApiManagementRegion.md
-gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Active%20Directory/v1.0/Add-AzureRmApiManagementRegion.md
+gitcommit: https://github.com/azure/azure-docs-powershell.git/blob/0e4834f68905747a75751c4d92c3037a81dfd92e/azureps-cmdlets-docs/Active%20Directory/v1.0/Add-AzureRmApiManagementRegion.md
 ---
 
 # Add-AzureRmApiManagementRegion

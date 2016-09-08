@@ -2,7 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: a89aa1b2-cabd-4048-a84d-2b37da287c05
 schema: 2.0.0
-updated_at: 9/8/2016 10:32 AM
+updated_at: 9/8/2016 10:40 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Storage/v1.0/New-AzureStorageQueue.md

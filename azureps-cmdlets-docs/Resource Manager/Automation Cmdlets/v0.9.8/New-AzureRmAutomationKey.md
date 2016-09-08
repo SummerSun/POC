@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: ea09d4b6-ff25-4b91-b957-328222844689
 schema: 2.0.0
-updated_at: 9/8/2016 10:32 AM
+updated_at: 9/8/2016 10:40 AM
 ms.date: 9/8/2016
 ms.topic: reference
 content_git_url: https://github.com/azure/azure-docs-powershell.git/blob/master/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/New-AzureRmAutomationKey.md
