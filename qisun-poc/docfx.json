@@ -3,11 +3,11 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md","**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
-          "qisun-poc/**",
+          "powershell/**",
           "**/includes/**"
         ]
       }
@@ -16,20 +16,26 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "breadcrumb.json"
         ],
         "exclude": [
           "**/obj/**",
-          "qisun-poc/**",
+          "powershell/**",
           "**/includes/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+        "breadcrumb_path": "/powershell/breadcrumb.json",
+        "ms.prod": "powershell",
+        "ms.service": "Azure PowerShell",
+        "ms.technology": "Azure PowerShell"
+    },
     "fileMetadata": {},
     "template": [],
-    "dest": "qisun-poc"
+    "dest": "powershell"
   }
 }
