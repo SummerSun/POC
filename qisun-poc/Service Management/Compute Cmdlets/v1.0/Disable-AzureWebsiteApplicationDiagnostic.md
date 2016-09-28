@@ -2,7 +2,7 @@
 external help file: SMAzure_Compute.xml
 online version: http://go.microsoft.com/FWLink/p/?LinkID=311700
 schema: 2.0.0
-updated_at: 9/28/2016 9:39 AM
+updated_at: 9/28/2016 10:07 AM
 ms.date: 9/28/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/poc-azure-powershell.git

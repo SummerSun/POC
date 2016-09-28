@@ -2,7 +2,7 @@
 external help file: RMAzure_Apimanagement.xml
 online version: c667ef41-1fb3-40c3-884a-8f008520a68c
 schema: 2.0.0
-updated_at: 9/28/2016 9:39 AM
+updated_at: 9/28/2016 10:07 AM
 ms.date: 9/28/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/poc-azure-powershell.git

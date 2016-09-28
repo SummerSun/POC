@@ -2,7 +2,7 @@
 external help file: RMAzure_Storage.xml
 online version: c3d50900-70d6-44af-b939-abe86fcf89e6
 schema: 2.0.0
-updated_at: 9/28/2016 9:39 AM
+updated_at: 9/28/2016 10:07 AM
 ms.date: 9/28/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/poc-azure-powershell.git

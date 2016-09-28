@@ -2,7 +2,7 @@
 external help file: RMAzure_Automation.xml
 online version: 36c11dd3-5843-49d2-8baa-9f5aa737d345
 schema: 2.0.0
-updated_at: 9/28/2016 9:39 AM
+updated_at: 9/28/2016 10:07 AM
 ms.date: 9/28/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/poc-azure-powershell.git
