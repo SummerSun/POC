@@ -4,7 +4,7 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-updated_at: 9/28/2016 10:07 AM
+updated_at: 9/28/2016 10:23 AM
 ms.date: 9/28/2016
 ms.topic: conceptual
 source_repo: https://github.com/SummerSun/poc-azure-powershell.git
