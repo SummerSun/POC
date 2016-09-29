@@ -11,14 +11,14 @@
                 "level":2,
                 "children":[
                     {  
-                        "href":"/active%20directory/v1.0/azurerm.api%20management",
-                        "homepage":"/active%20directory/v1.0/azurerm.api%20management",
+                        "href":"/qisun-poc/azureps-cmdlets-docs/",
+                        "homepage":"/qisun-poc/azureps-cmdlets-docs/",
                         "toc_title":"Azure PowerShell",
                         "level":3
                     },
                     {  
-                        "href":"/qisun-poc/azuread/v1.0/azuread",
-                        "homepage":"/qisun-poc/azuread/v1.0/azuread",
+                        "href":"/qisun-poc/Azure%20AD%20Cmdlets/,
+                        "homepage":"/qisun-poc/Azure%20AD%20Cmdlets/",
                         "toc_title":"Azure AD",
                         "level":3
                     }
