@@ -4,7 +4,7 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-updated_at: 9/29/2016 8:25 AM
+updated_at: 9/29/2016 8:29 AM
 ms.date: 9/29/2016
 ms.topic: conceptual
 source_repo: https://github.com/SummerSun/poc-azure-ad.git
