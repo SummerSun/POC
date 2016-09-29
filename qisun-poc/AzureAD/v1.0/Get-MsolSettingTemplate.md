@@ -2,8 +2,8 @@
 external help file: AzureADHelpMSOL.xml
 online version: 4955285a-6fe5-46e2-affc-8b1798ae8f2a
 schema: 2.0.0
-updated_at: 9/28/2016 11:48 AM
-ms.date: 9/28/2016
+updated_at: 9/29/2016 8:25 AM
+ms.date: 9/29/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/poc-azure-ad.git
 source_branch: master
