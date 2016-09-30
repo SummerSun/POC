@@ -2,12 +2,12 @@
 external help file: AzureADHelpMSOL.xml
 online version: 22a5d63b-5386-4137-965f-e5cf5696dde5
 schema: 2.0.0
-updated_at: 9/29/2016 8:29 AM
-ms.date: 9/29/2016
+updated_at: 9/30/2016 8:48 AM
+ms.date: 9/30/2016
 ms.topic: reference
-source_repo: https://github.com/SummerSun/poc-azure-ad.git
+source_repo: https://github.com/SummerSun/azure-docs-powershell-azuread-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/poc-azure-ad.git/blob/aa68880375be962d5646d6d763347021b391b5c6/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolAllSettings.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolAllSettings.md
 ---
 
 # Get-MsolAllSettings
