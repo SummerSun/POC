@@ -2,12 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: 2cbd0756-0224-43b0-8e22-a7316b7e24c2
 schema: 2.0.0
-updated_at: 9/29/2016 8:30 AM
-ms.date: 9/29/2016
+updated_at: 9/30/2016 8:43 AM
+ms.date: 9/30/2016
 ms.topic: reference
-source_repo: https://github.com/SummerSun/poc-azure-powershell.git
+source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/poc-azure-powershell.git/blob/d8e0dffd31e2c18c8974bff2988471f35271ce83/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageFileContent.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/d8e0dffd31e2c18c8974bff2988471f35271ce83/azureps-cmdlets-docs/Storage/v1.0/Set-AzureStorageFileContent.md
 ---
 
 # Set-AzureStorageFileContent

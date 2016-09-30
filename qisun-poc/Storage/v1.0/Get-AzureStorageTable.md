@@ -2,12 +2,12 @@
 external help file: RMAzure_Storage.xml
 online version: 36ff9a70-74d8-4b37-9962-c01b531c9a01
 schema: 2.0.0
-updated_at: 9/29/2016 8:30 AM
-ms.date: 9/29/2016
+updated_at: 9/30/2016 8:43 AM
+ms.date: 9/30/2016
 ms.topic: reference
-source_repo: https://github.com/SummerSun/poc-azure-powershell.git
+source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/poc-azure-powershell.git/blob/d8e0dffd31e2c18c8974bff2988471f35271ce83/azureps-cmdlets-docs/Storage/v1.0/Get-AzureStorageTable.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/d8e0dffd31e2c18c8974bff2988471f35271ce83/azureps-cmdlets-docs/Storage/v1.0/Get-AzureStorageTable.md
 ---
 
 # Get-AzureStorageTable

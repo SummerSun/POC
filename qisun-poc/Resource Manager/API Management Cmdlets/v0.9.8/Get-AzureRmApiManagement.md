@@ -2,12 +2,12 @@
 external help file: RMAzure_Apimanagement.xml
 online version: b3b67164-7adf-4fe3-87ab-51dcd46ed084
 schema: 2.0.0
-updated_at: 9/29/2016 8:30 AM
-ms.date: 9/29/2016
+updated_at: 9/30/2016 8:43 AM
+ms.date: 9/30/2016
 ms.topic: reference
-source_repo: https://github.com/SummerSun/poc-azure-powershell.git
+source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/poc-azure-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/Get-AzureRmApiManagement.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Resource%20Manager/API%20Management%20Cmdlets/v0.9.8/Get-AzureRmApiManagement.md
 ---
 
 # Get-AzureRmApiManagement

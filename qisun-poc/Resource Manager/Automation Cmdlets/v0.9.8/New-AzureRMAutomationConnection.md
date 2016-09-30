@@ -2,12 +2,12 @@
 external help file: RMAzure_Automation.xml
 online version: 68f56d1c-23a9-4cb5-8fe8-c3a1e7c2ac1a
 schema: 2.0.0
-updated_at: 9/29/2016 8:30 AM
-ms.date: 9/29/2016
+updated_at: 9/30/2016 8:43 AM
+ms.date: 9/30/2016
 ms.topic: reference
-source_repo: https://github.com/SummerSun/poc-azure-powershell.git
+source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/poc-azure-powershell.git/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/New-AzureRMAutomationConnection.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/8903b0f1daa01932ac5fa167f377736de2df6709/azureps-cmdlets-docs/Resource%20Manager/Automation%20Cmdlets/v0.9.8/New-AzureRMAutomationConnection.md
 ---
 
 # New-AzureRMAutomationConnection
