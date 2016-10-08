@@ -2,7 +2,7 @@
 external help file: AzureADHelpMSOL.xml
 online version: 3df291fc-2a4e-4493-8c1e-bfe2977b5f15
 schema: 2.0.0
-updated_at: 10/8/2016 5:53 AM
+updated_at: 10/8/2016 7:57 AM
 ms.date: 10/8/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/azure-docs-powershell-azuread-int
