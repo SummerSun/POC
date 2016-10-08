@@ -4,7 +4,7 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-updated_at: 10/8/2016 7:57 AM
+updated_at: 10/8/2016 8:31 AM
 ms.date: 10/8/2016
 ms.topic: conceptual
 source_repo: https://github.com/SummerSun/azure-docs-powershell-azuread-int
