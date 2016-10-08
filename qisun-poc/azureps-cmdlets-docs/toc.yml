@@ -1,880 +1,880 @@
 - name: Resource Manager
   items:
-    - name: API Management Cmdlets
+    - name: v0.9.8
       items:
-        - name: v0.9.8
-          href: ../Resource Manager/API Management Cmdlets/v0.9.8/AzureRM.API Management.md
+        - name: AzureRM.APIManagement
+          href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/AzureRM.API Management.md
           items:
             - name: Add-AzureRmApiManagementRegion
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Add-AzureRmApiManagementRegion.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Add-AzureRmApiManagementRegion.md
             - name: Backup-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Backup-AzureRmApiManagement.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Backup-AzureRmApiManagement.md
             - name: Get-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Get-AzureRmApiManagement.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Get-AzureRmApiManagement.md
             - name: Get-AzureRmApiManagementSsoToken
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Get-AzureRmApiManagementSsoToken.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Get-AzureRmApiManagementSsoToken.md
             - name: Import-AzureRmApiManagementHostnameCertificate
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Import-AzureRmApiManagementHostnameCertificate.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Import-AzureRmApiManagementHostnameCertificate.md
             - name: New-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/New-AzureRmApiManagement.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/New-AzureRmApiManagement.md
             - name: New-AzureRmApiManagementHostnameConfiguration
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/New-AzureRmApiManagementHostnameConfiguration.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/New-AzureRmApiManagementHostnameConfiguration.md
             - name: New-AzureRmApiManagementVirtualNetwork
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/New-AzureRmApiManagementVirtualNetwork.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/New-AzureRmApiManagementVirtualNetwork.md
             - name: Remove-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Remove-AzureRmApiManagement.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Remove-AzureRmApiManagement.md
             - name: Remove-AzureRmApiManagementRegion
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Remove-AzureRmApiManagementRegion.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Remove-AzureRmApiManagementRegion.md
             - name: Restore-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Restore-AzureRmApiManagement.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Restore-AzureRmApiManagement.md
             - name: Set-AzureRmApiManagementHostnames
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Set-AzureRmApiManagementHostnames.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Set-AzureRmApiManagementHostnames.md
             - name: Set-AzureRmApiManagementVirtualNetworks
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Set-AzureRmApiManagementVirtualNetworks.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Set-AzureRmApiManagementVirtualNetworks.md
             - name: Update-AzureRmApiManagementDeployment
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Update-AzureRmApiManagementDeployment.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Update-AzureRmApiManagementDeployment.md
             - name: Update-AzureRmApiManagementRegion
-              href: ../Resource Manager/API Management Cmdlets/v0.9.8/Update-AzureRmApiManagementRegion.md
-        - name: v1.0
-          href: ../Resource Manager/API Management Cmdlets/v1.0/AzureRM.API Management.md
+              href: ../Resource Manager/v0.9.8/AzureRM.APIManagement/Update-AzureRmApiManagementRegion.md
+        - name: AzureRM.Automation
+          href: ../Resource Manager/v0.9.8/AzureRM.Automation/AzureRM.Automation.md
+          items:
+            - name: Export-AzureRmAutomationDscConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Export-AzureRmAutomationDscConfiguration.md
+            - name: Export-AzureRmAutomationDscNodeReportContent
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Export-AzureRmAutomationDscNodeReportContent.md
+            - name: Export-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Export-AzureRMAutomationRunbook.md
+            - name: Get-AzureRmAutomationAccount
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationAccount.md
+            - name: Get-AzureRMAutomationCertificate
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationCertificate.md
+            - name: Get-AzureRMAutomationConnection
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationConnection.md
+            - name: Get-AzureRMAutomationCredential
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationCredential.md
+            - name: Get-AzureRmAutomationDscCompilationJob
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscCompilationJob.md
+            - name: Get-AzureRmAutomationDscCompilationJobOutput
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscCompilationJobOutput.md
+            - name: Get-AzureRmAutomationDscConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscConfiguration.md
+            - name: Get-AzureRmAutomationDscNode
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscNode.md
+            - name: Get-AzureRmAutomationDscNodeConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscNodeConfiguration.md
+            - name: Get-AzureRmAutomationDscNodeReport
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscNodeReport.md
+            - name: Get-AzureRmAutomationDscOnboardingMetaconfig
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationDscOnboardingMetaconfig.md
+            - name: Get-AzureRMAutomationHybridWorkerGroup
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationHybridWorkerGroup.md
+            - name: Get-AzureRMAutomationJob
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationJob.md
+            - name: Get-AzureRMAutomationJobOutput
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationJobOutput.md
+            - name: Get-AzureRmAutomationJobOutputRecord
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationJobOutputRecord.md
+            - name: Get-AzureRmAutomationModule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationModule.md
+            - name: Get-AzureRmAutomationRegistrationInfo
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationRegistrationInfo.md
+            - name: Get-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationRunbook.md
+            - name: Get-AzureRMAutomationSchedule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationSchedule.md
+            - name: Get-AzureRMAutomationScheduledRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationScheduledRunbook.md
+            - name: Get-AzureRMAutomationVariable
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationVariable.md
+            - name: Get-AzureRMAutomationWebhook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Get-AzureRMAutomationWebhook.md
+            - name: Import-AzureRmAutomationDscConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Import-AzureRmAutomationDscConfiguration.md
+            - name: Import-AzureRmAutomationDscNodeConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Import-AzureRmAutomationDscNodeConfiguration.md
+            - name: Import-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Import-AzureRMAutomationRunbook.md
+            - name: New-AzureRmAutomationAccount
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRmAutomationAccount.md
+            - name: New-AzureRMAutomationCertificate
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationCertificate.md
+            - name: New-AzureRMAutomationConnection
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationConnection.md
+            - name: New-AzureRMAutomationCredential
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationCredential.md
+            - name: New-AzureRmAutomationKey
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRmAutomationKey.md
+            - name: New-AzureRmAutomationModule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRmAutomationModule.md
+            - name: New-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationRunbook.md
+            - name: New-AzureRMAutomationSchedule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationSchedule.md
+            - name: New-AzureRMAutomationVariable
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationVariable.md
+            - name: New-AzureRMAutomationWebhook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/New-AzureRMAutomationWebhook.md
+            - name: Publish-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Publish-AzureRMAutomationRunbook.md
+            - name: Register-AzureRmAutomationDscNode
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Register-AzureRmAutomationDscNode.md
+            - name: Register-AzureRMAutomationScheduledRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Register-AzureRMAutomationScheduledRunbook.md
+            - name: Remove-AzureRmAutomationAccount
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRmAutomationAccount.md
+            - name: Remove-AzureRMAutomationCertificate
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationCertificate.md
+            - name: Remove-AzureRMAutomationConnection
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationConnection.md
+            - name: Remove-AzureRmAutomationConnectionType
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRmAutomationConnectionType.md
+            - name: Remove-AzureRMAutomationCredential
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationCredential.md
+            - name: Remove-AzureRmAutomationDscConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRmAutomationDscConfiguration.md
+            - name: Remove-AzureRmAutomationDscNodeConfiguration
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRmAutomationDscNodeConfiguration.md
+            - name: Remove-AzureRmAutomationModule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRmAutomationModule.md
+            - name: Remove-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationRunbook.md
+            - name: Remove-AzureRMAutomationSchedule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationSchedule.md
+            - name: Remove-AzureRMAutomationVariable
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationVariable.md
+            - name: Remove-AzureRMAutomationWebhook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Remove-AzureRMAutomationWebhook.md
+            - name: Resume-AzureRMAutomationJob
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Resume-AzureRMAutomationJob.md
+            - name: Set-AzureRmAutomationAccount
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRmAutomationAccount.md
+            - name: Set-AzureRMAutomationCertificate
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationCertificate.md
+            - name: Set-AzureRMAutomationConnectionFieldValue
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationConnectionFieldValue.md
+            - name: Set-AzureRMAutomationCredential
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationCredential.md
+            - name: Set-AzureRmAutomationDscNode
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRmAutomationDscNode.md
+            - name: Set-AzureRmAutomationModule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRmAutomationModule.md
+            - name: Set-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationRunbook.md
+            - name: Set-AzureRMAutomationSchedule
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationSchedule.md
+            - name: Set-AzureRMAutomationVariable
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationVariable.md
+            - name: Set-AzureRMAutomationWebhook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Set-AzureRMAutomationWebhook.md
+            - name: Start-AzureRmAutomationDscCompilationJob
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Start-AzureRmAutomationDscCompilationJob.md
+            - name: Start-AzureRMAutomationRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Start-AzureRMAutomationRunbook.md
+            - name: Stop-AzureRMAutomationJob
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Stop-AzureRMAutomationJob.md
+            - name: Suspend-AzureRMAutomationJob
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Suspend-AzureRMAutomationJob.md
+            - name: Unregister-AzureRmAutomationDscNode
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Unregister-AzureRmAutomationDscNode.md
+            - name: Unregister-AzureRMAutomationScheduledRunbook
+              href: ../Resource Manager/v0.9.8/AzureRM.Automation/Unregister-AzureRMAutomationScheduledRunbook.md
+    - name: v1.0
+      items:
+        - name: AzureRM.APIManagement
+          href: ../Resource Manager/v1.0/AzureRM.APIManagement/AzureRM.API Management.md
           items:
             - name: Add-AzureRmApiManagementRegion
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Add-AzureRmApiManagementRegion.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Add-AzureRmApiManagementRegion.md
             - name: Backup-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Backup-AzureRmApiManagement.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Backup-AzureRmApiManagement.md
             - name: Get-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Get-AzureRmApiManagement.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Get-AzureRmApiManagement.md
             - name: Get-AzureRmApiManagementSsoToken
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Get-AzureRmApiManagementSsoToken.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Get-AzureRmApiManagementSsoToken.md
             - name: Import-AzureRmApiManagementHostnameCertificate
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Import-AzureRmApiManagementHostnameCertificate.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Import-AzureRmApiManagementHostnameCertificate.md
             - name: New-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v1.0/New-AzureRmApiManagement.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/New-AzureRmApiManagement.md
             - name: New-AzureRmApiManagementHostnameConfiguration
-              href: ../Resource Manager/API Management Cmdlets/v1.0/New-AzureRmApiManagementHostnameConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/New-AzureRmApiManagementHostnameConfiguration.md
             - name: New-AzureRmApiManagementVirtualNetwork
-              href: ../Resource Manager/API Management Cmdlets/v1.0/New-AzureRmApiManagementVirtualNetwork.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/New-AzureRmApiManagementVirtualNetwork.md
             - name: Remove-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Remove-AzureRmApiManagement.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Remove-AzureRmApiManagement.md
             - name: Remove-AzureRmApiManagementRegion
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Remove-AzureRmApiManagementRegion.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Remove-AzureRmApiManagementRegion.md
             - name: Restore-AzureRmApiManagement
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Restore-AzureRmApiManagement.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Restore-AzureRmApiManagement.md
             - name: Set-AzureRmApiManagementHostnames
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Set-AzureRmApiManagementHostnames.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Set-AzureRmApiManagementHostnames.md
             - name: Set-AzureRmApiManagementVirtualNetworks
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Set-AzureRmApiManagementVirtualNetworks.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Set-AzureRmApiManagementVirtualNetworks.md
             - name: Update-AzureRmApiManagementDeployment
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Update-AzureRmApiManagementDeployment.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Update-AzureRmApiManagementDeployment.md
             - name: Update-AzureRmApiManagementRegion
-              href: ../Resource Manager/API Management Cmdlets/v1.0/Update-AzureRmApiManagementRegion.md
-    - name: Automation Cmdlets
-      items:
-        - name: v0.9.8
-          href: ../Resource Manager/Automation Cmdlets/v0.9.8/AzureRM.Automation.md
+              href: ../Resource Manager/v1.0/AzureRM.APIManagement/Update-AzureRmApiManagementRegion.md
+        - name: AzureRM.Automation
+          href: ../Resource Manager/v1.0/AzureRM.Automation/AzureRM.Automation.md
           items:
             - name: Export-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Export-AzureRmAutomationDscConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Export-AzureRmAutomationDscConfiguration.md
             - name: Export-AzureRmAutomationDscNodeReportContent
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Export-AzureRmAutomationDscNodeReportContent.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Export-AzureRmAutomationDscNodeReportContent.md
             - name: Export-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Export-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Export-AzureRMAutomationRunbook.md
             - name: Get-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationAccount.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationAccount.md
             - name: Get-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationCertificate.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationCertificate.md
             - name: Get-AzureRMAutomationConnection
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationConnection.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationConnection.md
             - name: Get-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationCredential.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationCredential.md
             - name: Get-AzureRmAutomationDscCompilationJob
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscCompilationJob.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscCompilationJob.md
             - name: Get-AzureRmAutomationDscCompilationJobOutput
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscCompilationJobOutput.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscCompilationJobOutput.md
             - name: Get-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscConfiguration.md
             - name: Get-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscNode.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscNode.md
             - name: Get-AzureRmAutomationDscNodeConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscNodeConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscNodeConfiguration.md
             - name: Get-AzureRmAutomationDscNodeReport
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscNodeReport.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscNodeReport.md
             - name: Get-AzureRmAutomationDscOnboardingMetaconfig
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationDscOnboardingMetaconfig.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationDscOnboardingMetaconfig.md
             - name: Get-AzureRMAutomationHybridWorkerGroup
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationHybridWorkerGroup.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationHybridWorkerGroup.md
             - name: Get-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationJob.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationJob.md
             - name: Get-AzureRMAutomationJobOutput
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationJobOutput.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationJobOutput.md
             - name: Get-AzureRmAutomationJobOutputRecord
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationJobOutputRecord.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationJobOutputRecord.md
             - name: Get-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationModule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationModule.md
             - name: Get-AzureRmAutomationRegistrationInfo
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRmAutomationRegistrationInfo.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRmAutomationRegistrationInfo.md
             - name: Get-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationRunbook.md
             - name: Get-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationSchedule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationSchedule.md
             - name: Get-AzureRMAutomationScheduledRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationScheduledRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationScheduledRunbook.md
             - name: Get-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationVariable.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationVariable.md
             - name: Get-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Get-AzureRMAutomationWebhook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Get-AzureRMAutomationWebhook.md
             - name: Import-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Import-AzureRmAutomationDscConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Import-AzureRmAutomationDscConfiguration.md
             - name: Import-AzureRmAutomationDscNodeConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Import-AzureRmAutomationDscNodeConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Import-AzureRmAutomationDscNodeConfiguration.md
             - name: Import-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Import-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Import-AzureRMAutomationRunbook.md
             - name: New-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRmAutomationAccount.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRmAutomationAccount.md
             - name: New-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationCertificate.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationCertificate.md
             - name: New-AzureRMAutomationConnection
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationConnection.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationConnection.md
             - name: New-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationCredential.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationCredential.md
             - name: New-AzureRmAutomationKey
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRmAutomationKey.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRmAutomationKey.md
             - name: New-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRmAutomationModule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRmAutomationModule.md
             - name: New-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationRunbook.md
             - name: New-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationSchedule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationSchedule.md
             - name: New-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationVariable.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationVariable.md
             - name: New-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/New-AzureRMAutomationWebhook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/New-AzureRMAutomationWebhook.md
             - name: Publish-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Publish-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Publish-AzureRMAutomationRunbook.md
             - name: Register-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Register-AzureRmAutomationDscNode.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Register-AzureRmAutomationDscNode.md
             - name: Register-AzureRMAutomationScheduledRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Register-AzureRMAutomationScheduledRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Register-AzureRMAutomationScheduledRunbook.md
             - name: Remove-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRmAutomationAccount.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRmAutomationAccount.md
             - name: Remove-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationCertificate.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationCertificate.md
             - name: Remove-AzureRMAutomationConnection
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationConnection.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationConnection.md
             - name: Remove-AzureRmAutomationConnectionType
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRmAutomationConnectionType.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRmAutomationConnectionType.md
             - name: Remove-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationCredential.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationCredential.md
             - name: Remove-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRmAutomationDscConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRmAutomationDscConfiguration.md
             - name: Remove-AzureRmAutomationDscNodeConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRmAutomationDscNodeConfiguration.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRmAutomationDscNodeConfiguration.md
             - name: Remove-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRmAutomationModule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRmAutomationModule.md
             - name: Remove-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationRunbook.md
             - name: Remove-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationSchedule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationSchedule.md
             - name: Remove-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationVariable.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationVariable.md
             - name: Remove-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Remove-AzureRMAutomationWebhook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Remove-AzureRMAutomationWebhook.md
             - name: Resume-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Resume-AzureRMAutomationJob.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Resume-AzureRMAutomationJob.md
             - name: Set-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRmAutomationAccount.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRmAutomationAccount.md
             - name: Set-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationCertificate.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationCertificate.md
             - name: Set-AzureRMAutomationConnectionFieldValue
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationConnectionFieldValue.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationConnectionFieldValue.md
             - name: Set-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationCredential.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationCredential.md
             - name: Set-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRmAutomationDscNode.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRmAutomationDscNode.md
             - name: Set-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRmAutomationModule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRmAutomationModule.md
             - name: Set-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationRunbook.md
             - name: Set-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationSchedule.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationSchedule.md
             - name: Set-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationVariable.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationVariable.md
             - name: Set-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Set-AzureRMAutomationWebhook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Set-AzureRMAutomationWebhook.md
             - name: Start-AzureRmAutomationDscCompilationJob
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Start-AzureRmAutomationDscCompilationJob.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Start-AzureRmAutomationDscCompilationJob.md
             - name: Start-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Start-AzureRMAutomationRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Start-AzureRMAutomationRunbook.md
             - name: Stop-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Stop-AzureRMAutomationJob.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Stop-AzureRMAutomationJob.md
             - name: Suspend-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Suspend-AzureRMAutomationJob.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Suspend-AzureRMAutomationJob.md
             - name: Unregister-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Unregister-AzureRmAutomationDscNode.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Unregister-AzureRmAutomationDscNode.md
             - name: Unregister-AzureRMAutomationScheduledRunbook
-              href: ../Resource Manager/Automation Cmdlets/v0.9.8/Unregister-AzureRMAutomationScheduledRunbook.md
-        - name: v1.0
-          href: ../Resource Manager/Automation Cmdlets/v1.0/AzureRM.Automation.md
-          items:
-            - name: Export-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Export-AzureRmAutomationDscConfiguration.md
-            - name: Export-AzureRmAutomationDscNodeReportContent
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Export-AzureRmAutomationDscNodeReportContent.md
-            - name: Export-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Export-AzureRMAutomationRunbook.md
-            - name: Get-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationAccount.md
-            - name: Get-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationCertificate.md
-            - name: Get-AzureRMAutomationConnection
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationConnection.md
-            - name: Get-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationCredential.md
-            - name: Get-AzureRmAutomationDscCompilationJob
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscCompilationJob.md
-            - name: Get-AzureRmAutomationDscCompilationJobOutput
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscCompilationJobOutput.md
-            - name: Get-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscConfiguration.md
-            - name: Get-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscNode.md
-            - name: Get-AzureRmAutomationDscNodeConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscNodeConfiguration.md
-            - name: Get-AzureRmAutomationDscNodeReport
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscNodeReport.md
-            - name: Get-AzureRmAutomationDscOnboardingMetaconfig
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationDscOnboardingMetaconfig.md
-            - name: Get-AzureRMAutomationHybridWorkerGroup
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationHybridWorkerGroup.md
-            - name: Get-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationJob.md
-            - name: Get-AzureRMAutomationJobOutput
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationJobOutput.md
-            - name: Get-AzureRmAutomationJobOutputRecord
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationJobOutputRecord.md
-            - name: Get-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationModule.md
-            - name: Get-AzureRmAutomationRegistrationInfo
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRmAutomationRegistrationInfo.md
-            - name: Get-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationRunbook.md
-            - name: Get-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationSchedule.md
-            - name: Get-AzureRMAutomationScheduledRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationScheduledRunbook.md
-            - name: Get-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationVariable.md
-            - name: Get-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Get-AzureRMAutomationWebhook.md
-            - name: Import-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Import-AzureRmAutomationDscConfiguration.md
-            - name: Import-AzureRmAutomationDscNodeConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Import-AzureRmAutomationDscNodeConfiguration.md
-            - name: Import-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Import-AzureRMAutomationRunbook.md
-            - name: New-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRmAutomationAccount.md
-            - name: New-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationCertificate.md
-            - name: New-AzureRMAutomationConnection
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationConnection.md
-            - name: New-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationCredential.md
-            - name: New-AzureRmAutomationKey
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRmAutomationKey.md
-            - name: New-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRmAutomationModule.md
-            - name: New-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationRunbook.md
-            - name: New-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationSchedule.md
-            - name: New-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationVariable.md
-            - name: New-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/New-AzureRMAutomationWebhook.md
-            - name: Publish-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Publish-AzureRMAutomationRunbook.md
-            - name: Register-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Register-AzureRmAutomationDscNode.md
-            - name: Register-AzureRMAutomationScheduledRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Register-AzureRMAutomationScheduledRunbook.md
-            - name: Remove-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRmAutomationAccount.md
-            - name: Remove-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationCertificate.md
-            - name: Remove-AzureRMAutomationConnection
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationConnection.md
-            - name: Remove-AzureRmAutomationConnectionType
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRmAutomationConnectionType.md
-            - name: Remove-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationCredential.md
-            - name: Remove-AzureRmAutomationDscConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRmAutomationDscConfiguration.md
-            - name: Remove-AzureRmAutomationDscNodeConfiguration
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRmAutomationDscNodeConfiguration.md
-            - name: Remove-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRmAutomationModule.md
-            - name: Remove-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationRunbook.md
-            - name: Remove-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationSchedule.md
-            - name: Remove-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationVariable.md
-            - name: Remove-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Remove-AzureRMAutomationWebhook.md
-            - name: Resume-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Resume-AzureRMAutomationJob.md
-            - name: Set-AzureRmAutomationAccount
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRmAutomationAccount.md
-            - name: Set-AzureRMAutomationCertificate
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationCertificate.md
-            - name: Set-AzureRMAutomationConnectionFieldValue
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationConnectionFieldValue.md
-            - name: Set-AzureRMAutomationCredential
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationCredential.md
-            - name: Set-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRmAutomationDscNode.md
-            - name: Set-AzureRmAutomationModule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRmAutomationModule.md
-            - name: Set-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationRunbook.md
-            - name: Set-AzureRMAutomationSchedule
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationSchedule.md
-            - name: Set-AzureRMAutomationVariable
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationVariable.md
-            - name: Set-AzureRMAutomationWebhook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Set-AzureRMAutomationWebhook.md
-            - name: Start-AzureRmAutomationDscCompilationJob
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Start-AzureRmAutomationDscCompilationJob.md
-            - name: Start-AzureRMAutomationRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Start-AzureRMAutomationRunbook.md
-            - name: Stop-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Stop-AzureRMAutomationJob.md
-            - name: Suspend-AzureRMAutomationJob
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Suspend-AzureRMAutomationJob.md
-            - name: Unregister-AzureRmAutomationDscNode
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Unregister-AzureRmAutomationDscNode.md
-            - name: Unregister-AzureRMAutomationScheduledRunbook
-              href: ../Resource Manager/Automation Cmdlets/v1.0/Unregister-AzureRMAutomationScheduledRunbook.md
+              href: ../Resource Manager/v1.0/AzureRM.Automation/Unregister-AzureRMAutomationScheduledRunbook.md
 - name: Service Management
   items:
-    - name: Antimalware Cmdlets
+    - name: v0.9.8
       items:
-        - name: v0.9.8
-          href: ../Service Management/Antimalware Cmdlets/v0.9.8/Azure.Antimalware.md
+        - name: Azure.Antimalware
+          href: ../Service Management/v0.9.8/Azure.Antimalware/Azure.Antimalware.md
           items:
             - name: Get-AzureServiceAntimalwareConfig
-              href: ../Service Management/Antimalware Cmdlets/v0.9.8/Get-AzureServiceAntimalwareConfig.md
+              href: ../Service Management/v0.9.8/Azure.Antimalware/Get-AzureServiceAntimalwareConfig.md
             - name: Get-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v0.9.8/Get-AzureVMMicrosoftAntimalwareExtension.md
+              href: ../Service Management/v0.9.8/Azure.Antimalware/Get-AzureVMMicrosoftAntimalwareExtension.md
             - name: Remove-AzureServiceAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v0.9.8/Remove-AzureServiceAntimalwareExtension.md
+              href: ../Service Management/v0.9.8/Azure.Antimalware/Remove-AzureServiceAntimalwareExtension.md
             - name: Remove-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v0.9.8/Remove-AzureVMMicrosoftAntimalwareExtension.md
+              href: ../Service Management/v0.9.8/Azure.Antimalware/Remove-AzureVMMicrosoftAntimalwareExtension.md
             - name: Set-AzureServiceAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v0.9.8/Set-AzureServiceAntimalwareExtension.md
+              href: ../Service Management/v0.9.8/Azure.Antimalware/Set-AzureServiceAntimalwareExtension.md
             - name: Set-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v0.9.8/Set-AzureVMMicrosoftAntimalwareExtension.md
-        - name: v1.0
-          href: ../Service Management/Antimalware Cmdlets/v1.0/Azure.Antimalware.md
-          items:
-            - name: Get-AzureServiceAntimalwareConfig
-              href: ../Service Management/Antimalware Cmdlets/v1.0/Get-AzureServiceAntimalwareConfig.md
-            - name: Get-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v1.0/Get-AzureVMMicrosoftAntimalwareExtension.md
-            - name: Remove-AzureServiceAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v1.0/Remove-AzureServiceAntimalwareExtension.md
-            - name: Remove-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v1.0/Remove-AzureVMMicrosoftAntimalwareExtension.md
-            - name: Set-AzureServiceAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v1.0/Set-AzureServiceAntimalwareExtension.md
-            - name: Set-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Antimalware Cmdlets/v1.0/Set-AzureVMMicrosoftAntimalwareExtension.md
-    - name: Compute Cmdlets
-      items:
-        - name: v0.9.8
-          href: ../Service Management/Compute Cmdlets/v0.9.8/Azure.Compute.md
+              href: ../Service Management/v0.9.8/Azure.Antimalware/Set-AzureVMMicrosoftAntimalwareExtension.md
+        - name: Azure.Compute
+          href: ../Service Management/v0.9.8/Azure.Compute/Azure.Compute.md
           items:
             - name: Add-AzureCacheWorkerRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureCacheWorkerRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureCacheWorkerRole.md
             - name: Add-AzureDjangoWebRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureDjangoWebRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureDjangoWebRole.md
             - name: Add-AzureNodeWebRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureNodeWebRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureNodeWebRole.md
             - name: Add-AzureNodeWorkerRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureNodeWorkerRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureNodeWorkerRole.md
             - name: Add-AzurePHPWebRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzurePHPWebRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzurePHPWebRole.md
             - name: Add-AzurePHPWorkerRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzurePHPWorkerRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzurePHPWorkerRole.md
             - name: Add-AzureVMDataDisk
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureVMDataDisk.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureVMDataDisk.md
             - name: Add-AzureVMNetworkInterface
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureVMNetworkInterface.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureVMNetworkInterface.md
             - name: Add-AzureWebRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureWebRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureWebRole.md
             - name: Add-AzureWorkerRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Add-AzureWorkerRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Add-AzureWorkerRole.md
             - name: Disable-AzureServiceProjectRemoteDesktop
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Disable-AzureServiceProjectRemoteDesktop.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Disable-AzureServiceProjectRemoteDesktop.md
             - name: Disable-AzureWebsiteApplicationDiagnostic
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Disable-AzureWebsiteApplicationDiagnostic.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Disable-AzureWebsiteApplicationDiagnostic.md
             - name: Disable-AzureWebsiteDebug
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Disable-AzureWebsiteDebug.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Disable-AzureWebsiteDebug.md
             - name: Enable-AzureMemcacheRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Enable-AzureMemcacheRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Enable-AzureMemcacheRole.md
             - name: Enable-AzureServiceProjectRemoteDesktop
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Enable-AzureServiceProjectRemoteDesktop.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Enable-AzureServiceProjectRemoteDesktop.md
             - name: Enable-AzureWebsiteApplicationDiagnostic
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Enable-AzureWebsiteApplicationDiagnostic.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Enable-AzureWebsiteApplicationDiagnostic.md
             - name: Enable-AzureWebsiteDebug
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Enable-AzureWebsiteDebug.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Enable-AzureWebsiteDebug.md
             - name: Get-AzureAvailabilitySet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureAvailabilitySet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureAvailabilitySet.md
             - name: Get-AzureLocation
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureLocation.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureLocation.md
             - name: Get-AzureMediaServicesAccount
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureMediaServicesAccount.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureMediaServicesAccount.md
             - name: Get-AzureNetworkSecurityGroupConfig
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureNetworkSecurityGroupConfig.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureNetworkSecurityGroupConfig.md
             - name: Get-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSBAuthorizationRule.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSBAuthorizationRule.md
             - name: Get-AzureSBLocation
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSBLocation.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSBLocation.md
             - name: Get-AzureSBNamespace
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSBNamespace.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSBNamespace.md
             - name: Get-AzureSchedulerJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSchedulerJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSchedulerJob.md
             - name: Get-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSchedulerJobCollection.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSchedulerJobCollection.md
             - name: Get-AzureSchedulerJobHistory
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSchedulerJobHistory.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSchedulerJobHistory.md
             - name: Get-AzureSchedulerLocation
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureSchedulerLocation.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureSchedulerLocation.md
             - name: Get-AzureServiceAntimalwareConfig
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureServiceAntimalwareConfig.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureServiceAntimalwareConfig.md
             - name: Get-AzureServiceProjectRoleRuntime
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureServiceProjectRoleRuntime.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureServiceProjectRoleRuntime.md
             - name: Get-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureStoreAddOn.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureStoreAddOn.md
             - name: Get-AzureWebHostingPlan
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebHostingPlan.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebHostingPlan.md
             - name: Get-AzureWebHostingPlanMetric
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebHostingPlanMetric.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebHostingPlanMetric.md
             - name: Get-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsite.md
             - name: Get-AzureWebsiteDeployment
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsiteDeployment.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsiteDeployment.md
             - name: Get-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsiteJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsiteJob.md
             - name: Get-AzureWebsiteJobHistory
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsiteJobHistory.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsiteJobHistory.md
             - name: Get-AzureWebsiteLocation
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsiteLocation.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsiteLocation.md
             - name: Get-AzureWebsiteLog
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsiteLog.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsiteLog.md
             - name: Get-AzureWebsiteMetric
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-AzureWebsiteMetric.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-AzureWebsiteMetric.md
             - name: Get-WAPackCloudService
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackCloudService.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackCloudService.md
             - name: Get-WAPackLogicalNetwork
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackLogicalNetwork.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackLogicalNetwork.md
             - name: Get-WAPackStaticIPAddressPool
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackStaticIPAddressPool.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackStaticIPAddressPool.md
             - name: Get-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVM.md
             - name: Get-WAPackVMOSDisk
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVMOSDisk.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVMOSDisk.md
             - name: Get-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVMRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVMRole.md
             - name: Get-WAPackVMSizeProfile
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVMSizeProfile.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVMSizeProfile.md
             - name: Get-WAPackVMSubnet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVMSubnet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVMSubnet.md
             - name: Get-WAPackVMTemplate
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVMTemplate.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVMTemplate.md
             - name: Get-WAPackVNet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Get-WAPackVNet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Get-WAPackVNet.md
             - name: New-AzureMediaServicesAccount
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureMediaServicesAccount.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureMediaServicesAccount.md
             - name: New-AzureMediaServicesKey
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureMediaServicesKey.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureMediaServicesKey.md
             - name: New-AzureRoleTemplate
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureRoleTemplate.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureRoleTemplate.md
             - name: New-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureSBAuthorizationRule.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureSBAuthorizationRule.md
             - name: New-AzureSBNamespace
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureSBNamespace.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureSBNamespace.md
             - name: New-AzureSchedulerHttpJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureSchedulerHttpJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureSchedulerHttpJob.md
             - name: New-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureSchedulerJobCollection.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureSchedulerJobCollection.md
             - name: New-AzureSchedulerStorageQueueJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureSchedulerStorageQueueJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureSchedulerStorageQueueJob.md
             - name: New-AzureServiceProject
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureServiceProject.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureServiceProject.md
             - name: New-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureStoreAddOn.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureStoreAddOn.md
             - name: New-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureWebsite.md
             - name: New-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-AzureWebsiteJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-AzureWebsiteJob.md
             - name: New-Cmdlet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-Cmdlet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-Cmdlet.md
             - name: New-WAPackCloudService
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackCloudService.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackCloudService.md
             - name: New-WAPackQuickVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackQuickVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackQuickVM.md
             - name: New-WAPackStaticIPAddressPool
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackStaticIPAddressPool.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackStaticIPAddressPool.md
             - name: New-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackVM.md
             - name: New-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackVMRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackVMRole.md
             - name: New-WAPackVMSubnet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackVMSubnet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackVMSubnet.md
             - name: New-WAPackVNet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/New-WAPackVNet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/New-WAPackVNet.md
             - name: Publish-AzureServiceProject
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Publish-AzureServiceProject.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Publish-AzureServiceProject.md
             - name: Publish-AzureWebsiteProject
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Publish-AzureWebsiteProject.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Publish-AzureWebsiteProject.md
             - name: Remove-AzureMediaServicesAccount
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureMediaServicesAccount.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureMediaServicesAccount.md
             - name: Remove-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureSBAuthorizationRule.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureSBAuthorizationRule.md
             - name: Remove-AzureSBNamespace
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureSBNamespace.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureSBNamespace.md
             - name: Remove-AzureSchedulerJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureSchedulerJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureSchedulerJob.md
             - name: Remove-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureSchedulerJobCollection.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureSchedulerJobCollection.md
             - name: Remove-AzureService
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureService.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureService.md
             - name: Remove-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureStoreAddOn.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureStoreAddOn.md
             - name: Remove-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureVMMicrosoftAntimalwareExtension.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureVMMicrosoftAntimalwareExtension.md
             - name: Remove-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureWebsite.md
             - name: Remove-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-AzureWebsiteJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-AzureWebsiteJob.md
             - name: Remove-WAPackCloudService
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-WAPackCloudService.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-WAPackCloudService.md
             - name: Remove-WAPackStaticIPAddressPool
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-WAPackStaticIPAddressPool.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-WAPackStaticIPAddressPool.md
             - name: Remove-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-WAPackVM.md
             - name: Remove-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-WAPackVMRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-WAPackVMRole.md
             - name: Remove-WAPackVMSubnet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-WAPackVMSubnet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-WAPackVMSubnet.md
             - name: Remove-WAPackVNet
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Remove-WAPackVNet.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Remove-WAPackVNet.md
             - name: Restart-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Restart-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Restart-AzureWebsite.md
             - name: Restart-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Restart-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Restart-WAPackVM.md
             - name: Restore-AzureWebsiteDeployment
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Restore-AzureWebsiteDeployment.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Restore-AzureWebsiteDeployment.md
             - name: Resume-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Resume-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Resume-WAPackVM.md
             - name: Save-AzureServiceProjectPackage
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Save-AzureServiceProjectPackage.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Save-AzureServiceProjectPackage.md
             - name: Save-AzureWebsiteLog
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Save-AzureWebsiteLog.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Save-AzureWebsiteLog.md
             - name: Set-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureSBAuthorizationRule.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureSBAuthorizationRule.md
             - name: Set-AzureSchedulerHttpJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureSchedulerHttpJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureSchedulerHttpJob.md
             - name: Set-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureSchedulerJobCollection.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureSchedulerJobCollection.md
             - name: Set-AzureSchedulerStorageQueueJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureSchedulerStorageQueueJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureSchedulerStorageQueueJob.md
             - name: Set-AzureServiceProject
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureServiceProject.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureServiceProject.md
             - name: Set-AzureServiceProjectRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureServiceProjectRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureServiceProjectRole.md
             - name: Set-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureStoreAddOn.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureStoreAddOn.md
             - name: Set-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-AzureWebsite.md
             - name: Set-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-WAPackVM.md
             - name: Set-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Set-WAPackVMRole.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Set-WAPackVMRole.md
             - name: Show-AzurePortal
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Show-AzurePortal.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Show-AzurePortal.md
             - name: Show-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Show-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Show-AzureWebsite.md
             - name: Start-AzureEmulator
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Start-AzureEmulator.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Start-AzureEmulator.md
             - name: Start-AzureService
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Start-AzureService.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Start-AzureService.md
             - name: Start-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Start-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Start-AzureWebsite.md
             - name: Start-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Start-AzureWebsiteJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Start-AzureWebsiteJob.md
             - name: Start-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Start-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Start-WAPackVM.md
             - name: Stop-AzureEmulator
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Stop-AzureEmulator.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Stop-AzureEmulator.md
             - name: Stop-AzureService
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Stop-AzureService.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Stop-AzureService.md
             - name: Stop-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Stop-AzureWebsite.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Stop-AzureWebsite.md
             - name: Stop-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Stop-AzureWebsiteJob.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Stop-AzureWebsiteJob.md
             - name: Stop-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Stop-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Stop-WAPackVM.md
             - name: Suspend-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Suspend-WAPackVM.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Suspend-WAPackVM.md
             - name: Switch-AzureWebsiteSlot
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Switch-AzureWebsiteSlot.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Switch-AzureWebsiteSlot.md
             - name: Test-AzureName
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Test-AzureName.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Test-AzureName.md
             - name: Update-AzureWebsiteRepository
-              href: ../Service Management/Compute Cmdlets/v0.9.8/Update-AzureWebsiteRepository.md
-        - name: v1.0
-          href: ../Service Management/Compute Cmdlets/v1.0/Azure.Compute.md
+              href: ../Service Management/v0.9.8/Azure.Compute/Update-AzureWebsiteRepository.md
+    - name: v1.0
+      items:
+        - name: Antimalware
+          href: ../Service Management/v1.0/Antimalware/Azure.Antimalware.md
+          items:
+            - name: Get-AzureServiceAntimalwareConfig
+              href: ../Service Management/v1.0/Antimalware/Get-AzureServiceAntimalwareConfig.md
+            - name: Get-AzureVMMicrosoftAntimalwareExtension
+              href: ../Service Management/v1.0/Antimalware/Get-AzureVMMicrosoftAntimalwareExtension.md
+            - name: Remove-AzureServiceAntimalwareExtension
+              href: ../Service Management/v1.0/Antimalware/Remove-AzureServiceAntimalwareExtension.md
+            - name: Remove-AzureVMMicrosoftAntimalwareExtension
+              href: ../Service Management/v1.0/Antimalware/Remove-AzureVMMicrosoftAntimalwareExtension.md
+            - name: Set-AzureServiceAntimalwareExtension
+              href: ../Service Management/v1.0/Antimalware/Set-AzureServiceAntimalwareExtension.md
+            - name: Set-AzureVMMicrosoftAntimalwareExtension
+              href: ../Service Management/v1.0/Antimalware/Set-AzureVMMicrosoftAntimalwareExtension.md
+        - name: Compute
+          href: ../Service Management/v1.0/Compute/Azure.Compute.md
           items:
             - name: Add-AzureCacheWorkerRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureCacheWorkerRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzureCacheWorkerRole.md
             - name: Add-AzureDjangoWebRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureDjangoWebRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzureDjangoWebRole.md
             - name: Add-AzureNodeWebRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureNodeWebRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzureNodeWebRole.md
             - name: Add-AzureNodeWorkerRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureNodeWorkerRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzureNodeWorkerRole.md
             - name: Add-AzurePHPWebRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzurePHPWebRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzurePHPWebRole.md
             - name: Add-AzurePHPWorkerRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzurePHPWorkerRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzurePHPWorkerRole.md
             - name: Add-AzureVMDataDisk
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureVMDataDisk.md
+              href: ../Service Management/v1.0/Compute/Add-AzureVMDataDisk.md
             - name: Add-AzureVMNetworkInterface
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureVMNetworkInterface.md
+              href: ../Service Management/v1.0/Compute/Add-AzureVMNetworkInterface.md
             - name: Add-AzureWebRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureWebRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzureWebRole.md
             - name: Add-AzureWorkerRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Add-AzureWorkerRole.md
+              href: ../Service Management/v1.0/Compute/Add-AzureWorkerRole.md
             - name: Disable-AzureServiceProjectRemoteDesktop
-              href: ../Service Management/Compute Cmdlets/v1.0/Disable-AzureServiceProjectRemoteDesktop.md
+              href: ../Service Management/v1.0/Compute/Disable-AzureServiceProjectRemoteDesktop.md
             - name: Disable-AzureWebsiteApplicationDiagnostic
-              href: ../Service Management/Compute Cmdlets/v1.0/Disable-AzureWebsiteApplicationDiagnostic.md
+              href: ../Service Management/v1.0/Compute/Disable-AzureWebsiteApplicationDiagnostic.md
             - name: Disable-AzureWebsiteDebug
-              href: ../Service Management/Compute Cmdlets/v1.0/Disable-AzureWebsiteDebug.md
+              href: ../Service Management/v1.0/Compute/Disable-AzureWebsiteDebug.md
             - name: Enable-AzureMemcacheRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Enable-AzureMemcacheRole.md
+              href: ../Service Management/v1.0/Compute/Enable-AzureMemcacheRole.md
             - name: Enable-AzureServiceProjectRemoteDesktop
-              href: ../Service Management/Compute Cmdlets/v1.0/Enable-AzureServiceProjectRemoteDesktop.md
+              href: ../Service Management/v1.0/Compute/Enable-AzureServiceProjectRemoteDesktop.md
             - name: Enable-AzureWebsiteApplicationDiagnostic
-              href: ../Service Management/Compute Cmdlets/v1.0/Enable-AzureWebsiteApplicationDiagnostic.md
+              href: ../Service Management/v1.0/Compute/Enable-AzureWebsiteApplicationDiagnostic.md
             - name: Enable-AzureWebsiteDebug
-              href: ../Service Management/Compute Cmdlets/v1.0/Enable-AzureWebsiteDebug.md
+              href: ../Service Management/v1.0/Compute/Enable-AzureWebsiteDebug.md
             - name: Get-AzureAvailabilitySet
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureAvailabilitySet.md
+              href: ../Service Management/v1.0/Compute/Get-AzureAvailabilitySet.md
             - name: Get-AzureLocation
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureLocation.md
+              href: ../Service Management/v1.0/Compute/Get-AzureLocation.md
             - name: Get-AzureMediaServicesAccount
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureMediaServicesAccount.md
+              href: ../Service Management/v1.0/Compute/Get-AzureMediaServicesAccount.md
             - name: Get-AzureNetworkSecurityGroupConfig
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureNetworkSecurityGroupConfig.md
+              href: ../Service Management/v1.0/Compute/Get-AzureNetworkSecurityGroupConfig.md
             - name: Get-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSBAuthorizationRule.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSBAuthorizationRule.md
             - name: Get-AzureSBLocation
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSBLocation.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSBLocation.md
             - name: Get-AzureSBNamespace
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSBNamespace.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSBNamespace.md
             - name: Get-AzureSchedulerJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSchedulerJob.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSchedulerJob.md
             - name: Get-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSchedulerJobCollection.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSchedulerJobCollection.md
             - name: Get-AzureSchedulerJobHistory
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSchedulerJobHistory.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSchedulerJobHistory.md
             - name: Get-AzureSchedulerLocation
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureSchedulerLocation.md
+              href: ../Service Management/v1.0/Compute/Get-AzureSchedulerLocation.md
             - name: Get-AzureServiceAntimalwareConfig
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureServiceAntimalwareConfig.md
+              href: ../Service Management/v1.0/Compute/Get-AzureServiceAntimalwareConfig.md
             - name: Get-AzureServiceProjectRoleRuntime
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureServiceProjectRoleRuntime.md
+              href: ../Service Management/v1.0/Compute/Get-AzureServiceProjectRoleRuntime.md
             - name: Get-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureStoreAddOn.md
+              href: ../Service Management/v1.0/Compute/Get-AzureStoreAddOn.md
             - name: Get-AzureWebHostingPlan
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebHostingPlan.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebHostingPlan.md
             - name: Get-AzureWebHostingPlanMetric
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebHostingPlanMetric.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebHostingPlanMetric.md
             - name: Get-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsite.md
             - name: Get-AzureWebsiteDeployment
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsiteDeployment.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsiteDeployment.md
             - name: Get-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsiteJob.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsiteJob.md
             - name: Get-AzureWebsiteJobHistory
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsiteJobHistory.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsiteJobHistory.md
             - name: Get-AzureWebsiteLocation
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsiteLocation.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsiteLocation.md
             - name: Get-AzureWebsiteLog
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsiteLog.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsiteLog.md
             - name: Get-AzureWebsiteMetric
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-AzureWebsiteMetric.md
+              href: ../Service Management/v1.0/Compute/Get-AzureWebsiteMetric.md
             - name: Get-WAPackCloudService
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackCloudService.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackCloudService.md
             - name: Get-WAPackLogicalNetwork
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackLogicalNetwork.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackLogicalNetwork.md
             - name: Get-WAPackStaticIPAddressPool
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackStaticIPAddressPool.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackStaticIPAddressPool.md
             - name: Get-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVM.md
             - name: Get-WAPackVMOSDisk
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVMOSDisk.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVMOSDisk.md
             - name: Get-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVMRole.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVMRole.md
             - name: Get-WAPackVMSizeProfile
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVMSizeProfile.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVMSizeProfile.md
             - name: Get-WAPackVMSubnet
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVMSubnet.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVMSubnet.md
             - name: Get-WAPackVMTemplate
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVMTemplate.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVMTemplate.md
             - name: Get-WAPackVNet
-              href: ../Service Management/Compute Cmdlets/v1.0/Get-WAPackVNet.md
+              href: ../Service Management/v1.0/Compute/Get-WAPackVNet.md
             - name: New-AzureMediaServicesAccount
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureMediaServicesAccount.md
+              href: ../Service Management/v1.0/Compute/New-AzureMediaServicesAccount.md
             - name: New-AzureMediaServicesKey
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureMediaServicesKey.md
+              href: ../Service Management/v1.0/Compute/New-AzureMediaServicesKey.md
             - name: New-AzureRoleTemplate
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureRoleTemplate.md
+              href: ../Service Management/v1.0/Compute/New-AzureRoleTemplate.md
             - name: New-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureSBAuthorizationRule.md
+              href: ../Service Management/v1.0/Compute/New-AzureSBAuthorizationRule.md
             - name: New-AzureSBNamespace
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureSBNamespace.md
+              href: ../Service Management/v1.0/Compute/New-AzureSBNamespace.md
             - name: New-AzureSchedulerHttpJob
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureSchedulerHttpJob.md
+              href: ../Service Management/v1.0/Compute/New-AzureSchedulerHttpJob.md
             - name: New-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureSchedulerJobCollection.md
+              href: ../Service Management/v1.0/Compute/New-AzureSchedulerJobCollection.md
             - name: New-AzureSchedulerStorageQueueJob
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureSchedulerStorageQueueJob.md
+              href: ../Service Management/v1.0/Compute/New-AzureSchedulerStorageQueueJob.md
             - name: New-AzureServiceProject
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureServiceProject.md
+              href: ../Service Management/v1.0/Compute/New-AzureServiceProject.md
             - name: New-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureStoreAddOn.md
+              href: ../Service Management/v1.0/Compute/New-AzureStoreAddOn.md
             - name: New-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/New-AzureWebsite.md
             - name: New-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v1.0/New-AzureWebsiteJob.md
+              href: ../Service Management/v1.0/Compute/New-AzureWebsiteJob.md
             - name: New-Cmdlet
-              href: ../Service Management/Compute Cmdlets/v1.0/New-Cmdlet.md
+              href: ../Service Management/v1.0/Compute/New-Cmdlet.md
             - name: New-WAPackCloudService
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackCloudService.md
+              href: ../Service Management/v1.0/Compute/New-WAPackCloudService.md
             - name: New-WAPackQuickVM
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackQuickVM.md
+              href: ../Service Management/v1.0/Compute/New-WAPackQuickVM.md
             - name: New-WAPackStaticIPAddressPool
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackStaticIPAddressPool.md
+              href: ../Service Management/v1.0/Compute/New-WAPackStaticIPAddressPool.md
             - name: New-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/New-WAPackVM.md
             - name: New-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackVMRole.md
+              href: ../Service Management/v1.0/Compute/New-WAPackVMRole.md
             - name: New-WAPackVMSubnet
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackVMSubnet.md
+              href: ../Service Management/v1.0/Compute/New-WAPackVMSubnet.md
             - name: New-WAPackVNet
-              href: ../Service Management/Compute Cmdlets/v1.0/New-WAPackVNet.md
+              href: ../Service Management/v1.0/Compute/New-WAPackVNet.md
             - name: Publish-AzureServiceProject
-              href: ../Service Management/Compute Cmdlets/v1.0/Publish-AzureServiceProject.md
+              href: ../Service Management/v1.0/Compute/Publish-AzureServiceProject.md
             - name: Publish-AzureWebsiteProject
-              href: ../Service Management/Compute Cmdlets/v1.0/Publish-AzureWebsiteProject.md
+              href: ../Service Management/v1.0/Compute/Publish-AzureWebsiteProject.md
             - name: Remove-AzureMediaServicesAccount
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureMediaServicesAccount.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureMediaServicesAccount.md
             - name: Remove-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureSBAuthorizationRule.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureSBAuthorizationRule.md
             - name: Remove-AzureSBNamespace
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureSBNamespace.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureSBNamespace.md
             - name: Remove-AzureSchedulerJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureSchedulerJob.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureSchedulerJob.md
             - name: Remove-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureSchedulerJobCollection.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureSchedulerJobCollection.md
             - name: Remove-AzureService
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureService.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureService.md
             - name: Remove-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureStoreAddOn.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureStoreAddOn.md
             - name: Remove-AzureVMMicrosoftAntimalwareExtension
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureVMMicrosoftAntimalwareExtension.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureVMMicrosoftAntimalwareExtension.md
             - name: Remove-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureWebsite.md
             - name: Remove-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-AzureWebsiteJob.md
+              href: ../Service Management/v1.0/Compute/Remove-AzureWebsiteJob.md
             - name: Remove-WAPackCloudService
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-WAPackCloudService.md
+              href: ../Service Management/v1.0/Compute/Remove-WAPackCloudService.md
             - name: Remove-WAPackStaticIPAddressPool
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-WAPackStaticIPAddressPool.md
+              href: ../Service Management/v1.0/Compute/Remove-WAPackStaticIPAddressPool.md
             - name: Remove-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Remove-WAPackVM.md
             - name: Remove-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-WAPackVMRole.md
+              href: ../Service Management/v1.0/Compute/Remove-WAPackVMRole.md
             - name: Remove-WAPackVMSubnet
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-WAPackVMSubnet.md
+              href: ../Service Management/v1.0/Compute/Remove-WAPackVMSubnet.md
             - name: Remove-WAPackVNet
-              href: ../Service Management/Compute Cmdlets/v1.0/Remove-WAPackVNet.md
+              href: ../Service Management/v1.0/Compute/Remove-WAPackVNet.md
             - name: Restart-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Restart-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Restart-AzureWebsite.md
             - name: Restart-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Restart-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Restart-WAPackVM.md
             - name: Restore-AzureWebsiteDeployment
-              href: ../Service Management/Compute Cmdlets/v1.0/Restore-AzureWebsiteDeployment.md
+              href: ../Service Management/v1.0/Compute/Restore-AzureWebsiteDeployment.md
             - name: Resume-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Resume-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Resume-WAPackVM.md
             - name: Save-AzureServiceProjectPackage
-              href: ../Service Management/Compute Cmdlets/v1.0/Save-AzureServiceProjectPackage.md
+              href: ../Service Management/v1.0/Compute/Save-AzureServiceProjectPackage.md
             - name: Save-AzureWebsiteLog
-              href: ../Service Management/Compute Cmdlets/v1.0/Save-AzureWebsiteLog.md
+              href: ../Service Management/v1.0/Compute/Save-AzureWebsiteLog.md
             - name: Set-AzureSBAuthorizationRule
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureSBAuthorizationRule.md
+              href: ../Service Management/v1.0/Compute/Set-AzureSBAuthorizationRule.md
             - name: Set-AzureSchedulerHttpJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureSchedulerHttpJob.md
+              href: ../Service Management/v1.0/Compute/Set-AzureSchedulerHttpJob.md
             - name: Set-AzureSchedulerJobCollection
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureSchedulerJobCollection.md
+              href: ../Service Management/v1.0/Compute/Set-AzureSchedulerJobCollection.md
             - name: Set-AzureSchedulerStorageQueueJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureSchedulerStorageQueueJob.md
+              href: ../Service Management/v1.0/Compute/Set-AzureSchedulerStorageQueueJob.md
             - name: Set-AzureServiceProject
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureServiceProject.md
+              href: ../Service Management/v1.0/Compute/Set-AzureServiceProject.md
             - name: Set-AzureServiceProjectRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureServiceProjectRole.md
+              href: ../Service Management/v1.0/Compute/Set-AzureServiceProjectRole.md
             - name: Set-AzureStoreAddOn
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureStoreAddOn.md
+              href: ../Service Management/v1.0/Compute/Set-AzureStoreAddOn.md
             - name: Set-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Set-AzureWebsite.md
             - name: Set-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Set-WAPackVM.md
             - name: Set-WAPackVMRole
-              href: ../Service Management/Compute Cmdlets/v1.0/Set-WAPackVMRole.md
+              href: ../Service Management/v1.0/Compute/Set-WAPackVMRole.md
             - name: Show-AzurePortal
-              href: ../Service Management/Compute Cmdlets/v1.0/Show-AzurePortal.md
+              href: ../Service Management/v1.0/Compute/Show-AzurePortal.md
             - name: Show-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Show-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Show-AzureWebsite.md
             - name: Start-AzureEmulator
-              href: ../Service Management/Compute Cmdlets/v1.0/Start-AzureEmulator.md
+              href: ../Service Management/v1.0/Compute/Start-AzureEmulator.md
             - name: Start-AzureService
-              href: ../Service Management/Compute Cmdlets/v1.0/Start-AzureService.md
+              href: ../Service Management/v1.0/Compute/Start-AzureService.md
             - name: Start-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Start-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Start-AzureWebsite.md
             - name: Start-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Start-AzureWebsiteJob.md
+              href: ../Service Management/v1.0/Compute/Start-AzureWebsiteJob.md
             - name: Start-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Start-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Start-WAPackVM.md
             - name: Stop-AzureEmulator
-              href: ../Service Management/Compute Cmdlets/v1.0/Stop-AzureEmulator.md
+              href: ../Service Management/v1.0/Compute/Stop-AzureEmulator.md
             - name: Stop-AzureService
-              href: ../Service Management/Compute Cmdlets/v1.0/Stop-AzureService.md
+              href: ../Service Management/v1.0/Compute/Stop-AzureService.md
             - name: Stop-AzureWebsite
-              href: ../Service Management/Compute Cmdlets/v1.0/Stop-AzureWebsite.md
+              href: ../Service Management/v1.0/Compute/Stop-AzureWebsite.md
             - name: Stop-AzureWebsiteJob
-              href: ../Service Management/Compute Cmdlets/v1.0/Stop-AzureWebsiteJob.md
+              href: ../Service Management/v1.0/Compute/Stop-AzureWebsiteJob.md
             - name: Stop-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Stop-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Stop-WAPackVM.md
             - name: Suspend-WAPackVM
-              href: ../Service Management/Compute Cmdlets/v1.0/Suspend-WAPackVM.md
+              href: ../Service Management/v1.0/Compute/Suspend-WAPackVM.md
             - name: Switch-AzureWebsiteSlot
-              href: ../Service Management/Compute Cmdlets/v1.0/Switch-AzureWebsiteSlot.md
+              href: ../Service Management/v1.0/Compute/Switch-AzureWebsiteSlot.md
             - name: Test-AzureName
-              href: ../Service Management/Compute Cmdlets/v1.0/Test-AzureName.md
+              href: ../Service Management/v1.0/Compute/Test-AzureName.md
             - name: Update-AzureWebsiteRepository
-              href: ../Service Management/Compute Cmdlets/v1.0/Update-AzureWebsiteRepository.md
+              href: ../Service Management/v1.0/Compute/Update-AzureWebsiteRepository.md
