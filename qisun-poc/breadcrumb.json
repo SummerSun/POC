@@ -1,26 +1,27 @@
-[{  
-        "toc_title":"Docs",
-        "href":"/",
-        "level":1,
-        "children":[{  
-                "href":"/qisun-poc/",
-                "homepage":"/qisun-poc/",
-                "toc_title":"Azure PowerShell Reference",
-                "level":2,
-                "children":[{
-                        "href":"/qisun-poc/azureps-cmdlets-docs/",
-                        "homepage":"/qisun-poc/azureps-cmdlets-docs/",
-                        "toc_title":"Azure PowerShell",
-                        "level":3
-                    },
-                    {
-                        "href":"/qisun-poc/Azure AD Cmdlets/",
-                        "homepage":"/qisun-poc/Azure AD Cmdlets/",
-                        "toc_title":"Azure AD",
-                        "level":3
-                    }
-                ]
-            }
-        ]
-    }
-]
+{
+    "toc_title":  "Docs",
+    "href":  "/",
+    "level":  1,
+    "children":  [
+                     {
+                         "href":  "/qisun-poc/",
+                         "homepage":  "/qisun-poc/",
+                         "toc_title":  "Azure PowerShell Reference",
+                         "level":  2,
+                         "children":  [
+                                          {
+                                              "href":  "/qisun-poc/azureps-cmdlets-docs/",
+                                              "homepage":  "/qisun-poc/azureps-cmdlets-docs/",
+                                              "toc_title":  "Azure PowerShell",
+                                              "level":  3
+                                          },
+                                          {
+                                              "href":  "/qisun-poc/Azure AD Cmdlets/",
+                                              "homepage":  "/qisun-poc/Azure AD Cmdlets/",
+                                              "toc_title":  "Azure AD",
+                                              "level":  3
+                                          }
+                                      ]
+                     }
+                 ]
+}
