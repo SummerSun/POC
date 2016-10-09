@@ -4,12 +4,12 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-updated_at: 2016-10-09T04:58:45.0000000Z
-ms.date: 10/9/2016
+updated_at: 9/28/2016 9:53 AM
+ms.date: 9/28/2016
 ms.topic: conceptual
 source_repo: https://github.com/SummerSun/azure-docs-powershell-azuread-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/7a791ca6c78fcafa80c91c7aac23301154805333/Azure%20AD%20Cmdlets/AzureAD/v1.0/MamlModule.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/Azure%20AD%20Cmdlets/AzureAD/v1.0/MamlModule.md
 ---
 
 # MamlModule Module

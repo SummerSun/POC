@@ -2,12 +2,12 @@
 external help file: AzureADHelpMSOL.xml
 online version: 4955285a-6fe5-46e2-affc-8b1798ae8f2a
 schema: 2.0.0
-updated_at: 2016-10-09T04:58:45.0000000Z
-ms.date: 10/9/2016
+updated_at: 9/28/2016 9:53 AM
+ms.date: 9/28/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/azure-docs-powershell-azuread-int
 source_branch: master
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/7a791ca6c78fcafa80c91c7aac23301154805333/Azure%20AD%20Cmdlets/AzureAD/v1.0/Reset-MsolStrongAuthenticationMethodByUpn.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/Azure%20AD%20Cmdlets/AzureAD/v1.0/Reset-MsolStrongAuthenticationMethodByUpn.md
 ---
 
 # Reset-MsolStrongAuthenticationMethodByUpn
