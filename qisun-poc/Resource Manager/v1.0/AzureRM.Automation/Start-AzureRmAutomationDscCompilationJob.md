@@ -2,8 +2,8 @@
 external help file: RMAzure_Automation.xml
 online version: cbd50659-1e44-425c-9b97-a58be040e3b9
 schema: 2.0.0
-updated_at: 10/8/2016 8:32 AM
-ms.date: 10/8/2016
+updated_at: 10/7/2016 9:35 AM
+ms.date: 10/7/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master

@@ -2,8 +2,8 @@
 external help file: RMAzure_Apimanagement.xml
 online version: 2a7ef835-586c-4e86-a243-3cc0e9623d71
 schema: 2.0.0
-updated_at: 10/8/2016 8:32 AM
-ms.date: 10/8/2016
+updated_at: 10/7/2016 9:35 AM
+ms.date: 10/7/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master

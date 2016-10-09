@@ -2,8 +2,8 @@
 external help file: SMAzure_Compute.xml
 online version: 4c0c0966-919e-49a6-9d38-c3c97355e281
 schema: 2.0.0
-updated_at: 10/8/2016 8:32 AM
-ms.date: 10/8/2016
+updated_at: 10/7/2016 9:35 AM
+ms.date: 10/7/2016
 ms.topic: reference
 source_repo: https://github.com/SummerSun/azure-docs-powershell-int
 source_branch: master
