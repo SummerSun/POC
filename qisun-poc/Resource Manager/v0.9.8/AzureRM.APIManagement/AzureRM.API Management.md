@@ -7,8 +7,7 @@ Locale: en-US
 updated_at: 10/7/2016 9:35 AM
 ms.date: 10/7/2016
 ms.topic: conceptual
-source_repo: https://github.com/SummerSun/azure-docs-powershell-int
-source_branch: master
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Resource%20Manager/v0.9.8/AzureRM.APIManagement/AzureRM.API%20Management.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/3c5913303624ba7a7970d6758aac68ea04359cee/azureps-cmdlets-docs/Resource%20Manager/v0.9.8/AzureRM.APIManagement/AzureRM.API%20Management.md
 ---
 
