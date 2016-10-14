@@ -4,9 +4,15 @@ online version: 58f7425a-3f73-4caf-851d-972214e870ac
 schema: 2.0.0
 updated_at: 9/28/2016 9:53 AM
 ms.date: 9/28/2016
-ms.topic: reference
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/Azure%20AD%20Cmdlets/AzureAD/v1.0/Remove-MsolDevice.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/Azure%20AD%20Cmdlets/AzureAD/v1.0/Remove-MsolDevice.md
+ms.topic: reference
+ms.prod: 
+ms.service: 
+ms.technology: 
+author: 
+keywords: 
+manager: 
 ---
 
 # Remove-MsolDevice
