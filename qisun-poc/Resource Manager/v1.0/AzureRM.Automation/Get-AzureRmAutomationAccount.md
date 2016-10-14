@@ -10,7 +10,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
-author: VSC CI Service
+author: Visual Studio China
 keywords: powershell, content
 manager: Visual Studio China
 ---
