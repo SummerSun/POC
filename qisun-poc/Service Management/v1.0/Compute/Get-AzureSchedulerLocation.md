@@ -4,9 +4,15 @@ online version: aaed4c39-d209-4663-b058-b480553ee6a9
 schema: 2.0.0
 updated_at: 10/7/2016 9:35 AM
 ms.date: 10/7/2016
-ms.topic: reference
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Service%20Management/v1.0/Compute/Get-AzureSchedulerLocation.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/3c5913303624ba7a7970d6758aac68ea04359cee/azureps-cmdlets-docs/Service%20Management/v1.0/Compute/Get-AzureSchedulerLocation.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: VSC CI Service
+keywords: powershell, content
+manager: Visual Studio China
 ---
 
 # Get-AzureSchedulerLocation

@@ -4,9 +4,15 @@ online version: 1a996e7a-1de8-4533-a39a-c17cf1ab18fd
 schema: 2.0.0
 updated_at: 10/7/2016 9:35 AM
 ms.date: 10/7/2016
-ms.topic: reference
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Resource%20Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationAccount.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/3c5913303624ba7a7970d6758aac68ea04359cee/azureps-cmdlets-docs/Resource%20Manager/v0.9.8/AzureRM.Automation/Get-AzureRmAutomationAccount.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: VSC CI Service
+keywords: powershell, content
+manager: Visual Studio China
 ---
 
 # Get-AzureRmAutomationAccount

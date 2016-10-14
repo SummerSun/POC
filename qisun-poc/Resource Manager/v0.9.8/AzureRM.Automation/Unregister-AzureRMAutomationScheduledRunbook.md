@@ -4,9 +4,15 @@ online version: cfac4e12-2a1f-4b2c-873b-f5a3f9c4a2ce
 schema: 2.0.0
 updated_at: 10/7/2016 9:35 AM
 ms.date: 10/7/2016
-ms.topic: reference
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Resource%20Manager/v0.9.8/AzureRM.Automation/Unregister-AzureRMAutomationScheduledRunbook.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/3c5913303624ba7a7970d6758aac68ea04359cee/azureps-cmdlets-docs/Resource%20Manager/v0.9.8/AzureRM.Automation/Unregister-AzureRMAutomationScheduledRunbook.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: VSC CI Service
+keywords: powershell, content
+manager: Visual Studio China
 ---
 
 # Unregister-AzureRMAutomationScheduledRunbook

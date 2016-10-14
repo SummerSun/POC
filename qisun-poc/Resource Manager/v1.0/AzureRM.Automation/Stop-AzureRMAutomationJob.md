@@ -4,9 +4,15 @@ online version: e41c8823-9e6a-4535-b90c-0e2de7634c47
 schema: 2.0.0
 updated_at: 10/7/2016 9:35 AM
 ms.date: 10/7/2016
-ms.topic: reference
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Resource%20Manager/v1.0/AzureRM.Automation/Stop-AzureRMAutomationJob.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/3c5913303624ba7a7970d6758aac68ea04359cee/azureps-cmdlets-docs/Resource%20Manager/v1.0/AzureRM.Automation/Stop-AzureRMAutomationJob.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: VSC CI Service
+keywords: powershell, content
+manager: Visual Studio China
 ---
 
 # Stop-AzureRMAutomationJob

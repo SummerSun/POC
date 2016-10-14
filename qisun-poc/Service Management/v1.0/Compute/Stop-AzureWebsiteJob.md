@@ -4,9 +4,15 @@ online version: 62c5de93-e58b-4e57-85d0-8b7e75df1f31
 schema: 2.0.0
 updated_at: 10/7/2016 9:35 AM
 ms.date: 10/7/2016
-ms.topic: reference
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Service%20Management/v1.0/Compute/Stop-AzureWebsiteJob.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/3c5913303624ba7a7970d6758aac68ea04359cee/azureps-cmdlets-docs/Service%20Management/v1.0/Compute/Stop-AzureWebsiteJob.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: VSC CI Service
+keywords: powershell, content
+manager: Visual Studio China
 ---
 
 # Stop-AzureWebsiteJob
