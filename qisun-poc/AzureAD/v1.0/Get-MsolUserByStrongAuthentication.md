@@ -2,10 +2,8 @@
 external help file: AzureADHelpMSOL.xml
 online version: 4955285a-6fe5-46e2-affc-8b1798ae8f2a
 schema: 2.0.0
-updated_at: 9/28/2016 9:53 AM
-ms.date: 9/28/2016
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolUserByStrongAuthentication.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolUserByStrongAuthentication.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolUserByStrongAuthentication.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolUserByStrongAuthentication.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
