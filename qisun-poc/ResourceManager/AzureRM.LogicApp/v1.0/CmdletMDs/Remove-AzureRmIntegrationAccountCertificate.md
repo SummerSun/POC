@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.LogicApp.dll-Help.xml
 online version: .\Get-AzureRmIntegrationAccountCertificate.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.LogicApp/v1.0/CmdletMDs/Remove-AzureRmIntegrationAccountCertificate.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.LogicApp/v1.0/CmdletMDs/Remove-AzureRmIntegrationAccountCertificate.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Remove-AzureRmIntegrationAccountCertificate

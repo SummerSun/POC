@@ -1,9 +1,18 @@
 ---
 Module Name: Azure.SQLDatabase
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Download Help Link: {{Please enter FwLink manually}}
+Download Help Link: Please enter FwLink manually
 Help Version: 1.0.0.0
 Locale: en-US
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.SQLDatabase/v1.0/CmdletMDs/Azure.SQLDatabase.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.SQLDatabase/v1.0/CmdletMDs/Azure.SQLDatabase.md
+ms.topic: conceptual
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Azure.SQLDatabase Module

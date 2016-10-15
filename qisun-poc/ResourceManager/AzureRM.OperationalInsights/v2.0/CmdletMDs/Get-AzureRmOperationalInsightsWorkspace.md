@@ -1,7 +1,16 @@
-﻿---
+---
 external help file: Microsoft.Azure.Commands.OperationalInsights.dll-Help.xml
 online version: 3a46bcd5-ad81-411a-92aa-7788ebd2473e
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Get-AzureRmOperationalInsightsWorkspace.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Get-AzureRmOperationalInsightsWorkspace.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmOperationalInsightsWorkspace
@@ -26,7 +35,7 @@ If you do not specify a name and resource group, this cmdlet gets information ab
 
 ### Example 1: Get a workspace by name
 ```
-PS C:\>Get-AzureRmOperationalInsightsWorkspace  ¢â‚¬"Name "MyWorkspace"  ¢â‚¬"ResourceGroupName "ContosoResourceGroup"
+PS C:\>Get-AzureRmOperationalInsightsWorkspace  �€"Name "MyWorkspace"  �€"ResourceGroupName "ContosoResourceGroup"
 ```
 
 This command gets a workspace named MyWorkspace in the resource group named ContosoResourceGroup.

@@ -2,6 +2,15 @@
 external help file: Microsoft.WindowsAzure.Commands.SqlDatabase.dll-Help.xml
 online version: https://azure.microsoft.com/en-us/services/sql-database/
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.SQLDatabase/v2.0/CmdletMDs/Get-AzureSqlDatabaseServerQuota.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.SQLDatabase/v2.0/CmdletMDs/Get-AzureSqlDatabaseServerQuota.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureSqlDatabaseServerQuota

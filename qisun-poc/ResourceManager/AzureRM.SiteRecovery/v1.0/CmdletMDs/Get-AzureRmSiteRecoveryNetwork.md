@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.SiteRecovery.dll-Help.xml
 online version: a1fe5285-5354-4e56-aed6-5e0446b07fa2
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.SiteRecovery/v1.0/CmdletMDs/Get-AzureRmSiteRecoveryNetwork.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.SiteRecovery/v1.0/CmdletMDs/Get-AzureRmSiteRecoveryNetwork.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmSiteRecoveryNetwork

@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Dns.dll-Help.xml
 online version: .\Get-AzureRmDnsZone.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.DNS/v1.0/CmdletMDs/Set-AzureRmDnsZone.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.DNS/v1.0/CmdletMDs/Set-AzureRmDnsZone.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Set-AzureRmDnsZone

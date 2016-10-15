@@ -1,7 +1,16 @@
-﻿---
+---
 external help file: Microsoft.Azure.Commands.OperationalInsights.dll-Help.xml
 online version: 3a46bcd5-ad81-411a-92aa-7788ebd2473e
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Get-AzureRmOperationalInsightsWorkspaceManagementGroups.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Get-AzureRmOperationalInsightsWorkspaceManagementGroups.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmOperationalInsightsWorkspaceManagementGroups
@@ -23,14 +32,14 @@ The **Get-AzureRmOperationalInsightsWorkspaceManagementGroups** cmdlet lists the
 
 ### Example 1: Get management groups by workspace name
 ```
-PS C:\>Get-AzureRmOperationalInsightsWorkspaceManagementGroups  ¢â‚¬"ResourceGroupName "ContosoResourceGroup"  ¢â‚¬"Name "MyWorkspace"
+PS C:\>Get-AzureRmOperationalInsightsWorkspaceManagementGroups  �€"ResourceGroupName "ContosoResourceGroup"  �€"Name "MyWorkspace"
 ```
 
 This command gets the management groups for the workspace named MyWorkspace in the resource group named ContosoResourceGroup.
 
 ### Example 2: Get management groups by using the pipeline
 ```
-PS C:\>Get-AzureRmOperationalInsightsWorkspace  ¢â‚¬"ResourceGroupName "ContosoResourceGroup"  ¢â‚¬"Name "MyWorkspace" | Get-AzureOperationalInsightsWorkspaceManagementGroups
+PS C:\>Get-AzureRmOperationalInsightsWorkspace  �€"ResourceGroupName "ContosoResourceGroup"  �€"Name "MyWorkspace" | Get-AzureOperationalInsightsWorkspaceManagementGroups
 ```
 
 This command uses the Get-AzureRmOperationalInsightsWorkspace cmdlet to get the workspace named MyWorkspace, and then passes the workspace to the current cmdlet, which gets the management groups for that workspace.

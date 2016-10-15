@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Sql.dll-Help.xml
 online version: c4c541a5-61cd-41dc-a7fe-b938a7db3a28
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v1.0/CmdletMDs/Get-AzureRmSqlDatabaseReplicationLink.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v1.0/CmdletMDs/Get-AzureRmSqlDatabaseReplicationLink.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmSqlDatabaseReplicationLink

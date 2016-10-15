@@ -1,9 +1,18 @@
-﻿---
+---
 Module Name: Azure.ManagedCache
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.ManagedCache/v2.0/CmdletMDs/Azure.ManagedCache.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.ManagedCache/v2.0/CmdletMDs/Azure.ManagedCache.md
+ms.topic: conceptual
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Azure.ManagedCache Module
@@ -12,36 +21,47 @@ This section displays the online help files for the Azure Managed Cache cmdlets 
 
 ## Azure.ManagedCache Cmdlets
 ### [Get-AzureManagedCacheAccessKey](Get-AzureManagedCacheAccessKey.md)
-Gets the access keys for an Azure Cache.
+Gets the access keys for an Azure Cache.
+
 
 ### [Get-AzureManagedCacheLocation](Get-AzureManagedCacheLocation.md)
-
+
+
 
 ### [Get-AzureManagedCacheNamedCache](Get-AzureManagedCacheNamedCache.md)
-Gets a specific named cache or all named caches in a Managed Cache Service instance.
+Gets a specific named cache or all named caches in a Managed Cache Service instance.
+
 
 ### [Get-AzureManagedCache](Get-AzureManagedCache.md)
-Gets the Azure Caches in your Azure account.
+Gets the Azure Caches in your Azure account.
+
 
 ### [New-AzureManagedCacheAccessKey](New-AzureManagedCacheAccessKey.md)
-Creates access keys for an Azure Cache.
+Creates access keys for an Azure Cache.
+
 
 ### [New-AzureManagedCacheNamedCache](New-AzureManagedCacheNamedCache.md)
-Creates a named cache in the specified Managed Cache Service instance.
+Creates a named cache in the specified Managed Cache Service instance.
+
 
 ### [New-AzureManagedCache](New-AzureManagedCache.md)
-Creates an Azure cache.
+Creates an Azure cache.
+
 
 ### [Remove-AzureManagedCacheNamedCache](Remove-AzureManagedCacheNamedCache.md)
-Removes a named cache from a Managed Cache Service instance.
+Removes a named cache from a Managed Cache Service instance.
+
 
 ### [Remove-AzureManagedCache](Remove-AzureManagedCache.md)
-Removes an Azure Cache.
+Removes an Azure Cache.
+
 
 ### [Set-AzureManagedCacheNamedCache](Set-AzureManagedCacheNamedCache.md)
-Updates a named cache in the specified Managed Cache Service instance.
+Updates a named cache in the specified Managed Cache Service instance.
+
 
 ### [Set-AzureManagedCache](Set-AzureManagedCache.md)
-Changes the properties of an Azure Cache.
+Changes the properties of an Azure Cache.
+
 
 

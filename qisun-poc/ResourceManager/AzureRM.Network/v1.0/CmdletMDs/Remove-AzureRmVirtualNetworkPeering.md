@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Network.dll-Help.xml
 online version: b46d1efd-4e83-4298-8b67-40f54e1a7817
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v1.0/CmdletMDs/Remove-AzureRmVirtualNetworkPeering.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v1.0/CmdletMDs/Remove-AzureRmVirtualNetworkPeering.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Remove-AzureRmVirtualNetworkPeering

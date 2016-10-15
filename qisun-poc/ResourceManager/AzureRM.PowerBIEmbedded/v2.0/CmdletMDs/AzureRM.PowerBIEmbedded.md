@@ -1,9 +1,18 @@
-﻿---
+---
 Module Name: AzureRM.PowerBIEmbedded
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.PowerBIEmbedded/v2.0/CmdletMDs/AzureRM.PowerBIEmbedded.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.PowerBIEmbedded/v2.0/CmdletMDs/AzureRM.PowerBIEmbedded.md
+ms.topic: conceptual
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # AzureRM.PowerBIEmbedded Module
@@ -12,21 +21,27 @@ This topic displays help topics for the Azure Power BI Embedded Cmdlets.
 
 ## AzureRM.PowerBIEmbedded Cmdlets
 ### [Get-AzureRmPowerBIWorkspaceCollectionAccessKeys](Get-AzureRmPowerBIWorkspaceCollectionAccessKeys.md)
-Gets the current access keys associated with a Power BI workspace collection.
+Gets the current access keys associated with a Power BI workspace collection.
+
 
 ### [Get-AzureRmPowerBIWorkspaceCollection](Get-AzureRmPowerBIWorkspaceCollection.md)
-Gets Power BI workspace collections.
+Gets Power BI workspace collections.
+
 
 ### [Get-AzureRmPowerBIWorkspace](Get-AzureRmPowerBIWorkspace.md)
-Gets the workspaces in a Power BI workspace collection.
+Gets the workspaces in a Power BI workspace collection.
+
 
 ### [New-AzureRmPowerBIWorkspaceCollection](New-AzureRmPowerBIWorkspaceCollection.md)
-Creates a Power BI workspace collection.
+Creates a Power BI workspace collection.
+
 
 ### [Remove-AzureRmPowerBIWorkspaceCollection](Remove-AzureRmPowerBIWorkspaceCollection.md)
-Removes a Power BI workspace collection.
+Removes a Power BI workspace collection.
+
 
 ### [Reset-AzureRmPowerBIWorkspaceCollectionAccessKeys](Reset-AzureRmPowerBIWorkspaceCollectionAccessKeys.md)
-Resets the specified access key.
+Resets the specified access key.
+
 
 

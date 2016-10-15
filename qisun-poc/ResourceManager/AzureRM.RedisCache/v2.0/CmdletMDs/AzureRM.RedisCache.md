@@ -1,9 +1,18 @@
-﻿---
+---
 Module Name: AzureRM.RedisCache
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.RedisCache/v2.0/CmdletMDs/AzureRM.RedisCache.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.RedisCache/v2.0/CmdletMDs/AzureRM.RedisCache.md
+ms.topic: conceptual
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # AzureRM.RedisCache Module
@@ -12,48 +21,63 @@ This topic displays help topics for the Azure Redis Cache cmdlets.
 
 ## AzureRM.RedisCache Cmdlets
 ### [Export-AzureRmRedisCache](Export-AzureRmRedisCache.md)
-Exports data from Azure Redis Cache to a container.
+Exports data from Azure Redis Cache to a container.
+
 
 ### [Get-AzureRmRedisCacheKey](Get-AzureRmRedisCacheKey.md)
-Gets the access keys for a Redis Cache.
+Gets the access keys for a Redis Cache.
+
 
 ### [Get-AzureRmRedisCachePatchSchedule](Get-AzureRmRedisCachePatchSchedule.md)
-Gets a patch schedule.
+Gets a patch schedule.
+
 
 ### [Get-AzureRmRedisCache](Get-AzureRmRedisCache.md)
-Gets a Redis Cache.
+Gets a Redis Cache.
+
 
 ### [Import-AzureRmRedisCache](Import-AzureRmRedisCache.md)
-Imports data from blobs to Azure Redis Cache.
+Imports data from blobs to Azure Redis Cache.
+
 
 ### [New-AzureRmRedisCacheKey](New-AzureRmRedisCacheKey.md)
-Regenerates the access key of a Redis Cache.
+Regenerates the access key of a Redis Cache.
+
 
 ### [New-AzureRmRedisCachePatchSchedule](New-AzureRmRedisCachePatchSchedule.md)
-Adds a patch schedule.
+Adds a patch schedule.
+
 
 ### [New-AzureRmRedisCacheScheduleEntry](New-AzureRmRedisCacheScheduleEntry.md)
-Creates a schedule entry.
+Creates a schedule entry.
+
 
 ### [New-AzureRmRedisCache](New-AzureRmRedisCache.md)
-Creates a Redis Cache.
+Creates a Redis Cache.
+
 
 ### [Remove-AzureRmRedisCacheDiagnostics](Remove-AzureRmRedisCacheDiagnostics.md)
-Disables diagnostics on an Azure Redis Cache.
+Disables diagnostics on an Azure Redis Cache.
+
 
 ### [Remove-AzureRmRedisCachePatchSchedule](Remove-AzureRmRedisCachePatchSchedule.md)
-Removes the patch schedule.
+Removes the patch schedule.
+
 
 ### [Remove-AzureRmRedisCache](Remove-AzureRmRedisCache.md)
-Removes a Redis Cache.
+Removes a Redis Cache.
+
 
 ### [Reset-AzureRmRedisCache](Reset-AzureRmRedisCache.md)
-Restarts nodes of a cache.
+Restarts nodes of a cache.
+
 
 ### [Set-AzureRmRedisCacheDiagnostics](Set-AzureRmRedisCacheDiagnostics.md)
-Enables diagnostics on an Azure Redis Cache.
+Enables diagnostics on an Azure Redis Cache.
+
 
 ### [Set-AzureRmRedisCache](Set-AzureRmRedisCache.md)
-Modifies a Redis Cache.
+Modifies a Redis Cache.
+
 
 

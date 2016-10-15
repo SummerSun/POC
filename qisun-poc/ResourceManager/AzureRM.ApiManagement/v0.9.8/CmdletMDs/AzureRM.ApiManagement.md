@@ -4,14 +4,20 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-content_git_url: https://github.com/azure/azure-docs-powershell/
-gitcommit: https://github.com/azure/azure-docs-powershell/
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/AzureRM.ApiManagement.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/AzureRM.ApiManagement.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure Powershell
 ms.technology: Azure Powershell
 author: visual-studio-china
 keywords: content, powershell
+manager: visual-studio-china
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
 manager: visual-studio-china
 ---
 

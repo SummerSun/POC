@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Network.dll-Help.xml
 online version: 3bb4f77f-6ed1-4d35-87e4-f7e22c563995
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v2.0/CmdletMDs/Test-AzureRmDnsAvailability.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v2.0/CmdletMDs/Test-AzureRmDnsAvailability.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Test-AzureRmDnsAvailability

@@ -1,7 +1,16 @@
-﻿---
+---
 external help file: Microsoft.Azure.Commands.OperationalInsights.dll-Help.xml
 online version: 3a46bcd5-ad81-411a-92aa-7788ebd2473e
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Remove-AzureRmOperationalInsightsWorkspace.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Remove-AzureRmOperationalInsightsWorkspace.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Remove-AzureRmOperationalInsightsWorkspace
@@ -25,14 +34,14 @@ If this workspace was linked to an existing account via the *CustomerId* paramet
 
 ### Example 1: Remove a workspace by name
 ```
-PS C:\>Remove-AzureRmOperationalInsightsWorkspace  ¢â‚¬"ResourceGroupName "ContosResourceGroup"  ¢â‚¬"Name "MyWorkspace"
+PS C:\>Remove-AzureRmOperationalInsightsWorkspace  �€"ResourceGroupName "ContosResourceGroup"  �€"Name "MyWorkspace"
 ```
 
 This command removes the workspace named MyWorkspace from the resource group named ContosoResourceGroup.
 
 ### Example 2: Remove a workspace by using the pipeline and without confirmation
 ```
-PS C:\>Get-AzureRmOperationalInsightsWorkspace  ¢â‚¬"ResourceGroupName "ContosResourceGroup"  ¢â‚¬"Name "MyWorkspace" | Remove-AzureRmOperationalInsightsWorkspace -Force
+PS C:\>Get-AzureRmOperationalInsightsWorkspace  �€"ResourceGroupName "ContosResourceGroup"  �€"Name "MyWorkspace" | Remove-AzureRmOperationalInsightsWorkspace -Force
 ```
 
 This command uses the Get-AzureRmOperationalInsightsWorkspace cmdlet to get the workspace named MyWorkspace, and then passes it to the **Remove-AzureRmOperationalInsightsWorkspace** cmdlet by using the pipeline operator to remove it.

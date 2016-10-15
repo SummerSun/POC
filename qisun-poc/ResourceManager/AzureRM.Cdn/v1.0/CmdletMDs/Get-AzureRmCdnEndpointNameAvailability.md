@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Cdn.dll-Help.xml
 online version: 8918c8e8-9324-4928-b5f8-bfc9119b6c92
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Cdn/v1.0/CmdletMDs/Get-AzureRmCdnEndpointNameAvailability.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Cdn/v1.0/CmdletMDs/Get-AzureRmCdnEndpointNameAvailability.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmCdnEndpointNameAvailability

@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Sql.dll-Help.xml
 online version: 4e80585a-6cc5-49b5-9c2a-2a108403b5ac
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v0.9.8/CmdletMDs/Get-AzureSqlDatabaseRestorePoints.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v0.9.8/CmdletMDs/Get-AzureSqlDatabaseRestorePoints.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureSqlDatabaseRestorePoints

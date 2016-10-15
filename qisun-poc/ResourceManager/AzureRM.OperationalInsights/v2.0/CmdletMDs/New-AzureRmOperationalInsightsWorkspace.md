@@ -1,7 +1,16 @@
-﻿---
+---
 external help file: Microsoft.Azure.Commands.OperationalInsights.dll-Help.xml
 online version: 3a46bcd5-ad81-411a-92aa-7788ebd2473e
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/New-AzureRmOperationalInsightsWorkspace.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/New-AzureRmOperationalInsightsWorkspace.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # New-AzureRmOperationalInsightsWorkspace
@@ -25,7 +34,7 @@ The **New-AzureRmOperationalInsightsWorkspace** cmdlet creates a workspace in th
 
 ### Example 1: Create a workspace by name
 ```
-PS C:\>New-AzureRmOperationalInsightsWorkspace  ¢â‚¬"ResourceGroupName "ContosoResourceGroup"  ¢â‚¬"Name "MyWorkspace"  ¢â‚¬"Location "East US"  ¢â‚¬"Sku "Standard"
+PS C:\>New-AzureRmOperationalInsightsWorkspace  �€"ResourceGroupName "ContosoResourceGroup"  �€"Name "MyWorkspace"  �€"Location "East US"  �€"Sku "Standard"
 ```
 
 This command creates a standard SKU workspace named MyWorkspace in the resource group named ContosoResourceGroup.
@@ -34,7 +43,7 @@ This command creates a standard SKU workspace named MyWorkspace in the resource 
 ```
 PS C:\>$OILinkTargets = Get-AzureRmOperationalInsightsLinkTargets
 
-PS C:\>$OILinkTargets[0] | New-AzureRmOperationalInsightsWorkspace  ¢â‚¬"ResourceGroupName "ContosoResourceGroup" -Name "MyWorkspace"  ¢â‚¬"Sku "Standard"
+PS C:\>$OILinkTargets[0] | New-AzureRmOperationalInsightsWorkspace  �€"ResourceGroupName "ContosoResourceGroup" -Name "MyWorkspace"  �€"Sku "Standard"
 ```
 
 The first command uses the Get-AzureRmOperationalInsightsLinkTargets cmdlet to get Operational Insights account link targets, and then stores them in the $OILinkTargets variable.

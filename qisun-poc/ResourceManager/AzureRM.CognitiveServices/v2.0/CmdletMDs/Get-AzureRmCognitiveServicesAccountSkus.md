@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Management.CognitiveServices.dll-Help.xml
 online version: 1e78f31c-c3cc-4970-a7de-02433b366c69
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.CognitiveServices/v2.0/CmdletMDs/Get-AzureRmCognitiveServicesAccountSkus.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.CognitiveServices/v2.0/CmdletMDs/Get-AzureRmCognitiveServicesAccountSkus.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmCognitiveServicesAccountSkus

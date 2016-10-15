@@ -2,6 +2,15 @@
 external help file: Microsoft.WindowsAzure.Commands.StorSimple.dll-Help.xml
 online version: .\New-AzureStorSimpleDeviceVolumeContainer.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.StorSimple/v1.0/CmdletMDs/Get-AzureStorSimpleDeviceVolumeContainer.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.StorSimple/v1.0/CmdletMDs/Get-AzureStorSimpleDeviceVolumeContainer.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureStorSimpleDeviceVolumeContainer

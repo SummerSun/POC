@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Compute.dll-Help.xml
 online version: 2bd700db-bd56-43c6-9708-aaafb07489fd
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Compute/v1.0/CmdletMDs/Set-AzureRmVMBginfoExtension.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Compute/v1.0/CmdletMDs/Set-AzureRmVMBginfoExtension.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Set-AzureRmVMBginfoExtension

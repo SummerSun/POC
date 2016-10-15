@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Management.Storage.dll-Help.xml
 online version: .\Get-AzureRmStorageAccountKey.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Storage/v2.0/CmdletMDs/New-AzureRmStorageAccountKey.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Storage/v2.0/CmdletMDs/New-AzureRmStorageAccountKey.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # New-AzureRmStorageAccountKey

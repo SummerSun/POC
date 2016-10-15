@@ -1,7 +1,16 @@
-﻿---
+---
 external help file: Microsoft.Azure.Commands.OperationalInsights.dll-Help.xml
 online version: 3a46bcd5-ad81-411a-92aa-7788ebd2473e
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Get-AzureRmOperationalInsightsWorkspaceSharedKeys.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.OperationalInsights/v2.0/CmdletMDs/Get-AzureRmOperationalInsightsWorkspaceSharedKeys.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmOperationalInsightsWorkspaceSharedKeys
@@ -24,14 +33,14 @@ The keys are used to connect Operational Insights agents to the workspace.
 
 ### Example 1: Get shared keys by workspace name
 ```
-PS C:\>Get-AzureRmOperationalInsightsWorkspaceSharedKeys  ¢â‚¬"ResourceGroupName "ContosoResourceGroup"  ¢â‚¬"Name "MyWorkspace"
+PS C:\>Get-AzureRmOperationalInsightsWorkspaceSharedKeys  �€"ResourceGroupName "ContosoResourceGroup"  �€"Name "MyWorkspace"
 ```
 
 This command gets the shared keys for the workspace named MyWorkspace in the resource group named ContosoResourceGroup.
 
 ### Example 2: Get shared keys by using the pipeline
 ```
-PS C:\>Get-AzureRmOperationalInsightsWorkspace  ¢â‚¬"ResourceGroupName "ContosoResourceGroup"  ¢â‚¬"Name "MyWorkspace" | Get-AzureRmOperationalInsightsWorkspaceSharedKeys
+PS C:\>Get-AzureRmOperationalInsightsWorkspace  �€"ResourceGroupName "ContosoResourceGroup"  �€"Name "MyWorkspace" | Get-AzureRmOperationalInsightsWorkspaceSharedKeys
 ```
 
 This command gets the workspace named MyWorkspace using the Get-AzureRmOperationalInsightsWorkspace cmdlet, and then passes the workspace to the **Get-AzureRmOperationalInsightsWorkspaceSharedKeys** cmdlet.

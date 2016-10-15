@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.HDInsight.dll-Help.xml
 online version: 6d55d5c4-9b5e-4d3c-9713-dfc107f1803b
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.HDInsight/v2.0/CmdletMDs/Set-AzureRmHDInsightDefaultStorage.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.HDInsight/v2.0/CmdletMDs/Set-AzureRmHDInsightDefaultStorage.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Set-AzureRmHDInsightDefaultStorage

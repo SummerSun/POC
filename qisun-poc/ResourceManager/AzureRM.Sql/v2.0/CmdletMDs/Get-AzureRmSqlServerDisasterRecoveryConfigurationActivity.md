@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Sql.dll-Help.xml
 online version: e7fad077-5b9a-4a56-91f4-3f768354ecb9
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v2.0/CmdletMDs/Get-AzureRmSqlServerDisasterRecoveryConfigurationActivity.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v2.0/CmdletMDs/Get-AzureRmSqlServerDisasterRecoveryConfigurationActivity.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmSqlServerDisasterRecoveryConfigurationActivity

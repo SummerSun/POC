@@ -1,9 +1,18 @@
-﻿---
+---
 Module Name: AzureRM.Insights
 Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
+Download Help Link: Please enter FwLink manually
+Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Insights/v0.9.8/CmdletMDs/AzureRM.Insights.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Insights/v0.9.8/CmdletMDs/AzureRM.Insights.md
+ms.topic: conceptual
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # AzureRM.Insights Module
@@ -12,60 +21,79 @@ This topic displays help topics for the Azure Insights Cmdlets.
 
 ## AzureRM.Insights Cmdlets
 ### [Add-AlertRule](Add-AlertRule.md)
-Adds or updates an alert rule.
+Adds or updates an alert rule.
+
 
 ### [Add-AutoscaleSetting](Add-AutoscaleSetting.md)
-Creates an Autoscale setting.
+Creates an Autoscale setting.
+
 
 ### [Format-MetricsAsTable](Format-MetricsAsTable.md)
-Formats metrics as an array of records.
+Formats metrics as an array of records.
+
 
 ### [Get-AlertHistory](Get-AlertHistory.md)
-Retrieves history of alerts.
+Retrieves history of alerts.
+
 
 ### [Get-AlertRule](Get-AlertRule.md)
-Gets alert rules.
+Gets alert rules.
+
 
 ### [Get-AutoscaleHistory](Get-AutoscaleHistory.md)
-Retrieves Autoscale events.
+Retrieves Autoscale events.
+
 
 ### [Get-AutoscaleSetting](Get-AutoscaleSetting.md)
-Gets Autoscale settings.
+Gets Autoscale settings.
+
 
 ### [Get-AzureCorrelationIdLog](Get-AzureCorrelationIdLog.md)
-Gets operations for a correlation ID.
+Gets operations for a correlation ID.
+
 
 ### [Get-AzureResourceGroupLog](Get-AzureResourceGroupLog.md)
-Gets operations for a resource group.
+Gets operations for a resource group.
+
 
 ### [Get-AzureResourceLog](Get-AzureResourceLog.md)
-Gets operations for a resource ID.
+Gets operations for a resource ID.
+
 
 ### [Get-AzureResourceProviderLog](Get-AzureResourceProviderLog.md)
-Gets operations for a resource provider.
+Gets operations for a resource provider.
+
 
 ### [Get-AzureSubscriptionIdLog](Get-AzureSubscriptionIdLog.md)
-Gets the operations for the current subscription.
+Gets the operations for the current subscription.
+
 
 ### [Get-MetricDefinitions](Get-MetricDefinitions.md)
-Retrieves metric definitions.
+Retrieves metric definitions.
+
 
 ### [Get-Metrics](Get-Metrics.md)
-Retrieves metric values of a resource.
+Retrieves metric values of a resource.
+
 
 ### [Get-UsageMetrics](Get-UsageMetrics.md)
-Retrieves usage metric values of a resource.
+Retrieves usage metric values of a resource.
+
 
 ### [New-AutoscaleProfile](New-AutoscaleProfile.md)
-Creates an Autoscale profile.
+Creates an Autoscale profile.
+
 
 ### [New-AutoscaleRule](New-AutoscaleRule.md)
-Creates an Autoscale rule.
+Creates an Autoscale rule.
+
 
 ### [Remove-AlertRule](Remove-AlertRule.md)
-Removes an alert rule.
+Removes an alert rule.
+
 
 ### [Remove-AutoscaleSetting](Remove-AutoscaleSetting.md)
-Removes an Autoscale setting.
+Removes an Autoscale setting.
+
 
 

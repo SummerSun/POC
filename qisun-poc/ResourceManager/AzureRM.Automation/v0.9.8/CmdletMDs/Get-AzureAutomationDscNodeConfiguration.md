@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.ResourceManager.Automation.dll-Help.xml
 online version: 9dbd305e-16a8-4dd4-b5e4-0c1dab4976b7
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Automation/v0.9.8/CmdletMDs/Get-AzureAutomationDscNodeConfiguration.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Automation/v0.9.8/CmdletMDs/Get-AzureAutomationDscNodeConfiguration.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureAutomationDscNodeConfiguration

@@ -2,14 +2,20 @@
 external help file: Microsoft.Azure.Commands.ApiManagement.dll-Help.xml
 online version: 2a7ef835-586c-4e86-a243-3cc0e9623d71
 schema: 2.0.0
-content_git_url: https://github.com/azure/azure-docs-powershell/
-gitcommit: https://github.com/azure/azure-docs-powershell/
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v1.0/CmdletMDs/New-AzureRmApiManagementVirtualNetwork.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v1.0/CmdletMDs/New-AzureRmApiManagementVirtualNetwork.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure Powershell
 ms.technology: Azure Powershell
 author: visual-studio-china
 keywords: content, powershell
+manager: visual-studio-china
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
 manager: visual-studio-china
 ---
 

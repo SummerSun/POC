@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.MachineLearning.dll-Help.xml
 online version: b5b5ad1f-004b-495d-a6b8-0febec7c95f0
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.MachineLearning/v2.0/CmdletMDs/Get-AzureRmMlWebServiceKeys.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.MachineLearning/v2.0/CmdletMDs/Get-AzureRmMlWebServiceKeys.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureRmMlWebServiceKeys

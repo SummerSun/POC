@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.ApiManagement.dll-Help.xml
 online version: .\Add-AzureRmApiManagementRegion.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v2.0/CmdletMDs/Update-AzureRmApiManagementRegion.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v2.0/CmdletMDs/Update-AzureRmApiManagementRegion.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Update-AzureRmApiManagementRegion

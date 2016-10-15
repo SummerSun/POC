@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Automation.dll-Help.xml
 online version: http://go.microsoft.com/fwlink/?LinkId=397903
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.Automation/v1.0/CmdletMDs/Get-AzureAutomationJob.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.Automation/v1.0/CmdletMDs/Get-AzureAutomationJob.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureAutomationJob

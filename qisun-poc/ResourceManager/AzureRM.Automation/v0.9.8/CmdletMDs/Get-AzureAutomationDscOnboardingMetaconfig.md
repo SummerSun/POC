@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.ResourceManager.Automation.dll-Help.xml
 online version: 1cfac190-50d7-4a87-a2e0-f3b8de8f7ed0
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Automation/v0.9.8/CmdletMDs/Get-AzureAutomationDscOnboardingMetaconfig.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Automation/v0.9.8/CmdletMDs/Get-AzureAutomationDscOnboardingMetaconfig.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureAutomationDscOnboardingMetaconfig

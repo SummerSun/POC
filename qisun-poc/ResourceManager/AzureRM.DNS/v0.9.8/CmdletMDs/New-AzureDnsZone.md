@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Dns.dll-Help.xml
 online version: http://azure.microsoft.com/en-us/documentation/articles/azure-preview-portal-using-tags/
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.DNS/v0.9.8/CmdletMDs/New-AzureDnsZone.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.DNS/v0.9.8/CmdletMDs/New-AzureDnsZone.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # New-AzureDnsZone

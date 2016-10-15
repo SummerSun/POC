@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.ManagedCache.dll-Help.xml
 online version: .\New-AzureManagedCacheNamedCache.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.ManagedCache/v1.0/CmdletMDs/Get-AzureManagedCacheNamedCache.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.ManagedCache/v1.0/CmdletMDs/Get-AzureManagedCacheNamedCache.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureManagedCacheNamedCache

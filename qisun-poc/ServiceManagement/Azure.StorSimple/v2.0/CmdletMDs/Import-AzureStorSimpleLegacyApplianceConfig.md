@@ -2,6 +2,15 @@
 external help file: Microsoft.WindowsAzure.Commands.StorSimple.dll-Help.xml
 online version: .\Import-AzureStorSimpleLegacyVolumeContainer.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.StorSimple/v2.0/CmdletMDs/Import-AzureStorSimpleLegacyApplianceConfig.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.StorSimple/v2.0/CmdletMDs/Import-AzureStorSimpleLegacyApplianceConfig.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Import-AzureStorSimpleLegacyApplianceConfig

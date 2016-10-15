@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.Media.dll-Help.xml
 online version: 22c5b284-7ca2-4e0e-bc25-1ca4b0cb6113
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Media/CmdletMDs/Sync-AzureRmMediaServiceStorageKeys.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Media/CmdletMDs/Sync-AzureRmMediaServiceStorageKeys.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Sync-AzureRmMediaServiceStorageKeys

@@ -2,6 +2,15 @@
 external help file: Microsoft.WindowsAzure.Commands.Storage.dll-Help.xml
 online version: .\New-AzureStorageShare.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/Storage/Azure.Storage/v1.0/CmdletMDs/Get-AzureStorageShare.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/Storage/Azure.Storage/v1.0/CmdletMDs/Get-AzureStorageShare.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Get-AzureStorageShare

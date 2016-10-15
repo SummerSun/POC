@@ -2,6 +2,15 @@
 external help file: Microsoft.Azure.Commands.DataFactories.dll-Help.xml
 online version: .\Get-AzureRmDataFactoryGateway.md
 schema: 2.0.0
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.DataFactories/v1.0/CmdletMDs/Set-AzureRmDataFactoryGateway.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.DataFactories/v1.0/CmdletMDs/Set-AzureRmDataFactoryGateway.md
+ms.topic: reference
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+keywords: powershell, content
+manager: visual-studio-china
 ---
 
 # Set-AzureRmDataFactoryGateway
