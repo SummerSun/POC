@@ -4,8 +4,8 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\AzureAD.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob//..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\AzureAD.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/Azure AD Cmdlets\AzureAD\v1.0\AzureAD.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob//Azure AD Cmdlets\AzureAD\v1.0\AzureAD.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell
