@@ -6,12 +6,6 @@ content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v1.0/CmdletMDs/Restore-AzureRmApiManagement.md
 ms.topic: reference
 ms.prod: powershell
-ms.service: Azure Powershell
-ms.technology: Azure Powershell
-author: visual-studio-china
-keywords: content, powershell
-manager: visual-studio-china
-ms.prod: powershell
 ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
