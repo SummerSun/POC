@@ -2,8 +2,8 @@
 external help file: AzureADHelpMSOL.xml
 online version: 65f06302-db2d-4507-86b9-752471f47030
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Set-MsolDirSyncConfiguration.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Set-MsolDirSyncConfiguration.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\Set-MsolDirSyncConfiguration.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob//..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\Set-MsolDirSyncConfiguration.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

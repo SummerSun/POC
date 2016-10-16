@@ -2,8 +2,8 @@
 external help file: AzureADHelpMSOL.xml
 online version: 3df291fc-2a4e-4493-8c1e-bfe2977b5f15
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolDeviceRegistrationServicePolicy.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolDeviceRegistrationServicePolicy.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\Get-MsolDeviceRegistrationServicePolicy.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob//..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\Get-MsolDeviceRegistrationServicePolicy.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

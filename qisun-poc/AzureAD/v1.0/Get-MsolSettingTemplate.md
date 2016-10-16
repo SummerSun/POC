@@ -2,8 +2,8 @@
 external help file: AzureADHelpMSOL.xml
 online version: 4955285a-6fe5-46e2-affc-8b1798ae8f2a
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolSettingTemplate.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/projects/azure-docs-powershell-azuread-int/Azure%20AD%20Cmdlets/AzureAD/v1.0/Get-MsolSettingTemplate.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\Get-MsolSettingTemplate.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob//..\..\projects\azure-docs-powershell-azuread-int\Azure AD Cmdlets\AzureAD\v1.0\Get-MsolSettingTemplate.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
