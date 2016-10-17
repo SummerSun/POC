@@ -2,8 +2,8 @@
 external help file: AzureADHelpMSOL.xml
 online version: 5810982a-c9a8-4a13-be28-5d9cb053db1a
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/Azure AD Cmdlets\AzureAD\v1.0\Disable-MsolDevice.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob//Azure AD Cmdlets\AzureAD\v1.0\Disable-MsolDevice.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/.\Azure AD Cmdlets\AzureAD\v1.0\Disable-MsolDevice.md
+gitcommit: aa68880375be962d5646d6d763347021b391b5c6
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
