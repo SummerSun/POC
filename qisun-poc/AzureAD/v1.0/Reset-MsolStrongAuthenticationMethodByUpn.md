@@ -5,7 +5,7 @@ schema: 2.0.0
 updated_at: 9/28/2016 9:53 AM
 ms.date: 9/28/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/.\Azure AD Cmdlets\AzureAD\v1.0\Reset-MsolStrongAuthenticationMethodByUpn.md
-gitcommit: aa68880375be962d5646d6d763347021b391b5c6
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/.\Azure AD Cmdlets\AzureAD\v1.0\Reset-MsolStrongAuthenticationMethodByUpn.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

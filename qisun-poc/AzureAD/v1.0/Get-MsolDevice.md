@@ -3,7 +3,7 @@ external help file: AzureADHelpMSOL.xml
 online version: 58f7425a-3f73-4caf-851d-972214e870ac
 schema: 2.0.0
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/.\Azure AD Cmdlets\AzureAD\v1.0\Get-MsolDevice.md
-gitcommit: aa68880375be962d5646d6d763347021b391b5c6
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/aa68880375be962d5646d6d763347021b391b5c6/.\Azure AD Cmdlets\AzureAD\v1.0\Get-MsolDevice.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
