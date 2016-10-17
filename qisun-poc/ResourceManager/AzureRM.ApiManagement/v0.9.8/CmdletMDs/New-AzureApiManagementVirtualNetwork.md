@@ -2,8 +2,10 @@
 external help file: Microsoft.Azure.Commands.ApiManagement.dll-Help.xml
 online version: .\Set-AzureApiManagementVirtualNetworks.md
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/New-AzureApiManagementVirtualNetwork.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/New-AzureApiManagementVirtualNetwork.md
+updated_at: 10/16/2016 2:08 PM
+ms.date: 10/16/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/New-AzureApiManagementVirtualNetwork.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/b8ab4c5ddedf1f6903d087eea00c00708bb01286/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/New-AzureApiManagementVirtualNetwork.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

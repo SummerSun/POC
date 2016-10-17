@@ -2,8 +2,10 @@
 external help file: Microsoft.Azure.Commands.RecoveryServicesRdfe.dll-Help.xml
 online version: cb922d26-cb13-483d-866f-a7c11f088689
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.SiteRecovery/v1.0/CmdletMDs/Get-AzureSiteRecoveryServer.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.SiteRecovery/v1.0/CmdletMDs/Get-AzureSiteRecoveryServer.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ServiceManagement/Azure.SiteRecovery/v1.0/CmdletMDs/Get-AzureSiteRecoveryServer.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ServiceManagement/Azure.SiteRecovery/v1.0/CmdletMDs/Get-AzureSiteRecoveryServer.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

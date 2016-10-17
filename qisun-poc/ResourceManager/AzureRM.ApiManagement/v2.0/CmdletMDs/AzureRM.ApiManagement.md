@@ -4,8 +4,10 @@ Module Guid: f875725d-8ce4-423f-a6af-ea880bc63f13
 Download Help Link: None
 Help Version: 3.0.0.0
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v2.0/CmdletMDs/AzureRM.ApiManagement.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v2.0/CmdletMDs/AzureRM.ApiManagement.md
+updated_at: 10/16/2016 2:08 PM
+ms.date: 10/16/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v2.0/CmdletMDs/AzureRM.ApiManagement.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/b8ab4c5ddedf1f6903d087eea00c00708bb01286/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v2.0/CmdletMDs/AzureRM.ApiManagement.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell

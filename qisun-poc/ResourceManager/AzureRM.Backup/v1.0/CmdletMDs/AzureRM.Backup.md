@@ -4,8 +4,10 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Backup/v1.0/CmdletMDs/AzureRM.Backup.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Backup/v1.0/CmdletMDs/AzureRM.Backup.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Backup/v1.0/CmdletMDs/AzureRM.Backup.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Backup/v1.0/CmdletMDs/AzureRM.Backup.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell

@@ -2,8 +2,10 @@
 external help file: Microsoft.Azure.Commands.Network.dll-Help.xml
 online version: 5673803b-4005-4588-9e22-47b3729c208d
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v0.9.8/CmdletMDs/Get-AzureVirtualNetworkGatewayConnectionSharedKey.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v0.9.8/CmdletMDs/Get-AzureVirtualNetworkGatewayConnectionSharedKey.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v0.9.8/CmdletMDs/Get-AzureVirtualNetworkGatewayConnectionSharedKey.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v0.9.8/CmdletMDs/Get-AzureVirtualNetworkGatewayConnectionSharedKey.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

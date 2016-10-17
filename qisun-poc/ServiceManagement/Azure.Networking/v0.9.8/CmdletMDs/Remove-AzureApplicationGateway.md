@@ -2,8 +2,10 @@
 external help file: Microsoft.WindowsAzure.Commands.ServiceManagement.Network.dll-Help.xml
 online version: .\Get-AzureApplicationGateway.md
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureApplicationGateway.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureApplicationGateway.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureApplicationGateway.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureApplicationGateway.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

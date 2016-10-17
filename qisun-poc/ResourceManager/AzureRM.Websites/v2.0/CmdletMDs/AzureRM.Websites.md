@@ -4,8 +4,10 @@ Module Guid: cc69c625-e961-43f4-8b50-0061eba6e4b6
 Download Help Link: None
 Help Version: 3.0.0.0
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/AzureRM.Websites.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/AzureRM.Websites.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/AzureRM.Websites.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/AzureRM.Websites.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell

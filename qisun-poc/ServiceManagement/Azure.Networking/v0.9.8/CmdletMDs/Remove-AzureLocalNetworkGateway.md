@@ -2,8 +2,10 @@
 external help file: Microsoft.WindowsAzure.Commands.ServiceManagement.Network.dll-Help.xml
 online version: 75505bf1-69c2-4502-a161-f06527c20d34
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureLocalNetworkGateway.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureLocalNetworkGateway.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureLocalNetworkGateway.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ServiceManagement/Azure.Networking/v0.9.8/CmdletMDs/Remove-AzureLocalNetworkGateway.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

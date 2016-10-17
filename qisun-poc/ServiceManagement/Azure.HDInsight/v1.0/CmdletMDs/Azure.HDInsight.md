@@ -4,8 +4,10 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: 1.0.0.0
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.HDInsight/v1.0/CmdletMDs/Azure.HDInsight.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ServiceManagement/Azure.HDInsight/v1.0/CmdletMDs/Azure.HDInsight.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ServiceManagement/Azure.HDInsight/v1.0/CmdletMDs/Azure.HDInsight.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ServiceManagement/Azure.HDInsight/v1.0/CmdletMDs/Azure.HDInsight.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell

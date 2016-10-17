@@ -4,8 +4,10 @@ Module Guid: 59713673-194f-418a-b1f2-ac60db82edf9
 Download Help Link: None
 Help Version: 3.0.0.0
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Tags/v2.0/CmdletMDs/AzureRM.Tags.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Tags/v2.0/CmdletMDs/AzureRM.Tags.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Tags/v2.0/CmdletMDs/AzureRM.Tags.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Tags/v2.0/CmdletMDs/AzureRM.Tags.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell

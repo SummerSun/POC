@@ -2,8 +2,10 @@
 external help file: Microsoft.Azure.Commands.Network.dll-Help.xml
 online version: .\Add-AzureRmApplicationGatewaySslCertificate.md
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v1.0/CmdletMDs/Set-AzureRmApplicationGatewaySslCertificate.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v1.0/CmdletMDs/Set-AzureRmApplicationGatewaySslCertificate.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v1.0/CmdletMDs/Set-AzureRmApplicationGatewaySslCertificate.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Network/v1.0/CmdletMDs/Set-AzureRmApplicationGatewaySslCertificate.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

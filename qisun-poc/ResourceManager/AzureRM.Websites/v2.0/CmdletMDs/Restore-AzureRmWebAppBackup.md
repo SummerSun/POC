@@ -2,8 +2,10 @@
 external help file: Microsoft.Azure.Commands.Websites.dll-Help.xml
 online version: 50612bdc-6e73-47e4-a4db-de8cf804bb85
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/Restore-AzureRmWebAppBackup.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/Restore-AzureRmWebAppBackup.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/Restore-AzureRmWebAppBackup.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Websites/v2.0/CmdletMDs/Restore-AzureRmWebAppBackup.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

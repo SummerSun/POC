@@ -2,15 +2,16 @@
 external help file: Microsoft.Azure.Commands.ResourceManager.Cmdlets.dll-Help.xml
 online version: .\Get-AzureRmResourceGroupDeployment.md
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v1.0/CmdletMDs/Stop-AzureRmResourceGroupDeployment.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v1.0/CmdletMDs/Stop-AzureRmResourceGroupDeployment.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v1.0/CmdletMDs/Stop-AzureRmResourceGroupDeployment.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.Resources/v1.0/CmdletMDs/Stop-AzureRmResourceGroupDeployment.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 keywords: powershell, content
-manager: visual-studio-china
 ---
 
 # Stop-AzureRmResourceGroupDeployment

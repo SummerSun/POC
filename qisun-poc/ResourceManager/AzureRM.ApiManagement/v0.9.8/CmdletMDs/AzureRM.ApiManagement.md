@@ -4,8 +4,8 @@ Module Guid: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 Download Help Link: Please enter FwLink manually
 Help Version: Please enter version of help manually (X.X.X.X) format
 Locale: en-US
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/AzureRM.ApiManagement.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/AzureRM.ApiManagement.md
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/AzureRM.ApiManagement.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/b8ab4c5ddedf1f6903d087eea00c00708bb01286/azureps-cmdlets-docs/ResourceManager/AzureRM.ApiManagement/v0.9.8/CmdletMDs/AzureRM.ApiManagement.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell

@@ -2,8 +2,10 @@
 external help file: Microsoft.WindowsAzure.Commands.Storage.dll-Help.xml
 online version: .\Get-AzureStorageBlob.md
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/Storage/Azure.Storage/v1.0/CmdletMDs/New-AzureStorageBlobSASToken.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/Storage/Azure.Storage/v1.0/CmdletMDs/New-AzureStorageBlobSASToken.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.0/CmdletMDs/New-AzureStorageBlobSASToken.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/Storage/Azure.Storage/v1.0/CmdletMDs/New-AzureStorageBlobSASToken.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell

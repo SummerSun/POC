@@ -2,8 +2,10 @@
 external help file: Microsoft.Azure.Commands.HDInsight.dll-Help.xml
 online version: 6d55d5c4-9b5e-4d3c-9713-dfc107f1803b
 schema: 2.0.0
-content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.HDInsight/v2.0/CmdletMDs/Set-AzureRmHDInsightClusterSize.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/projects/azure-docs-powershell-int/azureps-cmdlets-docs/ResourceManager/AzureRM.HDInsight/v2.0/CmdletMDs/Set-AzureRmHDInsightClusterSize.md
+updated_at: 10/15/2016 4:32 AM
+ms.date: 10/15/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.HDInsight/v2.0/CmdletMDs/Set-AzureRmHDInsightClusterSize.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/1bfd8e268acfc1799ad3f17c5a982578f54443cf/azureps-cmdlets-docs/ResourceManager/AzureRM.HDInsight/v2.0/CmdletMDs/Set-AzureRmHDInsightClusterSize.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
