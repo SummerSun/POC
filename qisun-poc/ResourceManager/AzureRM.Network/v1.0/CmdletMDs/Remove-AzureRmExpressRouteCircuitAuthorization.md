@@ -10,7 +10,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
-keywords: powershell, content
+keywords: powershell, cmdlet
 manager: visual-studio-china
 ---
 
