@@ -3,10 +3,10 @@ external help file: Microsoft.Azure.Commands.Sql.dll-Help.xml
 online version: .\Get-AzureRmSqlServerThreatDetectionPolicy.md
 schema: 2.0.0
 ms.assetid: 1D613CD4-93F9-4E32-B97D-EAA51AFBB179
-updated_at: 10/19/2016 3:33 AM
+updated_at: 10/19/2016 4:58 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v2.1.0/Set-AzureRmSqlServerThreatDetectionPolicy.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v2.1.0/Set-AzureRmSqlServerThreatDetectionPolicy.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c026489c6aa6f4120239db4a9227669fde721095/azureps-cmdlets-docs/ResourceManager/AzureRM.Sql/v2.1.0/Set-AzureRmSqlServerThreatDetectionPolicy.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
@@ -221,6 +221,6 @@ This cmdlet returns a **ServerThreatDetectionPolicyModel** object.
 
 [Get-AzureRmSqlServerThreatDetectionPolicy](.\Get-AzureRmSqlServerThreatDetectionPolicy.md)
 
-Remove-AzureRmSqlServerThreatDetectionPolicy
+[Remove-AzureRmSqlServerThreatDetectionPolicy]()
 
 
