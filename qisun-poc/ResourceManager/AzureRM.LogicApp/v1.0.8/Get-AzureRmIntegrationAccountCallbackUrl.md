@@ -3,10 +3,10 @@ external help file: Microsoft.Azure.Commands.LogicApp.dll-Help.xml
 online version: .\Get-AzureRmLogicAppTriggerCallbackUrl.md
 schema: 2.0.0
 ms.assetid: 14B48050-9B18-4E1A-8F2C-65715855399F
-updated_at: 10/19/2016 3:33 AM
+updated_at: 10/19/2016 3:59 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/ResourceManager/AzureRM.LogicApp/v1.0.8/Get-AzureRmIntegrationAccountCallbackUrl.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/ResourceManager/AzureRM.LogicApp/v1.0.8/Get-AzureRmIntegrationAccountCallbackUrl.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/0856bf8c16ee4fb6bd92eea315bc14363a964856/azureps-cmdlets-docs/ResourceManager/AzureRM.LogicApp/v1.0.8/Get-AzureRmIntegrationAccountCallbackUrl.md
 ms.topic: reference
 ms.prod: powershell
 ms.service: Azure PowerShell
@@ -135,6 +135,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-Get-AzureRmLogicAppTriggerCallbackUrl
+[Get-AzureRmLogicAppTriggerCallbackUrl]()
 
 
