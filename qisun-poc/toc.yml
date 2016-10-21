@@ -1,4 +1,0 @@
-- name: Azure Powershell
-  tocHref: azureps-cmdlets-docs/toc.yml
-- name: Azure AD
-  tocHref: Azure AD Cmdlets/toc.yml
