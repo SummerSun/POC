@@ -4,131 +4,6 @@
     - name: Azure.Storage
       href: ../Storage/Azure.Storage/index.md
       items:
-        - name: v1.1.6
-          href: ../Storage/Azure.Storage/v1.1.6/Azure.Storage.md
-          items:
-            - name: Get-AzureStorageBlob
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
-            - name: Get-AzureStorageBlobContent
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobContent.md
-            - name: Get-AzureStorageBlobCopyState
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobCopyState.md
-            - name: Get-AzureStorageContainer
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageContainer.md
-            - name: Get-AzureStorageContainerStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageContainerStoredAccessPolicy.md
-            - name: Get-AzureStorageCORSRule
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageCORSRule.md
-            - name: Get-AzureStorageFile
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageFile.md
-            - name: Get-AzureStorageFileContent
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageFileContent.md
-            - name: Get-AzureStorageFileCopyState
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageFileCopyState.md
-            - name: Get-AzureStorageQueue
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageQueue.md
-            - name: Get-AzureStorageQueueStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageQueueStoredAccessPolicy.md
-            - name: Get-AzureStorageServiceLoggingProperty
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageServiceLoggingProperty.md
-            - name: Get-AzureStorageServiceMetricsProperty
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageServiceMetricsProperty.md
-            - name: Get-AzureStorageShare
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageShare.md
-            - name: Get-AzureStorageShareStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageShareStoredAccessPolicy.md
-            - name: Get-AzureStorageTable
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageTable.md
-            - name: Get-AzureStorageTableStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageTableStoredAccessPolicy.md
-            - name: New-AzureStorageAccountSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageAccountSASToken.md
-            - name: New-AzureStorageBlobSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageBlobSASToken.md
-            - name: New-AzureStorageContainer
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContainer.md
-            - name: New-AzureStorageContainerSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContainerSASToken.md
-            - name: New-AzureStorageContainerStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContainerStoredAccessPolicy.md
-            - name: New-AzureStorageContext
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContext.md
-            - name: New-AzureStorageDirectory
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageDirectory.md
-            - name: New-AzureStorageFileSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageFileSASToken.md
-            - name: New-AzureStorageQueue
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageQueue.md
-            - name: New-AzureStorageQueueSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageQueueSASToken.md
-            - name: New-AzureStorageQueueStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageQueueStoredAccessPolicy.md
-            - name: New-AzureStorageShare
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageShare.md
-            - name: New-AzureStorageShareSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageShareSASToken.md
-            - name: New-AzureStorageShareStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageShareStoredAccessPolicy.md
-            - name: New-AzureStorageTable
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageTable.md
-            - name: New-AzureStorageTableSASToken
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageTableSASToken.md
-            - name: New-AzureStorageTableStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageTableStoredAccessPolicy.md
-            - name: Remove-AzureStorageBlob
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageBlob.md
-            - name: Remove-AzureStorageContainer
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageContainer.md
-            - name: Remove-AzureStorageContainerStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageContainerStoredAccessPolicy.md
-            - name: Remove-AzureStorageCORSRule
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageCORSRule.md
-            - name: Remove-AzureStorageDirectory
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageDirectory.md
-            - name: Remove-AzureStorageFile
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageFile.md
-            - name: Remove-AzureStorageQueue
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueue.md
-            - name: Remove-AzureStorageQueueStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueueStoredAccessPolicy.md
-            - name: Remove-AzureStorageShare
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageShare.md
-            - name: Remove-AzureStorageShareStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageShareStoredAccessPolicy.md
-            - name: Remove-AzureStorageTable
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageTable.md
-            - name: Remove-AzureStorageTableStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageTableStoredAccessPolicy.md
-            - name: Set-AzureStorageBlobContent
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageBlobContent.md
-            - name: Set-AzureStorageContainerAcl
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageContainerAcl.md
-            - name: Set-AzureStorageContainerStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageContainerStoredAccessPolicy.md
-            - name: Set-AzureStorageCORSRule
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageCORSRule.md
-            - name: Set-AzureStorageFileContent
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageFileContent.md
-            - name: Set-AzureStorageQueueStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageQueueStoredAccessPolicy.md
-            - name: Set-AzureStorageServiceLoggingProperty
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageServiceLoggingProperty.md
-            - name: Set-AzureStorageServiceMetricsProperty
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageServiceMetricsProperty.md
-            - name: Set-AzureStorageShareQuota
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageShareQuota.md
-            - name: Set-AzureStorageShareStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageShareStoredAccessPolicy.md
-            - name: Set-AzureStorageTableStoredAccessPolicy
-              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageTableStoredAccessPolicy.md
-            - name: Start-AzureStorageBlobCopy
-              href: ../Storage/Azure.Storage/v1.1.6/Start-AzureStorageBlobCopy.md
-            - name: Start-AzureStorageFileCopy
-              href: ../Storage/Azure.Storage/v1.1.6/Start-AzureStorageFileCopy.md
-            - name: Stop-AzureStorageBlobCopy
-              href: ../Storage/Azure.Storage/v1.1.6/Stop-AzureStorageBlobCopy.md
-            - name: Stop-AzureStorageFileCopy
-              href: ../Storage/Azure.Storage/v1.1.6/Stop-AzureStorageFileCopy.md
         - name: v2.1.0
           href: ../Storage/Azure.Storage/v2.1.0/Azure.Storage.md
           items:
@@ -254,3 +129,128 @@
               href: ../Storage/Azure.Storage/v2.1.0/Stop-AzureStorageBlobCopy.md
             - name: Stop-AzureStorageFileCopy
               href: ../Storage/Azure.Storage/v2.1.0/Stop-AzureStorageFileCopy.md
+        - name: v1.1.6
+          href: ../Storage/Azure.Storage/v1.1.6/Azure.Storage.md
+          items:
+            - name: Get-AzureStorageBlob
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
+            - name: Get-AzureStorageBlobContent
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobContent.md
+            - name: Get-AzureStorageBlobCopyState
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobCopyState.md
+            - name: Get-AzureStorageContainer
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageContainer.md
+            - name: Get-AzureStorageContainerStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageContainerStoredAccessPolicy.md
+            - name: Get-AzureStorageCORSRule
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageCORSRule.md
+            - name: Get-AzureStorageFile
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageFile.md
+            - name: Get-AzureStorageFileContent
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageFileContent.md
+            - name: Get-AzureStorageFileCopyState
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageFileCopyState.md
+            - name: Get-AzureStorageQueue
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageQueue.md
+            - name: Get-AzureStorageQueueStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageQueueStoredAccessPolicy.md
+            - name: Get-AzureStorageServiceLoggingProperty
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageServiceLoggingProperty.md
+            - name: Get-AzureStorageServiceMetricsProperty
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageServiceMetricsProperty.md
+            - name: Get-AzureStorageShare
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageShare.md
+            - name: Get-AzureStorageShareStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageShareStoredAccessPolicy.md
+            - name: Get-AzureStorageTable
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageTable.md
+            - name: Get-AzureStorageTableStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageTableStoredAccessPolicy.md
+            - name: New-AzureStorageAccountSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageAccountSASToken.md
+            - name: New-AzureStorageBlobSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageBlobSASToken.md
+            - name: New-AzureStorageContainer
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContainer.md
+            - name: New-AzureStorageContainerSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContainerSASToken.md
+            - name: New-AzureStorageContainerStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContainerStoredAccessPolicy.md
+            - name: New-AzureStorageContext
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageContext.md
+            - name: New-AzureStorageDirectory
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageDirectory.md
+            - name: New-AzureStorageFileSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageFileSASToken.md
+            - name: New-AzureStorageQueue
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageQueue.md
+            - name: New-AzureStorageQueueSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageQueueSASToken.md
+            - name: New-AzureStorageQueueStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageQueueStoredAccessPolicy.md
+            - name: New-AzureStorageShare
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageShare.md
+            - name: New-AzureStorageShareSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageShareSASToken.md
+            - name: New-AzureStorageShareStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageShareStoredAccessPolicy.md
+            - name: New-AzureStorageTable
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageTable.md
+            - name: New-AzureStorageTableSASToken
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageTableSASToken.md
+            - name: New-AzureStorageTableStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/New-AzureStorageTableStoredAccessPolicy.md
+            - name: Remove-AzureStorageBlob
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageBlob.md
+            - name: Remove-AzureStorageContainer
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageContainer.md
+            - name: Remove-AzureStorageContainerStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageContainerStoredAccessPolicy.md
+            - name: Remove-AzureStorageCORSRule
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageCORSRule.md
+            - name: Remove-AzureStorageDirectory
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageDirectory.md
+            - name: Remove-AzureStorageFile
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageFile.md
+            - name: Remove-AzureStorageQueue
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueue.md
+            - name: Remove-AzureStorageQueueStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueueStoredAccessPolicy.md
+            - name: Remove-AzureStorageShare
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageShare.md
+            - name: Remove-AzureStorageShareStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageShareStoredAccessPolicy.md
+            - name: Remove-AzureStorageTable
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageTable.md
+            - name: Remove-AzureStorageTableStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Remove-AzureStorageTableStoredAccessPolicy.md
+            - name: Set-AzureStorageBlobContent
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageBlobContent.md
+            - name: Set-AzureStorageContainerAcl
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageContainerAcl.md
+            - name: Set-AzureStorageContainerStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageContainerStoredAccessPolicy.md
+            - name: Set-AzureStorageCORSRule
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageCORSRule.md
+            - name: Set-AzureStorageFileContent
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageFileContent.md
+            - name: Set-AzureStorageQueueStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageQueueStoredAccessPolicy.md
+            - name: Set-AzureStorageServiceLoggingProperty
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageServiceLoggingProperty.md
+            - name: Set-AzureStorageServiceMetricsProperty
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageServiceMetricsProperty.md
+            - name: Set-AzureStorageShareQuota
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageShareQuota.md
+            - name: Set-AzureStorageShareStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageShareStoredAccessPolicy.md
+            - name: Set-AzureStorageTableStoredAccessPolicy
+              href: ../Storage/Azure.Storage/v1.1.6/Set-AzureStorageTableStoredAccessPolicy.md
+            - name: Start-AzureStorageBlobCopy
+              href: ../Storage/Azure.Storage/v1.1.6/Start-AzureStorageBlobCopy.md
+            - name: Start-AzureStorageFileCopy
+              href: ../Storage/Azure.Storage/v1.1.6/Start-AzureStorageFileCopy.md
+            - name: Stop-AzureStorageBlobCopy
+              href: ../Storage/Azure.Storage/v1.1.6/Stop-AzureStorageBlobCopy.md
+            - name: Stop-AzureStorageFileCopy
+              href: ../Storage/Azure.Storage/v1.1.6/Stop-AzureStorageFileCopy.md
