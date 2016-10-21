@@ -1,6 +1,8 @@
 - name: Storage
+  href: ../Storage/index.md
   items:
     - name: Azure.Storage
+      href: ../Storage/Azure.Storage/index.md
       items:
         - name: v1.1.6
           href: ../Storage/Azure.Storage/v1.1.6/Azure.Storage.md

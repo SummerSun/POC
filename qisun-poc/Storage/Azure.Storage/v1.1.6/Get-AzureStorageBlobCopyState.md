@@ -3,8 +3,6 @@ external help file: Microsoft.WindowsAzure.Commands.Storage.dll-Help.xml
 online version: .\Start-AzureStorageBlobCopy.md
 schema: 2.0.0
 ms.assetid: 5EAD5288-78E9-4EBB-904E-5E86EA88DA93
-updated_at: 10/19/2016 3:33 AM
-ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobCopyState.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobCopyState.md
 ms.topic: reference

@@ -3,8 +3,6 @@ external help file: Microsoft.WindowsAzure.Commands.Storage.dll-Help.xml
 online version: .\New-AzureStorageContainer.md
 schema: 2.0.0
 ms.assetid: 4880A1A4-C947-4310-8317-0A837B8ACB7F
-updated_at: 10/19/2016 3:33 AM
-ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageContainer.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageContainer.md
 ms.topic: reference

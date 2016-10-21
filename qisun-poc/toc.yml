@@ -1,0 +1,3 @@
+- name: azureps-cmdlets-docs
+  href: azureps-cmdlets-docs/index.md
+  tocHref: azureps-cmdlets-docs/toc.yml
