@@ -1,3 +1,6 @@
 - name: azureps-cmdlets-docs
   href: azureps-cmdlets-docs/index.md
   tocHref: azureps-cmdlets-docs/toc.yml
+- name: Azure AD Cmdlets
+  href: Azure AD Cmdlets/index.md
+  tocHref: Azure AD Cmdlets/toc.yml
