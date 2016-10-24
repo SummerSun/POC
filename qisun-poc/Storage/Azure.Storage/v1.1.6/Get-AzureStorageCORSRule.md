@@ -3,6 +3,8 @@ external help file: Microsoft.WindowsAzure.Commands.Storage.dll-Help.xml
 online version: .\Remove-AzureStorageCORSRule.md
 schema: 2.0.0
 ms.assetid: ACCFB0FD-AD3A-4415-ABCE-A98B8073E82B
+updated_at: 10/19/2016 3:33 AM
+ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageCORSRule.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageCORSRule.md
 ms.topic: reference
