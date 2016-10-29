@@ -62,10 +62,10 @@ This value should be used when updating setting.
 
 ## RELATED LINKS
 
-[Get-MsolSettingTemplate](.\Get-MsolSettingTemplate.md)
+[Get-MsolSettingTemplate](xref:AzureADPreview/v1.0.0/Get-MsolSettingTemplate.md)
 
-[Get-MsolAllSettings](.\Get-MsolAllSettings.md)
+[Get-MsolAllSettings](xref:AzureADPreview/v1.0.0/Get-MsolAllSettings.md)
 
-[Get-MsolSettings](.\Get-MsolSettings.md)
+[Get-MsolSettings](xref:AzureADPreview/v1.0.0/Get-MsolSettings.md)
 
 

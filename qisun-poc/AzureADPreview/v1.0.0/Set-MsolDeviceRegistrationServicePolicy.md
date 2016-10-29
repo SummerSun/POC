@@ -153,6 +153,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MsolDeviceRegistrationServicePolicy](.\Get-MsolDeviceRegistrationServicePolicy.md)
+[Get-MsolDeviceRegistrationServicePolicy](xref:AzureADPreview/v1.0.0/Get-MsolDeviceRegistrationServicePolicy.md)
 
 

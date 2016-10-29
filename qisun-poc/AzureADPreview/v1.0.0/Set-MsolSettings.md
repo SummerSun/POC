@@ -176,10 +176,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-MsolSettings](.\Get-MsolSettings.md)
+[Get-MsolSettings](xref:AzureADPreview/v1.0.0/Get-MsolSettings.md)
 
-[New-MsolSettings](.\New-MsolSettings.md)
+[New-MsolSettings](xref:AzureADPreview/v1.0.0/New-MsolSettings.md)
 
-[Remove-MsolSettings](.\Remove-MsolSettings.md)
+[Remove-MsolSettings](xref:AzureADPreview/v1.0.0/Remove-MsolSettings.md)
 
 

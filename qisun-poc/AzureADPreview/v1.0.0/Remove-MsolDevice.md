@@ -159,10 +159,10 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[Disable-MsolDevice](.\Disable-MsolDevice.md)
+[Disable-MsolDevice](xref:AzureADPreview/v1.0.0/Disable-MsolDevice.md)
 
-[Enable-MsolDevice](.\Enable-MsolDevice.md)
+[Enable-MsolDevice](xref:AzureADPreview/v1.0.0/Enable-MsolDevice.md)
 
-[Get-MsolDevice](.\Get-MsolDevice.md)
+[Get-MsolDevice](xref:AzureADPreview/v1.0.0/Get-MsolDevice.md)
 
 

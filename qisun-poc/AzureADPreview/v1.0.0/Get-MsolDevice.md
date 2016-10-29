@@ -224,10 +224,10 @@ The value could be one of the following: Authenticated, Compliant, Managed.
 
 ## RELATED LINKS
 
-[Disable-MsolDevice](.\Disable-MsolDevice.md)
+[Disable-MsolDevice](xref:AzureADPreview/v1.0.0/Disable-MsolDevice.md)
 
-[Enable-MsolDevice](.\Enable-MsolDevice.md)
+[Enable-MsolDevice](xref:AzureADPreview/v1.0.0/Enable-MsolDevice.md)
 
-[Remove-MsolDevice](.\Remove-MsolDevice.md)
+[Remove-MsolDevice](xref:AzureADPreview/v1.0.0/Remove-MsolDevice.md)
 
 
