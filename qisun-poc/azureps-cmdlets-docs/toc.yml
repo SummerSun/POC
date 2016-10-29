@@ -5,7 +5,7 @@
       href: ../Storage/Azure.Storage/index.md
       items:
         - name: v2.1.0
-          href: 
+          href: ../Storage/Azure.Storage/v2.1.0/Azure.Storage.md
           items:
             - name: Get-AzureStorageBlob
               href: ../Storage/Azure.Storage/v2.1.0/Get-AzureStorageBlob.md
@@ -130,7 +130,7 @@
             - name: Stop-AzureStorageFileCopy
               href: ../Storage/Azure.Storage/v2.1.0/Stop-AzureStorageFileCopy.md
         - name: v1.1.6
-          href: 
+          href: ../Storage/Azure.Storage/v1.1.6/Azure.Storage.md
           items:
             - name: Get-AzureStorageBlob
               href: ../Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
