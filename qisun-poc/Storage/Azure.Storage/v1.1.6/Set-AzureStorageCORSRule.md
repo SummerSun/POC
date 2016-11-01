@@ -235,10 +235,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AzureStorageCORSRule](xref:Storage/Azure.Storage/v1.1.6/Get-AzureStorageCORSRule.md)
+[Get-AzureStorageCORSRule](.\Get-AzureStorageCORSRule.md)
 
-[New-AzureStorageContext](xref:Storage/Azure.Storage/v1.1.6/New-AzureStorageContext.md)
+[New-AzureStorageContext](.\New-AzureStorageContext.md)
 
-[Remove-AzureStorageCORSRule](xref:Storage/Azure.Storage/v1.1.6/Remove-AzureStorageCORSRule.md)
+[Remove-AzureStorageCORSRule](.\Remove-AzureStorageCORSRule.md)
 
 

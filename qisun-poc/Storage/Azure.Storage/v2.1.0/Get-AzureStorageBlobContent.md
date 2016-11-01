@@ -339,10 +339,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Set-AzureStorageBlobContent](xref:Storage/Azure.Storage/v2.1.0/Set-AzureStorageBlobContent.md)
+[Set-AzureStorageBlobContent](.\Set-AzureStorageBlobContent.md)
 
-[Get-AzureStorageBlob](xref:Storage/Azure.Storage/v2.1.0/Get-AzureStorageBlob.md)
+[Get-AzureStorageBlob](.\Get-AzureStorageBlob.md)
 
-[Remove-AzureStorageBlob](xref:Storage/Azure.Storage/v2.1.0/Remove-AzureStorageBlob.md)
+[Remove-AzureStorageBlob](.\Remove-AzureStorageBlob.md)
 
 

@@ -258,10 +258,10 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[Get-AzureStorageShare](xref:Storage/Azure.Storage/v2.1.0/Get-AzureStorageShare.md)
+[Get-AzureStorageShare](.\Get-AzureStorageShare.md)
 
-[New-AzureStorageContext](xref:Storage/Azure.Storage/v2.1.0/New-AzureStorageContext.md)
+[New-AzureStorageContext](.\New-AzureStorageContext.md)
 
-[New-AzureStorageShare](xref:Storage/Azure.Storage/v2.1.0/New-AzureStorageShare.md)
+[New-AzureStorageShare](.\New-AzureStorageShare.md)
 
 
