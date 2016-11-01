@@ -9,6 +9,7 @@ updated_at: 10/19/2016 3:31 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/master/Azure%20AD%20Cmdlets/AzureADPreview/v2.0.0/AzureActiveDirectory.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/6a895a73e21f1df9572197497237f3a825ebd518/Azure%20AD%20Cmdlets/AzureADPreview/v2.0.0/AzureActiveDirectory.md
+uid: AzureADPreview/v2.0.0/AzureActiveDirectory.md
 ms.topic: conceptual
 ms.prod: powershell
 ms.service: Azure PowerShell
