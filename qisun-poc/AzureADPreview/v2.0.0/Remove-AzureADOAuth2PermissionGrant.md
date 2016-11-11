@@ -15,6 +15,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
+id: AzureADPreview_v2_0_0_Remove_AzureADOAuth2PermissionGrant_md
 ---
 
 # Remove-AzureADOAuth2PermissionGrant

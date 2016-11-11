@@ -15,6 +15,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
+id: AzureADPreview_v2_0_0_Set_AzureADDevice_md
 ---
 
 # Set-AzureADDevice

@@ -2,8 +2,10 @@
   href: ../AzureADPreview/index.md
   items:
     - name: v2.0.0
-      href: ../AzureADPreview/v2.0.0/Add-AzureADAdministrativeUnitMember.md
+      href: ../AzureADPreview/v2.0.0/AzureActiveDirectory.md
       items:
+        - name: Add-AzureADAdministrativeUnitMember
+          href: ../AzureADPreview/v2.0.0/Add-AzureADAdministrativeUnitMember.md
         - name: Add-AzureADApplicationOwner
           href: ../AzureADPreview/v2.0.0/Add-AzureADApplicationOwner.md
         - name: Add-AzureADApplicationPolicy
@@ -24,8 +26,6 @@
           href: ../AzureADPreview/v2.0.0/Add-AzureADServicePrincipalOwner.md
         - name: Add-AzureADServicePrincipalPolicy
           href: ../AzureADPreview/v2.0.0/Add-AzureADServicePrincipalPolicy.md
-        - name: AzureActiveDirectory
-          href: ../AzureADPreview/v2.0.0/AzureActiveDirectory.md
         - name: Confirm-AzureADDomain
           href: ../AzureADPreview/v2.0.0/Confirm-AzureADDomain.md
         - name: Connect-AzureAD
