@@ -1,5 +1,20 @@
 ---
+updated_at: 11/17/2016 5:11 AM
+ms.date: 11/17/2016
+content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/RMSProtection/vlatest/about_RMSProtection_ADRMS.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/b7d43b98ab5a5f36862a1a736a59fedf09c7c6d5/azureps-cmdlets-docs/RMSProtection/vlatest/about_RMSProtection_ADRMS.md
+uid: RMSProtection/vlatest/about_RMSProtection_ADRMS.md
+ms.topic: conceptual
+ms.prod: powershell
+ms.service: Azure PowerShell
+ms.technology: Azure PowerShell
+author: visual-studio-china
+ms.author: PowerShellHelpPub
+keywords: powershell, cmdlet
+manager: visual-studio-china
+id: RMSProtection_vlatest_about_RMSProtection_ADRMS_md
 ---
+
 # TOPIC
 ## about_RMSProtection_AzureRMS
 
