@@ -11,7 +11,6 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
-id: Storage_Azure_Storage_index_md
 ---
 Docs for PowerShell docs thats publishing on docs.microsoft.com
 

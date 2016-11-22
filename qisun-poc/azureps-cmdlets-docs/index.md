@@ -11,7 +11,6 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
-id: index_md
 ---
 Docs for PowerShell docs thats publishing on docs.microsoft.com
 
