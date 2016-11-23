@@ -16,6 +16,7 @@ ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: cabailey
 id: RMSProtection_vlatest_Clear_RMSAuthentication_md
+open_to_public_contributors: True
 ---
 
 # Clear-RMSAuthentication

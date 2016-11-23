@@ -16,6 +16,7 @@ ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: cabailey
 id: RMSProtection_vlatest_Unprotect_RMSFile_md
+open_to_public_contributors: True
 ---
 
 # Unprotect-RMSFile

@@ -19,6 +19,7 @@ ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: cabailey
 id: RMSProtection_vlatest_RightsProtection_md
+open_to_public_contributors: True
 ---
 
 # RightsProtection Module

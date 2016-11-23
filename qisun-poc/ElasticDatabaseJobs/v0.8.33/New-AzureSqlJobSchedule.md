@@ -15,6 +15,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
+open_to_public_contributors: True
 ---
 
 # New-AzureSqlJobSchedule

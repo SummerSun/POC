@@ -16,6 +16,7 @@ ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: cabailey
 id: RMSProtection_vlatest_Set_RMSServerAuthentication_md
+open_to_public_contributors: True
 ---
 
 # Set-RMSServerAuthentication
