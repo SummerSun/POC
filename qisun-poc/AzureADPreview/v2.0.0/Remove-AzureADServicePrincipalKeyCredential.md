@@ -15,7 +15,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
-id: AzureADPreview_v2_0_0_Remove_AzureADServicePrincipalKeyCredential_md
+open_to_public_contributors: False
 ---
 
 # Remove-AzureADServicePrincipalKeyCredential

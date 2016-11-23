@@ -15,7 +15,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
-id: AzureADPreview_v1_0_0_Get_MsolDirSyncConfiguration_md
+open_to_public_contributors: False
 ---
 
 # Get-MsolDirSyncConfiguration
