@@ -9,13 +9,13 @@ content_git_url: https://github.com/SummerSun/azure-docs-powershell-azuread-int/
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/6a895a73e21f1df9572197497237f3a825ebd518/Azure%20AD%20Cmdlets/AzureADPreview/v2.0.0/Connect-AzureAD.md
 ms.topic: reference
 ms.prod: powershell
-ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: False
+ms.service: Azure PowerShell
 ---
 
 # Connect-AzureAD

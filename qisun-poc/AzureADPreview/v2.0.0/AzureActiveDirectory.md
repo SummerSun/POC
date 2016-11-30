@@ -12,13 +12,13 @@ gitcommit: https://github.com/SummerSun/azure-docs-powershell-azuread-int/blob/6
 uid: AzureADPreview/v2.0.0/AzureActiveDirectory.md
 ms.topic: conceptual
 ms.prod: powershell
-ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: False
+ms.service: Azure PowerShell
 ---
 
 # AzureActiveDirectory Module
