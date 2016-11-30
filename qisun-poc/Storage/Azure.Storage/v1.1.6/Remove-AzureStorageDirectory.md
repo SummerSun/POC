@@ -9,13 +9,13 @@ content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/mas
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Remove-AzureStorageDirectory.md
 ms.topic: reference
 ms.prod: powershell
-ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: True
+ms.service: Storage
 ---
 
 # Remove-AzureStorageDirectory

@@ -11,13 +11,13 @@ gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448d
 uid: Storage/Azure.Storage/v2.1.0/Azure.Storage.md
 ms.topic: conceptual
 ms.prod: powershell
-ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: True
+ms.service: Storage
 ---
 
 # Azure.Storage Module

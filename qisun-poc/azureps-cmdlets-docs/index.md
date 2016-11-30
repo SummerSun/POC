@@ -5,7 +5,6 @@ content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/mas
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/8ba6de9c74a20db2f7bc5f8bbeab11c9002898aa/azureps-cmdlets-docs/index.md
 ms.topic: conceptual
 ms.prod: powershell
-ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 ms.author: PowerShellHelpPub

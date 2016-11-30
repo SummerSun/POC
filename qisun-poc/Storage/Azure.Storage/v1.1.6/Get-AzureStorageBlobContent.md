@@ -9,13 +9,13 @@ content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/mas
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/a5f3e57fae72330037b05dcbdb0a5c22ab891768/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobContent.md
 ms.topic: reference
 ms.prod: powershell
-ms.service: Azure PowerShell
 ms.technology: Azure PowerShell
 author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: True
+ms.service: Storage
 ---
 
 # Get-AzureStorageBlobContent
