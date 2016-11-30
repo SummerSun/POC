@@ -10,7 +10,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
-open_to_public_contributors: True
+open_to_public_contributors: true
 ms.service: Storage
 ---
 Docs for PowerShell docs thats publishing on docs.microsoft.com
