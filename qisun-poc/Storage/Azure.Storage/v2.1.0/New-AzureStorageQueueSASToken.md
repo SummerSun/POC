@@ -15,7 +15,7 @@ ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: True
-ms.service: Storage
+ms.service: Azure PowerShell
 ---
 
 # New-AzureStorageQueueSASToken

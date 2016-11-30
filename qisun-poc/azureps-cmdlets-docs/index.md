@@ -11,6 +11,7 @@ ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
 open_to_public_contributors: True
+ms.service: Azure PowerShell
 ---
 Docs for PowerShell docs thats publishing on docs.microsoft.com
 
