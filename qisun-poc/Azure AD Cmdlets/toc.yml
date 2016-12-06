@@ -1,6 +1,8 @@
 - name: AzureADPreview
   href: ../AzureADPreview/index.md
   items:
+    - name: 1610_Release_Notes
+      href: ../AzureADPreview/1610_Release_Notes.md
     - name: v2.0.0
       href: ../AzureADPreview/v2.0.0/AzureActiveDirectory.md
       items:
