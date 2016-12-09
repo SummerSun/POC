@@ -6,6 +6,7 @@ ms.assetid: 20680AF5-8145-4EAB-94D3-D710A62A062B
 updated_at: 10/19/2016 3:33 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v2.1.0/Set-AzureStorageContainerAcl.md
+original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v2.1.0/Set-AzureStorageContainerAcl.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v2.1.0/Set-AzureStorageContainerAcl.md
 ms.topic: reference
 ms.prod: powershell

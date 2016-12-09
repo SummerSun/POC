@@ -6,6 +6,7 @@ ms.assetid: 17C0253C-C7B6-4C78-92CE-77277E156396
 updated_at: 10/19/2016 3:33 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/New-AzureStorageShare.md
+original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/New-AzureStorageShare.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/New-AzureStorageShare.md
 ms.topic: reference
 ms.prod: powershell

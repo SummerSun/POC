@@ -6,6 +6,7 @@ ms.assetid: 07C8AD4E-7A32-4407-9120-1432126B7376
 updated_at: 10/19/2016 3:33 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/New-AzureStorageShareSASToken.md
+original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/New-AzureStorageShareSASToken.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/New-AzureStorageShareSASToken.md
 ms.topic: reference
 ms.prod: powershell

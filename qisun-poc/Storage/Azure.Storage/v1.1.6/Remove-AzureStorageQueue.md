@@ -6,6 +6,7 @@ ms.assetid: 265824D1-E3D4-4BD4-BC11-466C2100ED3A
 updated_at: 10/19/2016 3:33 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueue.md
+original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueue.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Remove-AzureStorageQueue.md
 ms.topic: reference
 ms.prod: powershell

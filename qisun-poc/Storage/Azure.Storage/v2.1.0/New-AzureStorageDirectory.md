@@ -6,6 +6,7 @@ ms.assetid: 2EEA330C-759D-4DEE-81E9-2E72DE9F707E
 updated_at: 10/19/2016 3:33 AM
 ms.date: 10/19/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v2.1.0/New-AzureStorageDirectory.md
+original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v2.1.0/New-AzureStorageDirectory.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v2.1.0/New-AzureStorageDirectory.md
 ms.topic: reference
 ms.prod: powershell

@@ -6,6 +6,7 @@ ms.assetid: 15371EB7-DA6A-4B26-BBDA-B59A2EEEDB1D
 updated_at: 11/1/2016 3:00 AM
 ms.date: 11/1/2016
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobContent.md
+original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobContent.md
 gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/a5f3e57fae72330037b05dcbdb0a5c22ab891768/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlobContent.md
 ms.topic: reference
 ms.prod: powershell
