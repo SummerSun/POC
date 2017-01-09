@@ -3,11 +3,11 @@ external help file: Microsoft.WindowsAzure.Commands.Storage.dll-Help.xml
 online version: .\Get-AzureStorageBlobContent.md
 schema: 2.0.0
 ms.assetid: 74BC4494-BE41-4493-9939-E51E61DD09E6
-updated_at: 10/19/2016 3:33 AM
-ms.date: 10/19/2016
+updated_at: 1/9/2017 8:20 AM
+ms.date: 1/9/2017
 content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
 original_content_git_url: https://github.com/SummerSun/azure-docs-powershell-int/blob/master/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
-gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/c0d1e448da01261236e9ece01ca5c2a98effbf31/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
+gitcommit: https://github.com/SummerSun/azure-docs-powershell-int/blob/bde4482742a546924e8e4c9ddb22ca95a7441173/azureps-cmdlets-docs/Storage/Azure.Storage/v1.1.6/Get-AzureStorageBlob.md
 ms.topic: reference
 ms.prod: powershell
 ms.technology: Azure PowerShell
@@ -15,7 +15,7 @@ author: visual-studio-china
 ms.author: PowerShellHelpPub
 keywords: powershell, cmdlet
 manager: visual-studio-china
-open_to_public_contributors: true
+open_to_public_contributors: True
 ms.service: Storage
 ---
 
@@ -55,6 +55,9 @@ PS C:\>Get-AzureStorageBlob -Container "ContainerName" -Blob blob*
 ```
 
 This command uses a blob name and wildcard to get a blob.
+
+Specifies a **PsApiManagementContext** object.
+This parameter is required.
 
 ### Example 2: Get a blob by using the pipeline
 ```
@@ -103,6 +106,9 @@ The final command uses the **Echo** command to display the total.
 Specifies a name or name pattern, which can be used for a wildcard search.
 If no blob name is specified, the cmdlet lists all the blobs in the specified container.
 If a value is specified for this parameter, the cmdlet lists all blobs with names that match this parameter.
+
+Specifies a **PsApiManagementContext** object.
+This parameter is required.
 
 ```yaml
 Type: String
